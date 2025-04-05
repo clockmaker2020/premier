@@ -16,12 +16,6 @@ os.makedirs(DATA_DIR, exist_ok=True)  # ✅ 폴더가 없으면 생성
 print(f"📂 데이터 폴더 경로: {DATA_DIR}")
 
 
-# ✅ 로컬 절대 경로 사용 (예: 사용자 Downloads 폴더)
-#DATA_DIR = os.path.join(os.path.expanduser("~"), "Downloads", "data")
-#os.makedirs(DATA_DIR, exist_ok=True)
-#save_path = os.path.join(DATA_DIR, "premier_standings_kor.json")
-#print(f"📂 데이터 폴더 경로: {DATA_DIR}")
-
 # ✅ 팀명 변환 (한글)
 TEAM_NAME_MAPPING = {
     "Nottingham Forest": "노팅엄 포레스트",
