@@ -136,6 +136,12 @@
             "시간": 72
         },
         {
+            "이벤트 종류": "subst",
+            "선수": "B. Gruda",
+            "팀": "Brighton",
+            "시간": 72
+        },
+        {
             "이벤트 종류": "Card",
             "선수": "E. Nketiah",
             "팀": "Crystal Palace",
@@ -158,6 +164,36 @@
             "선수": "W. Hughes",
             "팀": "Crystal Palace",
             "시간": 82
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Devenny",
+            "팀": "Crystal Palace",
+            "시간": 83
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Y. Ayari",
+            "팀": "Brighton",
+            "시간": 85
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Ward",
+            "팀": "Crystal Palace",
+            "시간": 90
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "M. Guehi",
+            "팀": "Crystal Palace",
+            "시간": 90
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "M. Guehi",
+            "팀": "Crystal Palace",
+            "시간": 90
         }
     ],
     "경기 통계": [
