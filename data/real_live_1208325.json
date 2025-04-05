@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 31",
-    "심판": "A. Taylor",
+    "심판": "Anthony Taylor, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Crystal Palace",
+            "포메이션": "3-4-2-1",
+            "선발 선수": [
+                "Dean Henderson",
+                "Maxence Lacroix",
+                "Marc Guéhi",
+                "Jefferson Lerma",
+                "Daniel Muñoz",
+                "Adam Wharton",
+                "Daichi Kamada",
+                "Tyrick Mitchell",
+                "Ismaïla Sarr",
+                "Eberechi Eze",
+                "Jean-Philippe Mateta"
+            ],
+            "교체 선수": [
+                "Matt Turner",
+                "Joel Ward",
+                "Nathaniel Clyne",
+                "Ben Chilwell",
+                "Will Hughes",
+                "Romain Esse",
+                "Justin Devenny",
+                "Edward Nketiah",
+                "Matheus França"
+            ]
+        },
+        {
+            "팀": "Brighton",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Bart Verbruggen",
+                "Jack Hinshelwood",
+                "Jan Paul van Hecke",
+                "Lewis Dunk",
+                "Pervis Estupiñán",
+                "Diego Gómez",
+                "Carlos Baleba",
+                "Yankuba Minteh",
+                "Matt O'Riley",
+                "Kaoru Mitoma",
+                "Danny Welbeck"
+            ],
+            "교체 선수": [
+                "Carl Rushworth",
+                "Eiran Joe Cashin",
+                "Charlie Tasker",
+                "Solly March",
+                "Brajan Gruda",
+                "Simon Adingra",
+                "Yasin Ayari",
+                "Mats Wieffer",
+                "João Pedro"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
