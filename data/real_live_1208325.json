@@ -64,6 +64,12 @@
             "선수": "J. Mateta",
             "팀": "Crystal Palace",
             "시간": 3
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "J. P. van Hecke",
+            "팀": "Brighton",
+            "시간": 25
         }
     ],
     "경기 통계": [
