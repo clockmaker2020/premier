@@ -134,6 +134,30 @@
             "선수": "S. March",
             "팀": "Brighton",
             "시간": 72
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "E. Nketiah",
+            "팀": "Crystal Palace",
+            "시간": 78
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "E. Nketiah",
+            "팀": "Crystal Palace",
+            "시간": 78
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "S. March",
+            "팀": "Brighton",
+            "시간": 81
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "W. Hughes",
+            "팀": "Crystal Palace",
+            "시간": 82
         }
     ],
     "경기 통계": [
