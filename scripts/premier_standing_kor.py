@@ -133,20 +133,36 @@ for team_name, team_id in TEAM_IDS.items():
 
 # ✅ 한글 이름 적용 및 결과 저장
 converted_games = []
+
+# ✅ 팀명 → 순위 매핑 생성
+team_rank_map = {team["팀명"]: team["순위"] for team in output["순위표"]}
+
 for game in latest_games.values():
-    fixture_date = game["fixture"]["date"][:10]
+    fixture_datetime = game["fixture"]["date"]
+    fixture_date = fixture_datetime[:10]
+    fixture_time = fixture_datetime[11:16]  # 'HH:MM' 형식 추출
+    
     home = TEAM_NAME_MAPPING.get(game["teams"]["home"]["name"], game["teams"]["home"]["name"])
     away = TEAM_NAME_MAPPING.get(game["teams"]["away"]["name"], game["teams"]["away"]["name"])
     score = f"{game['goals']['home']} - {game['goals']['away']}"
 
+
     converted_games.append({
-        "날짜": fixture_date,
-        "홈팀": home,
-        "스코어": score,
-        "원정팀": away
+        "date": fixture_date,
+        "time": "21:00",
+        "home_team": home,
+        "away_team": away,
+        "score": score,
+        "home_team_rank": team_rank_map.get(home),
+        "away_team_rank": team_rank_map.get(away),
+        "status": "Match Finished",
+        "blog_url": f"https://example.com/preview/{home.lower().replace(' ', '-')}-vs-{away.lower().replace(' ', '-')}",
+        "home_recent_url": f"https://example.com/recent/{home.lower().replace(' ', '-')}",
+        "away_recent_url": f"https://example.com/recent/{away.lower().replace(' ', '-')}"
     })
 
 output["팀별 최종 경기"] = converted_games
+output["matches"] = converted_games  # ✅ JS 렌더링 호환용 추가
 print(f"✅ 팀별 최종 경기 {len(converted_games)}건 추가 완료")
 
 # ✅ 저장 경로 지정
