@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 31",
-    "심판": "T. Robinson",
+    "심판": "Tim Robinson, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "West Ham",
+            "포메이션": "3-5-2",
+            "선발 선수": [
+                "Alphonse Aréola",
+                "Jean-Clair Todibo",
+                "Max Kilman",
+                "Edson Álvarez",
+                "Aaron Wan-Bissaka",
+                "Lucas Paquetá",
+                "James Ward-Prowse",
+                "Tomáš Souček",
+                "Oliver Scarles",
+                "Mohammed Kudus",
+                "Jarrod Bowen"
+            ],
+            "교체 선수": [
+                "Łukasz Fabiański",
+                "Vladimír Coufal",
+                "Konstantinos Mavropanos",
+                "Emerson Palmieri",
+                "Carlos Soler",
+                "Luis Guilherme",
+                "Guido Rodríguez",
+                "Niclas Füllkrug",
+                "Evan Ferguson"
+            ]
+        },
+        {
+            "팀": "Bournemouth",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Kepa Arrizabalaga",
+                "Adam Smith",
+                "Illia Zabarnyi",
+                "Dean Huijsen",
+                "Miloš Kerkez",
+                "Tyler Adams",
+                "Lewis Cook",
+                "Dango Ouattara",
+                "Alex Scott",
+                "Antoine Semenyo",
+                "Evanilson"
+            ],
+            "교체 선수": [
+                "Will Dennis",
+                "Marcos Senesi",
+                "Julio Soler",
+                "Julián Araujo",
+                "James Hill",
+                "David Brooks",
+                "Ben Winterburn",
+                "Daniel Jebbison",
+                "Zain Silcott-Duberry"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
