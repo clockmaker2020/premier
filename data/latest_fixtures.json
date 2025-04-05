@@ -141,25 +141,25 @@
   },
   {
     "fixture": {
-      "id": 1208313,
-      "referee": "Robert Jones, England",
+      "id": 1208332,
+      "referee": "Tim Robinson, England",
       "timezone": "UTC",
-      "date": "2025-04-02T18:45:00+00:00",
-      "timestamp": 1743619500,
+      "date": "2025-04-05T14:00:00+00:00",
+      "timestamp": 1743861600,
       "periods": {
-        "first": 1743619500,
-        "second": 1743623100
+        "first": 1743861600,
+        "second": 1743865200
       },
       "venue": {
-        "id": 504,
-        "name": "Vitality Stadium",
-        "city": "Bournemouth, Dorset"
+        "id": 598,
+        "name": "London Stadium",
+        "city": "London"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 8
+        "extra": 7
       }
     },
     "league": {
@@ -169,25 +169,25 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 30",
+      "round": "Regular Season - 31",
       "standings": true
     },
     "teams": {
       "home": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media.api-sports.io/football/teams/48.png",
+        "winner": null
+      },
+      "away": {
         "id": 35,
         "name": "Bournemouth",
         "logo": "https://media.api-sports.io/football/teams/35.png",
-        "winner": false
-      },
-      "away": {
-        "id": 57,
-        "name": "Ipswich",
-        "logo": "https://media.api-sports.io/football/teams/57.png",
-        "winner": true
+        "winner": null
       }
     },
     "goals": {
-      "home": 1,
+      "home": 2,
       "away": 2
     },
     "score": {
@@ -196,7 +196,7 @@
         "away": 1
       },
       "fulltime": {
-        "home": 1,
+        "home": 2,
         "away": 2
       },
       "extratime": {
@@ -673,76 +673,6 @@
         "id": 33,
         "name": "Manchester United",
         "logo": "https://media.api-sports.io/football/teams/33.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1208317,
-      "referee": "Harrington, Tony, England",
-      "timezone": "UTC",
-      "date": "2025-04-01T18:45:00+00:00",
-      "timestamp": 1743533100,
-      "periods": {
-        "first": 1743533100,
-        "second": 1743536700
-      },
-      "venue": {
-        "id": 600,
-        "name": "Molineux Stadium",
-        "city": "Wolverhampton, West Midlands"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 6
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 30",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 39,
-        "name": "Wolves",
-        "logo": "https://media.api-sports.io/football/teams/39.png",
-        "winner": true
-      },
-      "away": {
-        "id": 48,
-        "name": "West Ham",
-        "logo": "https://media.api-sports.io/football/teams/48.png",
         "winner": false
       }
     },
