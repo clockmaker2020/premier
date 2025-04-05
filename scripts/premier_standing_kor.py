@@ -2,6 +2,7 @@ import os
 import json
 import requests
 from datetime import datetime
+from datetime import timedelta
 
 # ✅ API 설정
 API_KEY = "0776a35eb1067086efe59bb7f93c6498"
@@ -137,10 +138,21 @@ converted_games = []
 # ✅ 팀명 → 순위 매핑 생성
 team_rank_map = {team["팀명"]: team["순위"] for team in output["순위표"]}
 
+# ✅ 필터 범위 (한국시간 기준)
+april_start = datetime(2025, 4, 1)
+april_end = datetime(2025, 4, 30, 23, 59, 59)
+
 for game in latest_games.values():
-    fixture_datetime = game["fixture"]["date"]
-    fixture_date = fixture_datetime[:10]
-    fixture_time = fixture_datetime[11:16]  # 'HH:MM' 형식 추출
+    # UTC -> 한국시간
+    fixture_datetime_utc = datetime.fromisoformat(game["fixture"]["date"].replace("Z", "+00:00"))
+    fixture_datetime_kst = fixture_datetime_utc + timedelta(hours=9)
+
+    # 범위 필터링
+    if not (april_start <= fixture_datetime_kst <= april_end):
+        continue
+
+    fixture_date = fixture_datetime_kst.strftime("%Y-%m-%d")
+    fixture_time = fixture_datetime_kst.strftime("%H:%M")
     
     home = TEAM_NAME_MAPPING.get(game["teams"]["home"]["name"], game["teams"]["home"]["name"])
     away = TEAM_NAME_MAPPING.get(game["teams"]["away"]["name"], game["teams"]["away"]["name"])
