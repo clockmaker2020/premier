@@ -87,7 +87,7 @@
         {
             "팀": "Everton",
             "항목": "Fouls",
-            "수치": 0
+            "수치": 2
         },
         {
             "팀": "Everton",
@@ -102,7 +102,7 @@
         {
             "팀": "Everton",
             "항목": "Ball Possession",
-            "수치": "100%"
+            "수치": "64%"
         },
         {
             "팀": "Everton",
@@ -122,22 +122,22 @@
         {
             "팀": "Everton",
             "항목": "Total passes",
-            "수치": 1
+            "수치": 22
         },
         {
             "팀": "Everton",
             "항목": "Passes accurate",
-            "수치": 1
+            "수치": 16
         },
         {
             "팀": "Everton",
             "항목": "Passes %",
-            "수치": "100%"
+            "수치": "73%"
         },
         {
             "팀": "Everton",
             "항목": "expected_goals",
-            "수치": null
+            "수치": "0.00"
         },
         {
             "팀": "Everton",
@@ -157,17 +157,17 @@
         {
             "팀": "Arsenal",
             "항목": "Total Shots",
-            "수치": 0
+            "수치": 1
         },
         {
             "팀": "Arsenal",
             "항목": "Blocked Shots",
-            "수치": 0
+            "수치": 1
         },
         {
             "팀": "Arsenal",
             "항목": "Shots insidebox",
-            "수치": 0
+            "수치": 1
         },
         {
             "팀": "Arsenal",
@@ -177,7 +177,7 @@
         {
             "팀": "Arsenal",
             "항목": "Fouls",
-            "수치": 0
+            "수치": 1
         },
         {
             "팀": "Arsenal",
@@ -192,7 +192,7 @@
         {
             "팀": "Arsenal",
             "항목": "Ball Possession",
-            "수치": "0%"
+            "수치": "36%"
         },
         {
             "팀": "Arsenal",
@@ -212,22 +212,22 @@
         {
             "팀": "Arsenal",
             "항목": "Total passes",
-            "수치": 0
+            "수치": 11
         },
         {
             "팀": "Arsenal",
             "항목": "Passes accurate",
-            "수치": 0
+            "수치": 8
         },
         {
             "팀": "Arsenal",
             "항목": "Passes %",
-            "수치": null
+            "수치": "73%"
         },
         {
             "팀": "Arsenal",
             "항목": "expected_goals",
-            "수치": null
+            "수치": "0.28"
         },
         {
             "팀": "Arsenal",
@@ -301,7 +301,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 1,
                         "position": "G",
                         "rating": null,
@@ -320,7 +320,7 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 3,
                         "key": null,
                         "accuracy": null
                     },
@@ -363,7 +363,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 15,
                         "position": "D",
                         "rating": null,
@@ -382,9 +382,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 2,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "2"
                     },
                     "tackles": {
                         "total": null,
@@ -425,7 +425,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 6,
                         "position": "D",
                         "rating": null,
@@ -444,9 +444,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 2,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "1"
                     },
                     "tackles": {
                         "total": null,
@@ -487,7 +487,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 32,
                         "position": "D",
                         "rating": null,
@@ -506,9 +506,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 2,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "2"
                     },
                     "tackles": {
                         "total": null,
@@ -549,7 +549,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 2,
                         "position": "D",
                         "rating": null,
@@ -568,9 +568,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 3,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "3"
                     },
                     "tackles": {
                         "total": null,
@@ -578,7 +578,7 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": null,
+                        "total": 1,
                         "won": null
                     },
                     "dribbles": {
@@ -588,7 +588,7 @@
                     },
                     "fouls": {
                         "drawn": null,
-                        "committed": null
+                        "committed": 1
                     },
                     "cards": {
                         "yellow": 0,
@@ -611,7 +611,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 27,
                         "position": "M",
                         "rating": null,
@@ -630,9 +630,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 4,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "4"
                     },
                     "tackles": {
                         "total": null,
@@ -673,7 +673,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 42,
                         "position": "M",
                         "rating": null,
@@ -698,7 +698,7 @@
                     },
                     "tackles": {
                         "total": null,
-                        "blocks": null,
+                        "blocks": 1,
                         "interceptions": null
                     },
                     "duels": {
@@ -735,7 +735,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 11,
                         "position": "M",
                         "rating": null,
@@ -754,9 +754,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 4,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "2"
                     },
                     "tackles": {
                         "total": null,
@@ -764,8 +764,8 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 1,
+                        "won": 1
                     },
                     "dribbles": {
                         "attempts": null,
@@ -773,7 +773,7 @@
                         "past": null
                     },
                     "fouls": {
-                        "drawn": null,
+                        "drawn": 1,
                         "committed": null
                     },
                     "cards": {
@@ -797,7 +797,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 16,
                         "position": "M",
                         "rating": null,
@@ -816,9 +816,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 1,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "1"
                     },
                     "tackles": {
                         "total": null,
@@ -859,7 +859,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 10,
                         "position": "M",
                         "rating": null,
@@ -921,7 +921,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 14,
                         "position": "F",
                         "rating": null,
@@ -950,7 +950,7 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": null,
+                        "total": 1,
                         "won": null
                     },
                     "dribbles": {
@@ -960,7 +960,7 @@
                     },
                     "fouls": {
                         "drawn": null,
-                        "committed": null
+                        "committed": 1
                     },
                     "cards": {
                         "yellow": 0,
@@ -1541,7 +1541,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 22,
                         "position": "G",
                         "rating": null,
@@ -1603,7 +1603,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 4,
                         "position": "D",
                         "rating": null,
@@ -1622,9 +1622,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
-                        "key": null,
-                        "accuracy": null
+                        "total": 1,
+                        "key": 1,
+                        "accuracy": "1"
                     },
                     "tackles": {
                         "total": null,
@@ -1665,7 +1665,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 2,
                         "position": "D",
                         "rating": null,
@@ -1684,9 +1684,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 3,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "2"
                     },
                     "tackles": {
                         "total": null,
@@ -1694,8 +1694,8 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 1,
+                        "won": 1
                     },
                     "dribbles": {
                         "attempts": null,
@@ -1703,7 +1703,7 @@
                         "past": null
                     },
                     "fouls": {
-                        "drawn": null,
+                        "drawn": 1,
                         "committed": null
                     },
                     "cards": {
@@ -1727,7 +1727,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 15,
                         "position": "D",
                         "rating": null,
@@ -1746,9 +1746,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 1,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "1"
                     },
                     "tackles": {
                         "total": null,
@@ -1789,7 +1789,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 49,
                         "position": "D",
                         "rating": null,
@@ -1808,9 +1808,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 1,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "1"
                     },
                     "tackles": {
                         "total": null,
@@ -1851,7 +1851,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 23,
                         "position": "M",
                         "rating": null,
@@ -1870,9 +1870,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 2,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "1"
                     },
                     "tackles": {
                         "total": null,
@@ -1913,7 +1913,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 20,
                         "position": "M",
                         "rating": null,
@@ -1975,7 +1975,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 41,
                         "position": "M",
                         "rating": null,
@@ -2037,7 +2037,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 53,
                         "position": "F",
                         "rating": null,
@@ -2056,9 +2056,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 1,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "1"
                     },
                     "tackles": {
                         "total": null,
@@ -2066,8 +2066,8 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 1,
+                        "won": 1
                     },
                     "dribbles": {
                         "attempts": null,
@@ -2075,7 +2075,7 @@
                         "past": null
                     },
                     "fouls": {
-                        "drawn": null,
+                        "drawn": 1,
                         "committed": null
                     },
                     "cards": {
@@ -2099,7 +2099,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 19,
                         "position": "F",
                         "rating": null,
@@ -2118,9 +2118,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 1,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "1"
                     },
                     "tackles": {
                         "total": null,
@@ -2161,7 +2161,7 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 0,
+                        "minutes": 5,
                         "number": 30,
                         "position": "F",
                         "rating": null,
@@ -2180,7 +2180,7 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 1,
                         "key": null,
                         "accuracy": null
                     },
@@ -2190,7 +2190,7 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": null,
+                        "total": 1,
                         "won": null
                     },
                     "dribbles": {
@@ -2200,7 +2200,7 @@
                     },
                     "fouls": {
                         "drawn": null,
-                        "committed": null
+                        "committed": 1
                     },
                     "cards": {
                         "yellow": 0,
