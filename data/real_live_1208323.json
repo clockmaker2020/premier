@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Aston Villa",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Emiliano Martínez",
+                "Andrés García",
+                "Axel Disasi",
+                "Tyrone Mings",
+                "Ian Maatsen",
+                "Amadou Onana",
+                "Youri Tielemans",
+                "Donyell Malen",
+                "Marco Asensio",
+                "Morgan Rogers",
+                "Ollie Watkins"
+            ],
+            "교체 선수": [
+                "Robin Olsen",
+                "Matty Cash",
+                "Ezri Konsa",
+                "Pau Torres",
+                "Lucas Digne",
+                "John McGinn",
+                "Boubacar Kamara",
+                "Marcus Rashford",
+                "Jacob Ramsey"
+            ]
+        },
+        {
+            "팀": "Nottingham Forest",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Matz Sels",
+                "Neco Williams",
+                "Nikola Milenković",
+                "Murillo",
+                "Morato",
+                "Ryan Yates",
+                "Elliot Anderson",
+                "Nicolás Domínguez",
+                "Morgan Gibbs-White",
+                "Anthony Elanga",
+                "Callum Hudson-Odoi"
+            ],
+            "교체 선수": [
+                "Carlos Miguel",
+                "Harry Toffolo",
+                "Willy Boly",
+                "Zach Abbott",
+                "Ibrahim Sangaré",
+                "Eric da Silva Moreira",
+                "Danilo",
+                "Jota Silva",
+                "Ramón Sosa"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
