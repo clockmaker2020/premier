@@ -244,24 +244,24 @@
         }
     ],
     "최근 경기": {
-        "날짜": "2025-04-03",
-        "홈팀": "첼시",
-        "스코어": "1 - 0",
-        "원정팀": "토트넘"
+        "날짜": "2025-04-05",
+        "홈팀": "에버턴",
+        "스코어": "1 - 1",
+        "원정팀": "아스널"
     },
     "팀별 최종 경기": [
         {
-            "date": "2025-04-02",
-            "time": "03:45",
-            "home_team": "아스널",
-            "away_team": "풀럼",
-            "score": "2 - 1",
-            "home_team_rank": 2,
-            "away_team_rank": 9,
+            "date": "2025-04-05",
+            "time": "20:30",
+            "home_team": "에버턴",
+            "away_team": "아스널",
+            "score": "1 - 1",
+            "home_team_rank": 15,
+            "away_team_rank": 2,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/아스널-vs-풀럼",
-            "home_recent_url": "https://example.com/recent/아스널",
-            "away_recent_url": "https://example.com/recent/풀럼"
+            "blog_url": "https://example.com/preview/에버턴-vs-아스널",
+            "home_recent_url": "https://example.com/recent/에버턴",
+            "away_recent_url": "https://example.com/recent/아스널"
         },
         {
             "date": "2025-04-03",
@@ -327,6 +327,19 @@
             "blog_url": "https://example.com/preview/사우샘프턴-vs-크리스털-팰리스",
             "home_recent_url": "https://example.com/recent/사우샘프턴",
             "away_recent_url": "https://example.com/recent/크리스털-팰리스"
+        },
+        {
+            "date": "2025-04-02",
+            "time": "03:45",
+            "home_team": "아스널",
+            "away_team": "풀럼",
+            "score": "2 - 1",
+            "home_team_rank": 2,
+            "away_team_rank": 9,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/아스널-vs-풀럼",
+            "home_recent_url": "https://example.com/recent/아스널",
+            "away_recent_url": "https://example.com/recent/풀럼"
         },
         {
             "date": "2025-04-03",
@@ -383,17 +396,17 @@
     ],
     "matches": [
         {
-            "date": "2025-04-02",
-            "time": "03:45",
-            "home_team": "아스널",
-            "away_team": "풀럼",
-            "score": "2 - 1",
-            "home_team_rank": 2,
-            "away_team_rank": 9,
+            "date": "2025-04-05",
+            "time": "20:30",
+            "home_team": "에버턴",
+            "away_team": "아스널",
+            "score": "1 - 1",
+            "home_team_rank": 15,
+            "away_team_rank": 2,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/아스널-vs-풀럼",
-            "home_recent_url": "https://example.com/recent/아스널",
-            "away_recent_url": "https://example.com/recent/풀럼"
+            "blog_url": "https://example.com/preview/에버턴-vs-아스널",
+            "home_recent_url": "https://example.com/recent/에버턴",
+            "away_recent_url": "https://example.com/recent/아스널"
         },
         {
             "date": "2025-04-03",
@@ -459,6 +472,19 @@
             "blog_url": "https://example.com/preview/사우샘프턴-vs-크리스털-팰리스",
             "home_recent_url": "https://example.com/recent/사우샘프턴",
             "away_recent_url": "https://example.com/recent/크리스털-팰리스"
+        },
+        {
+            "date": "2025-04-02",
+            "time": "03:45",
+            "home_team": "아스널",
+            "away_team": "풀럼",
+            "score": "2 - 1",
+            "home_team_rank": 2,
+            "away_team_rank": 9,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/아스널-vs-풀럼",
+            "home_recent_url": "https://example.com/recent/아스널",
+            "away_recent_url": "https://example.com/recent/풀럼"
         },
         {
             "date": "2025-04-03",
