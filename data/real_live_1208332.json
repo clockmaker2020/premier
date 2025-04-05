@@ -3,7 +3,7 @@
     "경기 날짜": "2025-04-05 23:00:00",
     "경기장": "London Stadium",
     "도시": "London",
-    "경기 상태": "Not Started",
+    "경기 상태": "Match Finished",
     "리그": "Premier League",
     "라운드": "Regular Season - 31",
     "심판": "Tim Robinson, England",
@@ -21,71 +21,376 @@
     "팀 순위": {
         "홈팀": {
             "팀": "West Ham",
-            "순위": 16,
-            "승점": 34,
-            "경기수": 30,
-            "승/무/패": "9/7/14",
-            "승률": "30.0%",
+            "순위": 15,
+            "승점": 35,
+            "경기수": 31,
+            "승/무/패": "9/8/14",
+            "승률": "29.0%",
             "득/실": "33 / 50",
             "득실차": -17,
-            "평균 득점": 1.1,
-            "평균 실점": 1.67,
+            "평균 득점": 1.06,
+            "평균 실점": 1.61,
             "최근 5경기": "LDLWW",
             "홈 성적": "5승 2무 8패",
             "원정 성적": "4승 5무 6패"
         },
         "원정팀": {
             "팀": "Bournemouth",
-            "순위": 10,
-            "승점": 44,
-            "경기수": 30,
-            "승/무/패": "12/8/10",
-            "승률": "40.0%",
+            "순위": 9,
+            "승점": 45,
+            "경기수": 31,
+            "승/무/패": "12/9/10",
+            "승률": "38.7%",
             "득/실": "49 / 38",
             "득실차": 11,
-            "평균 득점": 1.63,
-            "평균 실점": 1.27,
+            "평균 득점": 1.58,
+            "평균 실점": 1.23,
             "최근 5경기": "LLDLL",
             "홈 성적": "6승 3무 6패",
-            "원정 성적": "6승 5무 4패"
+            "원정 성적": "6승 6무 4패"
         }
     },
-    "현재 점수": "None - None",
-    "득점 기록": [],
-    "경기 이벤트": [],
+    "현재 점수": "2 - 2",
+    "득점 기록": [
+        {
+            "시간": 38,
+            "선수": "Evanilson",
+            "팀": "Bournemouth"
+        },
+        {
+            "시간": 61,
+            "선수": "N. Fullkrug",
+            "팀": "West Ham"
+        },
+        {
+            "시간": 68,
+            "선수": "J. Bowen",
+            "팀": "West Ham"
+        },
+        {
+            "시간": 79,
+            "선수": "Evanilson",
+            "팀": "Bournemouth"
+        }
+    ],
+    "경기 이벤트": [
+        {
+            "이벤트 종류": "Card",
+            "선수": "L. Cook",
+            "팀": "Bournemouth",
+            "시간": 28
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "Evanilson",
+            "팀": "Bournemouth",
+            "시간": 38
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Emerson",
+            "팀": "West Ham",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "N. Fullkrug",
+            "팀": "West Ham",
+            "시간": 54
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "C. Soler",
+            "팀": "West Ham",
+            "시간": 54
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "A. Smith",
+            "팀": "Bournemouth",
+            "시간": 60
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "N. Fullkrug",
+            "팀": "West Ham",
+            "시간": 61
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Hill",
+            "팀": "Bournemouth",
+            "시간": 67
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "D. Brooks",
+            "팀": "Bournemouth",
+            "시간": 67
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "J. Bowen",
+            "팀": "West Ham",
+            "시간": 68
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "B. Winterburn",
+            "팀": "Bournemouth",
+            "시간": 78
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Senesi",
+            "팀": "Bournemouth",
+            "시간": 78
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "J. Ward-Prowse",
+            "팀": "West Ham",
+            "시간": 78
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "Evanilson",
+            "팀": "Bournemouth",
+            "시간": 79
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "M. Kudus",
+            "팀": "West Ham",
+            "시간": 84
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "K. Mavropanos",
+            "팀": "West Ham",
+            "시간": 84
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Luis Guilherme",
+            "팀": "West Ham",
+            "시간": 84
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "D. Jebbison",
+            "팀": "Bournemouth",
+            "시간": 90
+        }
+    ],
     "경기 통계": [
         {
-            "팀": "N/A",
-            "항목": "N/A",
-            "수치": "N/A"
+            "팀": "West Ham",
+            "항목": "Shots on Goal",
+            "수치": 3
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Shots off Goal",
+            "수치": 5
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Total Shots",
+            "수치": 9
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Blocked Shots",
+            "수치": 1
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Shots insidebox",
+            "수치": 6
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Shots outsidebox",
+            "수치": 3
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Fouls",
+            "수치": 13
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Corner Kicks",
+            "수치": 4
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Offsides",
+            "수치": 4
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Ball Possession",
+            "수치": "56%"
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Yellow Cards",
+            "수치": 2
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Red Cards",
+            "수치": null
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Goalkeeper Saves",
+            "수치": 3
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Total passes",
+            "수치": 469
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Passes accurate",
+            "수치": 370
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Passes %",
+            "수치": "79%"
+        },
+        {
+            "팀": "West Ham",
+            "항목": "expected_goals",
+            "수치": "0.65"
+        },
+        {
+            "팀": "West Ham",
+            "항목": "goals_prevented",
+            "수치": 0
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Shots on Goal",
+            "수치": 4
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Shots off Goal",
+            "수치": 4
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Total Shots",
+            "수치": 11
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Blocked Shots",
+            "수치": 3
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Shots insidebox",
+            "수치": 8
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Shots outsidebox",
+            "수치": 3
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Fouls",
+            "수치": 13
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Corner Kicks",
+            "수치": 7
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Offsides",
+            "수치": 1
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Ball Possession",
+            "수치": "44%"
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Yellow Cards",
+            "수치": 2
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Red Cards",
+            "수치": null
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Goalkeeper Saves",
+            "수치": 2
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Total passes",
+            "수치": 353
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Passes accurate",
+            "수치": 260
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "Passes %",
+            "수치": "74%"
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "expected_goals",
+            "수치": "2.15"
+        },
+        {
+            "팀": "Bournemouth",
+            "항목": "goals_prevented",
+            "수치": 0
         }
     ],
     "라인업": [
         {
             "팀": "West Ham",
-            "포메이션": "3-5-2",
+            "포메이션": "4-2-3-1",
             "선발 선수": [
                 "Alphonse Aréola",
+                "Aaron Wan-Bissaka",
                 "Jean-Clair Todibo",
                 "Max Kilman",
-                "Edson Álvarez",
-                "Aaron Wan-Bissaka",
-                "Lucas Paquetá",
-                "James Ward-Prowse",
-                "Tomáš Souček",
                 "Oliver Scarles",
+                "Edson Álvarez",
+                "James Ward-Prowse",
                 "Mohammed Kudus",
+                "Tomáš Souček",
+                "Lucas Paquetá",
                 "Jarrod Bowen"
             ],
             "교체 선수": [
-                "Łukasz Fabiański",
-                "Vladimír Coufal",
-                "Konstantinos Mavropanos",
                 "Emerson Palmieri",
                 "Carlos Soler",
-                "Luis Guilherme",
-                "Guido Rodríguez",
                 "Niclas Füllkrug",
+                "Konstantinos Mavropanos",
+                "Luis Guilherme",
+                "Łukasz Fabiański",
+                "Vladimír Coufal",
+                "Guido Rodríguez",
                 "Evan Ferguson"
             ]
         },
@@ -98,25 +403,2506 @@
                 "Illia Zabarnyi",
                 "Dean Huijsen",
                 "Miloš Kerkez",
-                "Tyler Adams",
                 "Lewis Cook",
-                "Dango Ouattara",
-                "Alex Scott",
+                "Tyler Adams",
                 "Antoine Semenyo",
+                "Alex Scott",
+                "Dango Ouattara",
                 "Evanilson"
             ],
             "교체 선수": [
-                "Will Dennis",
-                "Marcos Senesi",
-                "Julio Soler",
-                "Julián Araujo",
                 "James Hill",
                 "David Brooks",
+                "Marcos Senesi",
                 "Ben Winterburn",
                 "Daniel Jebbison",
+                "Will Dennis",
+                "Julio Soler",
+                "Julián Araujo",
                 "Zain Silcott-Duberry"
             ]
         }
     ],
-    "선수별 통계": []
+    "선수별 통계": [
+        {
+            "선수": "Alphonse Aréola",
+            "팀": "West Ham",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 23,
+                        "position": "G",
+                        "rating": "5.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 2,
+                        "assists": 0,
+                        "saves": 3
+                    },
+                    "passes": {
+                        "total": 37,
+                        "key": null,
+                        "accuracy": "20"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Aaron Wan-Bissaka",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 29,
+                        "position": "D",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 46,
+                        "key": null,
+                        "accuracy": "37"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Jean-Clair Todibo",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 84,
+                        "number": 25,
+                        "position": "D",
+                        "rating": "6.7",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 56,
+                        "key": null,
+                        "accuracy": "44"
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Max Kilman",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 26,
+                        "position": "D",
+                        "rating": "6.7",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 39,
+                        "key": null,
+                        "accuracy": "31"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 10,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Oliver Scarles",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 45,
+                        "number": 57,
+                        "position": "D",
+                        "rating": "6.3",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 23,
+                        "key": null,
+                        "accuracy": "23"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Edson Álvarez",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 54,
+                        "number": 19,
+                        "position": "M",
+                        "rating": "6.7",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 43,
+                        "key": null,
+                        "accuracy": "39"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "James Ward-Prowse",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 8,
+                        "position": "M",
+                        "rating": "7.5",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 60,
+                        "key": 2,
+                        "accuracy": "53"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Mohammed Kudus",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 84,
+                        "number": 14,
+                        "position": "M",
+                        "rating": "6.2",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": 1,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 18,
+                        "key": 3,
+                        "accuracy": "16"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 20,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 9,
+                        "success": 3,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 5
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Tomáš Souček",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 54,
+                        "number": 28,
+                        "position": "M",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": 2,
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 19,
+                        "key": null,
+                        "accuracy": "13"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Lucas Paquetá",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 10,
+                        "position": "M",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 55,
+                        "key": 1,
+                        "accuracy": "40"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": 2
+                    },
+                    "fouls": {
+                        "drawn": 4,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Jarrod Bowen",
+            "팀": "West Ham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 20,
+                        "position": "F",
+                        "rating": "7.6",
+                        "captain": true,
+                        "substitute": false
+                    },
+                    "offsides": 1,
+                    "shots": {
+                        "total": 3,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 19,
+                        "key": null,
+                        "accuracy": "15"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 18,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Emerson Palmieri",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 45,
+                        "number": 33,
+                        "position": "D",
+                        "rating": "6.5",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 17,
+                        "key": null,
+                        "accuracy": "13"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Carlos Soler",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 36,
+                        "number": 4,
+                        "position": "M",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 10,
+                        "key": null,
+                        "accuracy": "10"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Niclas Füllkrug",
+            "팀": "West Ham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 36,
+                        "number": 11,
+                        "position": "F",
+                        "rating": "7.5",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": 1,
+                        "accuracy": "10"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Konstantinos Mavropanos",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 13,
+                        "number": 15,
+                        "position": "D",
+                        "rating": "6.3",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": "2"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Luis Guilherme",
+            "팀": "West Ham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 13,
+                        "number": 17,
+                        "position": "F",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 5,
+                        "key": null,
+                        "accuracy": "4"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Łukasz Fabiański",
+            "팀": "West Ham",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 1,
+                        "position": "G",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Vladimír Coufal",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 5,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Guido Rodríguez",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 24,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Evan Ferguson",
+            "팀": "West Ham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 34,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Kepa Arrizabalaga",
+            "팀": "Bournemouth",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 13,
+                        "position": "G",
+                        "rating": "6.5",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 2,
+                        "assists": 0,
+                        "saves": 2
+                    },
+                    "passes": {
+                        "total": 36,
+                        "key": null,
+                        "accuracy": "26"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Adam Smith",
+            "팀": "Bournemouth",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 67,
+                        "number": 15,
+                        "position": "D",
+                        "rating": "6.2",
+                        "captain": true,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 12,
+                        "key": 1,
+                        "accuracy": "8"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Illia Zabarnyi",
+            "팀": "Bournemouth",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 78,
+                        "number": 27,
+                        "position": "D",
+                        "rating": "6.6",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 35,
+                        "key": null,
+                        "accuracy": "28"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Dean Huijsen",
+            "팀": "Bournemouth",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 2,
+                        "position": "D",
+                        "rating": "7.5",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 59,
+                        "key": 1,
+                        "accuracy": "45"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 13,
+                        "won": 9
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Miloš Kerkez",
+            "팀": "Bournemouth",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 3,
+                        "position": "D",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 35,
+                        "key": null,
+                        "accuracy": "25"
+                    },
+                    "tackles": {
+                        "total": 5,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 8
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Lewis Cook",
+            "팀": "Bournemouth",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 4,
+                        "position": "M",
+                        "rating": "6.6",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": 1,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 28,
+                        "key": 1,
+                        "accuracy": "16"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Tyler Adams",
+            "팀": "Bournemouth",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 12,
+                        "position": "M",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 40,
+                        "key": null,
+                        "accuracy": "31"
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 16,
+                        "won": 10
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": 2
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": 4
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Antoine Semenyo",
+            "팀": "Bournemouth",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 90,
+                        "number": 24,
+                        "position": "M",
+                        "rating": "7.3",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 32,
+                        "key": 1,
+                        "accuracy": "27"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 15,
+                        "won": 7
+                    },
+                    "dribbles": {
+                        "attempts": 4,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Alex Scott",
+            "팀": "Bournemouth",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 67,
+                        "number": 8,
+                        "position": "M",
+                        "rating": "6.3",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 14,
+                        "key": null,
+                        "accuracy": "13"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Dango Ouattara",
+            "팀": "Bournemouth",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 78,
+                        "number": 11,
+                        "position": "M",
+                        "rating": "6.2",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 12,
+                        "key": 1,
+                        "accuracy": "5"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 12,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 1,
+                        "past": 2
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Evanilson",
+            "팀": "Bournemouth",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 89,
+                        "number": 9,
+                        "position": "F",
+                        "rating": "8.5",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 3,
+                        "on": 2
+                    },
+                    "goals": {
+                        "total": 2,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 13,
+                        "key": 1,
+                        "accuracy": "9"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "James Hill",
+            "팀": "Bournemouth",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 23,
+                        "number": 23,
+                        "position": "D",
+                        "rating": "6.6",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 13,
+                        "key": 1,
+                        "accuracy": "7"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "David Brooks",
+            "팀": "Bournemouth",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 23,
+                        "number": 7,
+                        "position": "M",
+                        "rating": "7",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 13,
+                        "key": 3,
+                        "accuracy": "11"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 2
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Marcos Senesi",
+            "팀": "Bournemouth",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 12,
+                        "number": 5,
+                        "position": "D",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 5,
+                        "key": null,
+                        "accuracy": "4"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Ben Winterburn",
+            "팀": "Bournemouth",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 12,
+                        "number": 47,
+                        "position": "M",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 5,
+                        "key": null,
+                        "accuracy": "4"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 2
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Daniel Jebbison",
+            "팀": "Bournemouth",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 1,
+                        "number": 21,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 0,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Will Dennis",
+            "팀": "Bournemouth",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 40,
+                        "position": "G",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Julio Soler",
+            "팀": "Bournemouth",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 20,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Julián Araujo",
+            "팀": "Bournemouth",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 22,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Zain Silcott-Duberry",
+            "팀": "Bournemouth",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 43,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
 }
