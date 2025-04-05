@@ -116,6 +116,24 @@
             "선수": "B. Chilwell",
             "팀": "Crystal Palace",
             "시간": 63
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "E. Nketiah",
+            "팀": "Crystal Palace",
+            "시간": 68
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "E. Nketiah",
+            "팀": "Crystal Palace",
+            "시간": 69
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "S. March",
+            "팀": "Brighton",
+            "시간": 72
         }
     ],
     "경기 통계": [
