@@ -1,8 +1,8 @@
 import os
 import json
 import requests
-from datetime import datetime
-from datetime import timedelta
+from datetime import datetime, timedelta, timezone
+
 
 # ✅ API 설정
 API_KEY = "0776a35eb1067086efe59bb7f93c6498"
@@ -138,9 +138,14 @@ converted_games = []
 # ✅ 팀명 → 순위 매핑 생성
 team_rank_map = {team["팀명"]: team["순위"] for team in output["순위표"]}
 
-# ✅ 필터 범위 (한국시간 기준)
-april_start = datetime(2025, 4, 1)
-april_end = datetime(2025, 4, 30, 23, 59, 59)
+# ✅ KST 타임존 정의 (UTC+9)
+KST = timezone(timedelta(hours=9))
+
+# ✅ 필터 범위 (한국시간 기준, offset-aware)
+april_start = datetime(2025, 4, 1, tzinfo=KST)
+april_end = datetime(2025, 4, 30, 23, 59, 59, tzinfo=KST)
+
+
 
 for game in latest_games.values():
     # UTC -> 한국시간
