@@ -149,8 +149,16 @@ for game in latest_games.values():
 output["팀별 최종 경기"] = converted_games
 print(f"✅ 팀별 최종 경기 {len(converted_games)}건 추가 완료")
 
-# ✅ 최종 저장
-with open(save_path, "w", encoding="utf-8") as f:
-    json.dump(output, f, ensure_ascii=False, indent=4)
+# ✅ 저장 경로 지정
+filename = f"premier_april_until_0408.json"
+save_path = os.path.join(DATA_DIR, filename)
 
-print(f"✅ 최종 JSON 저장 완료: {save_path}")
+# ✅ 최종 저장
+try:
+    with open(save_path, "w", encoding="utf-8") as f:
+        json.dump(output, f, ensure_ascii=False, indent=4)
+    print(f"✅ 최종 JSON 저장 완료: {save_path}")
+except Exception as e:
+    print(f"❌ 저장 실패: {e}")
+
+
