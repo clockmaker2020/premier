@@ -161,7 +161,7 @@ for game in latest_games.values():
 
     converted_games.append({
         "date": fixture_date,
-        "time": "21:00",
+        "time": fixture_time,
         "home_team": home,
         "away_team": away,
         "score": score,
