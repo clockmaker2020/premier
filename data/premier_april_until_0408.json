@@ -245,9 +245,9 @@
     ],
     "최근 경기": {
         "날짜": "2025-04-05",
-        "홈팀": "웨스트 햄",
-        "스코어": "2 - 2",
-        "원정팀": "본머스"
+        "홈팀": "애스턴 빌라",
+        "스코어": "2 - 1",
+        "원정팀": "노팅엄 포레스트"
     },
     "팀별 최종 경기": [
         {
@@ -264,17 +264,17 @@
             "away_recent_url": "https://example.com/recent/아스널"
         },
         {
-            "date": "2025-04-03",
-            "time": "03:45",
-            "home_team": "브라이턴",
-            "away_team": "애스턴 빌라",
-            "score": "0 - 3",
-            "home_team_rank": 8,
-            "away_team_rank": 7,
+            "date": "2025-04-06",
+            "time": "01:30",
+            "home_team": "애스턴 빌라",
+            "away_team": "노팅엄 포레스트",
+            "score": "2 - 1",
+            "home_team_rank": 7,
+            "away_team_rank": 3,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/브라이턴-vs-애스턴-빌라",
-            "home_recent_url": "https://example.com/recent/브라이턴",
-            "away_recent_url": "https://example.com/recent/애스턴-빌라"
+            "blog_url": "https://example.com/preview/애스턴-빌라-vs-노팅엄-포레스트",
+            "home_recent_url": "https://example.com/recent/애스턴-빌라",
+            "away_recent_url": "https://example.com/recent/노팅엄-포레스트"
         },
         {
             "date": "2025-04-05",
@@ -409,17 +409,17 @@
             "away_recent_url": "https://example.com/recent/아스널"
         },
         {
-            "date": "2025-04-03",
-            "time": "03:45",
-            "home_team": "브라이턴",
-            "away_team": "애스턴 빌라",
-            "score": "0 - 3",
-            "home_team_rank": 8,
-            "away_team_rank": 7,
+            "date": "2025-04-06",
+            "time": "01:30",
+            "home_team": "애스턴 빌라",
+            "away_team": "노팅엄 포레스트",
+            "score": "2 - 1",
+            "home_team_rank": 7,
+            "away_team_rank": 3,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/브라이턴-vs-애스턴-빌라",
-            "home_recent_url": "https://example.com/recent/브라이턴",
-            "away_recent_url": "https://example.com/recent/애스턴-빌라"
+            "blog_url": "https://example.com/preview/애스턴-빌라-vs-노팅엄-포레스트",
+            "home_recent_url": "https://example.com/recent/애스턴-빌라",
+            "away_recent_url": "https://example.com/recent/노팅엄-포레스트"
         },
         {
             "date": "2025-04-05",
