@@ -14,6 +14,7 @@ HEADERS = {"x-apisports-key": API_KEY}
 REPO_ROOT = os.path.abspath(os.path.dirname(__file__))  # 현재 파일 경로 기준
 DATA_DIR = os.path.join(REPO_ROOT, "..", "data")  # `data/` 폴더가 한 단계 위에 있어야 함
 os.makedirs(DATA_DIR, exist_ok=True)  # ✅ 폴더가 없으면 생성
+OUTPUT_FILE = os.path.join(DATA_DIR, "latest_fixtures.json")
 print(f"📂 데이터 폴더 경로: {DATA_DIR}")
 
 # ✅ 팀 ID
