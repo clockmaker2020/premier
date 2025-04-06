@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 31",
-    "심판": "C. Kavanagh",
+    "심판": "Chris Kavanagh, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Fulham",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Bernd Leno",
+                "Timothy Castagne",
+                "Joachim Andersen",
+                "Calvin Bassey",
+                "Antonee Robinson",
+                "Andreas Pereira",
+                "Sander Berge",
+                "Alex Iwobi",
+                "Saša Lukić",
+                "Ryan Sessegnon",
+                "Rodrigo Muniz"
+            ],
+            "교체 선수": [
+                "Steven Benda",
+                "Kenny Tete",
+                "Jorge Cuenca",
+                "Harrison Reed",
+                "Tom Cairney",
+                "Emile Smith Rowe",
+                "Willian",
+                "Adama Traoré",
+                "Raúl Jiménez"
+            ]
+        },
+        {
+            "팀": "Liverpool",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Caoimhin Kelleher",
+                "Curtis Jones",
+                "Ibrahima Konaté",
+                "Virgil van Dijk",
+                "Andrew Robertson",
+                "Ryan Gravenberch",
+                "Alexis Mac Allister",
+                "Mohamed Salah",
+                "Dominik Szoboszlai",
+                "Cody Gakpo",
+                "Diogo Jota"
+            ],
+            "교체 선수": [
+                "Vítězslav Jaroš",
+                "Konstantinos Tsimikas",
+                "Jarell Quansah",
+                "Conor Bradley",
+                "Wataru Endo",
+                "Harvey Elliott",
+                "Luis Díaz",
+                "Darwin Núñez",
+                "Federico Chiesa"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
