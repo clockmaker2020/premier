@@ -211,25 +211,25 @@
   },
   {
     "fixture": {
-      "id": 1208320,
-      "referee": "Peter Bankes, England",
+      "id": 1208324,
+      "referee": "Michael Oliver, England",
       "timezone": "UTC",
-      "date": "2025-04-02T18:45:00+00:00",
-      "timestamp": 1743619500,
+      "date": "2025-04-06T13:00:00+00:00",
+      "timestamp": 1743944400,
       "periods": {
-        "first": 1743619500,
-        "second": 1743623100
+        "first": 1743944400,
+        "second": 1743948000
       },
       "venue": {
-        "id": 562,
-        "name": "St. James' Park",
-        "city": "Newcastle upon Tyne"
+        "id": 10503,
+        "name": "Gtech Community Stadium",
+        "city": "Brentford, Middlesex"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 10
+        "extra": 5
       }
     },
     "league": {
@@ -239,35 +239,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 30",
+      "round": "Regular Season - 31",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 34,
-        "name": "Newcastle",
-        "logo": "https://media.api-sports.io/football/teams/34.png",
-        "winner": true
-      },
-      "away": {
         "id": 55,
         "name": "Brentford",
         "logo": "https://media.api-sports.io/football/teams/55.png",
-        "winner": false
+        "winner": null
+      },
+      "away": {
+        "id": 49,
+        "name": "Chelsea",
+        "logo": "https://media.api-sports.io/football/teams/49.png",
+        "winner": null
       }
     },
     "goals": {
-      "home": 2,
-      "away": 1
+      "home": 0,
+      "away": 0
     },
     "score": {
       "halftime": {
-        "home": 1,
+        "home": 0,
         "away": 0
       },
       "fulltime": {
-        "home": 2,
-        "away": 1
+        "home": 0,
+        "away": 0
       },
       "extratime": {
         "home": null,
@@ -351,88 +351,18 @@
   },
   {
     "fixture": {
-      "id": 1208318,
-      "referee": "Pawson, Craig, England",
+      "id": 1208327,
+      "referee": "Chris Kavanagh, England",
       "timezone": "UTC",
-      "date": "2025-04-03T19:00:00+00:00",
-      "timestamp": 1743706800,
+      "date": "2025-04-06T13:00:00+00:00",
+      "timestamp": 1743944400,
       "periods": {
-        "first": 1743706800,
-        "second": 1743710400
+        "first": 1743944400,
+        "second": 1743948000
       },
       "venue": {
-        "id": 519,
-        "name": "Stamford Bridge",
-        "city": "London"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 14
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 30",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 49,
-        "name": "Chelsea",
-        "logo": "https://media.api-sports.io/football/teams/49.png",
-        "winner": true
-      },
-      "away": {
-        "id": 47,
-        "name": "Tottenham",
-        "logo": "https://media.api-sports.io/football/teams/47.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1208314,
-      "referee": "Brooks, John, England",
-      "timezone": "UTC",
-      "date": "2025-04-01T18:45:00+00:00",
-      "timestamp": 1743533100,
-      "periods": {
-        "first": 1743533100,
-        "second": 1743536700
-      },
-      "venue": {
-        "id": 494,
-        "name": "Emirates Stadium",
+        "id": 535,
+        "name": "Craven Cottage",
         "city": "London"
       },
       "status": {
@@ -449,105 +379,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 30",
+      "round": "Regular Season - 31",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 42,
-        "name": "Arsenal",
-        "logo": "https://media.api-sports.io/football/teams/42.png",
-        "winner": true
-      },
-      "away": {
         "id": 36,
         "name": "Fulham",
         "logo": "https://media.api-sports.io/football/teams/36.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1208322,
-      "referee": "Barrott, Samuel, England",
-      "timezone": "UTC",
-      "date": "2025-04-02T19:00:00+00:00",
-      "timestamp": 1743620400,
-      "periods": {
-        "first": 1743620400,
-        "second": 1743624000
-      },
-      "venue": {
-        "id": 550,
-        "name": "Anfield",
-        "city": "Liverpool"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 7
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 30",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 40,
-        "name": "Liverpool",
-        "logo": "https://media.api-sports.io/football/teams/40.png",
         "winner": true
       },
       "away": {
-        "id": 45,
-        "name": "Everton",
-        "logo": "https://media.api-sports.io/football/teams/45.png",
+        "id": 40,
+        "name": "Liverpool",
+        "logo": "https://media.api-sports.io/football/teams/40.png",
         "winner": false
       }
     },
     "goals": {
-      "home": 1,
-      "away": 0
+      "home": 3,
+      "away": 2
     },
     "score": {
       "halftime": {
-        "home": 0,
-        "away": 0
+        "home": 3,
+        "away": 1
       },
       "fulltime": {
-        "home": 1,
-        "away": 0
+        "home": 3,
+        "away": 2
       },
       "extratime": {
         "home": null,
@@ -701,8 +561,8 @@
   },
   {
     "fixture": {
-      "id": 1208321,
-      "referee": "Andy Madley, England",
+      "id": 1208320,
+      "referee": "Peter Bankes, England",
       "timezone": "UTC",
       "date": "2025-04-02T18:45:00+00:00",
       "timestamp": 1743619500,
@@ -711,15 +571,15 @@
         "second": 1743623100
       },
       "venue": {
-        "id": 585,
-        "name": "St. Mary's Stadium",
-        "city": "Southampton, Hampshire"
+        "id": 562,
+        "name": "St. James' Park",
+        "city": "Newcastle upon Tyne"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 9
+        "extra": 10
       }
     },
     "league": {
@@ -734,20 +594,20 @@
     },
     "teams": {
       "home": {
-        "id": 41,
-        "name": "Southampton",
-        "logo": "https://media.api-sports.io/football/teams/41.png",
-        "winner": null
+        "id": 34,
+        "name": "Newcastle",
+        "logo": "https://media.api-sports.io/football/teams/34.png",
+        "winner": true
       },
       "away": {
-        "id": 52,
-        "name": "Crystal Palace",
-        "logo": "https://media.api-sports.io/football/teams/52.png",
-        "winner": null
+        "id": 55,
+        "name": "Brentford",
+        "logo": "https://media.api-sports.io/football/teams/55.png",
+        "winner": false
       }
     },
     "goals": {
-      "home": 1,
+      "home": 2,
       "away": 1
     },
     "score": {
@@ -756,7 +616,77 @@
         "away": 0
       },
       "fulltime": {
-        "home": 1,
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1208331,
+      "referee": "Michael Salisbury, England",
+      "timezone": "UTC",
+      "date": "2025-04-06T13:00:00+00:00",
+      "timestamp": 1743944400,
+      "periods": {
+        "first": 1743944400,
+        "second": 1743948000
+      },
+      "venue": {
+        "id": 593,
+        "name": "Tottenham Hotspur Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/39.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2024,
+      "round": "Regular Season - 31",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png",
+        "winner": true
+      },
+      "away": {
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media.api-sports.io/football/teams/41.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
         "away": 1
       },
       "extratime": {
