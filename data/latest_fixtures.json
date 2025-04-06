@@ -421,25 +421,25 @@
   },
   {
     "fixture": {
-      "id": 1208319,
-      "referee": "Darren England, England",
+      "id": 1208330,
+      "referee": "Brooks, John, England",
       "timezone": "UTC",
-      "date": "2025-04-02T18:45:00+00:00",
-      "timestamp": 1743619500,
+      "date": "2025-04-06T15:30:00+00:00",
+      "timestamp": 1743953400,
       "periods": {
-        "first": 1743619500,
-        "second": 1743623100
+        "first": 1743953400,
+        "second": 1743957000
       },
       "venue": {
-        "id": 555,
-        "name": "Etihad Stadium",
+        "id": 556,
+        "name": "Old Trafford",
         "city": "Manchester"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 4
+        "extra": 5
       }
     },
     "league": {
@@ -449,104 +449,34 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 30",
+      "round": "Regular Season - 31",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 50,
-        "name": "Manchester City",
-        "logo": "https://media.api-sports.io/football/teams/50.png",
-        "winner": true
-      },
-      "away": {
-        "id": 46,
-        "name": "Leicester",
-        "logo": "https://media.api-sports.io/football/teams/46.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 2,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1208316,
-      "referee": "Jarred Gillett, Australia",
-      "timezone": "UTC",
-      "date": "2025-04-01T19:00:00+00:00",
-      "timestamp": 1743534000,
-      "periods": {
-        "first": 1743534000,
-        "second": 1743537600
-      },
-      "venue": {
-        "id": 566,
-        "name": "The City Ground",
-        "city": "Nottingham, Nottinghamshire"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 7
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 30",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 65,
-        "name": "Nottingham Forest",
-        "logo": "https://media.api-sports.io/football/teams/65.png",
-        "winner": true
-      },
-      "away": {
         "id": 33,
         "name": "Manchester United",
         "logo": "https://media.api-sports.io/football/teams/33.png",
-        "winner": false
+        "winner": null
+      },
+      "away": {
+        "id": 50,
+        "name": "Manchester City",
+        "logo": "https://media.api-sports.io/football/teams/50.png",
+        "winner": null
       }
     },
     "goals": {
-      "home": 1,
+      "home": 0,
       "away": 0
     },
     "score": {
       "halftime": {
-        "home": 1,
+        "home": 0,
         "away": 0
       },
       "fulltime": {
-        "home": 1,
+        "home": 0,
         "away": 0
       },
       "extratime": {
