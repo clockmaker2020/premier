@@ -2,7 +2,7 @@
   {
     "fixture": {
       "id": 1208326,
-      "referee": "Darren England, England",
+      "referee": "D. England",
       "timezone": "UTC",
       "date": "2025-04-05T11:30:00+00:00",
       "timestamp": 1743852600,
@@ -142,7 +142,7 @@
   {
     "fixture": {
       "id": 1208332,
-      "referee": "Tim Robinson, England",
+      "referee": "T. Robinson",
       "timezone": "UTC",
       "date": "2025-04-05T14:00:00+00:00",
       "timestamp": 1743861600,
@@ -212,7 +212,7 @@
   {
     "fixture": {
       "id": 1208320,
-      "referee": "Peter Bankes, England",
+      "referee": "P. Bankes",
       "timezone": "UTC",
       "date": "2025-04-02T18:45:00+00:00",
       "timestamp": 1743619500,
@@ -282,7 +282,7 @@
   {
     "fixture": {
       "id": 1208325,
-      "referee": "Anthony Taylor, England",
+      "referee": "A. Taylor",
       "timezone": "UTC",
       "date": "2025-04-05T14:00:00+00:00",
       "timestamp": 1743861600,
@@ -352,7 +352,7 @@
   {
     "fixture": {
       "id": 1208318,
-      "referee": "Pawson, Craig, England",
+      "referee": "C. Pawson",
       "timezone": "UTC",
       "date": "2025-04-03T19:00:00+00:00",
       "timestamp": 1743706800,
@@ -422,7 +422,7 @@
   {
     "fixture": {
       "id": 1208314,
-      "referee": "Brooks, John, England",
+      "referee": "J. Brooks",
       "timezone": "UTC",
       "date": "2025-04-01T18:45:00+00:00",
       "timestamp": 1743533100,
@@ -492,7 +492,7 @@
   {
     "fixture": {
       "id": 1208322,
-      "referee": "Barrott, Samuel, England",
+      "referee": "S. Barrott",
       "timezone": "UTC",
       "date": "2025-04-02T19:00:00+00:00",
       "timestamp": 1743620400,
@@ -562,7 +562,7 @@
   {
     "fixture": {
       "id": 1208319,
-      "referee": "Darren England, England",
+      "referee": "D. England",
       "timezone": "UTC",
       "date": "2025-04-02T18:45:00+00:00",
       "timestamp": 1743619500,
@@ -632,7 +632,7 @@
   {
     "fixture": {
       "id": 1208316,
-      "referee": "Jarred Gillett, Australia",
+      "referee": "J. Gillett",
       "timezone": "UTC",
       "date": "2025-04-01T19:00:00+00:00",
       "timestamp": 1743534000,
@@ -702,7 +702,7 @@
   {
     "fixture": {
       "id": 1208321,
-      "referee": "Andy Madley, England",
+      "referee": "A. Madley",
       "timezone": "UTC",
       "date": "2025-04-02T18:45:00+00:00",
       "timestamp": 1743619500,
