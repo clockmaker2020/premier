@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Manchester United",
+            "포메이션": "3-4-2-1",
+            "선발 선수": [
+                "André Onana",
+                "Leny Yoro",
+                "Harry Maguire",
+                "Noussair Mazraoui",
+                "Diogo Dalot",
+                "Manuel Ugarte",
+                "Casemiro",
+                "Patrick Dorgu",
+                "Bruno Fernandes",
+                "Alejandro Garnacho",
+                "Rasmus Højlund"
+            ],
+            "교체 선수": [
+                "Altay Bayındır",
+                "Harry Amass",
+                "Victor Lindelöf",
+                "Luke Shaw",
+                "Godwill Kukonki",
+                "Christian Eriksen",
+                "Mason Mount",
+                "Joshua Zirkzee",
+                "Chido Obi-Martin"
+            ]
+        },
+        {
+            "팀": "Manchester City",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Ederson",
+                "Matheus Nunes",
+                "Rúben Dias",
+                "Joško Gvardiol",
+                "Nico O'Reilly",
+                "İlkay Gündoğan",
+                "Mateo Kovačić",
+                "Bernardo Silva",
+                "Kevin De Bruyne",
+                "Omar Marmoush",
+                "Phil Foden"
+            ],
+            "교체 선수": [
+                "Stefan Ortega",
+                "Vitor Reis",
+                "Abdukodir Khusanov",
+                "Rico Lewis",
+                "Jack Grealish",
+                "Nico González",
+                "Savinho",
+                "James McAtee",
+                "Jérémy Doku"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
