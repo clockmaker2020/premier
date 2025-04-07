@@ -1,0 +1,153 @@
+name: Match Update 1208348
+
+env:
+  MATCH_ID: 1208348  # ✅ 전역 변수 설정
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"  # ⏱️ 5분마다 실행
+
+jobs:
+  update-match:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write  # ✅ 푸시 권한 활성화
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v3
+
+      - name: 데이터 폴더 확인 및 생성
+        run: mkdir -p data  # ✅ data 폴더가 없으면 생성
+
+      - name: Python 설정
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt  # ✅ 기존 동작 유지
+
+      - name: 환경 변수 로드 (GitHub Secrets 사용)
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+        run: echo "API_KEY=${API_KEY}" > .env
+
+      # ✅ 경기 시작 시간 JSON에서 읽어오기 (Python에서 생성된 값 사용)
+      - name: 경기 시작 시간 확인
+        id: get_match_time
+        run: |
+          STATUS_FILE="data/match_${{ env.MATCH_ID }}_start.json"
+
+          if [ -f "$STATUS_FILE" ]; then
+            MATCH_START_KST=$(jq -r '."start_time_kst"' "$STATUS_FILE")
+            if [[ -z "$MATCH_START_KST" || "$MATCH_START_KST" == "null" ]]; then
+              MATCH_START_KST="UNKNOWN"
+            fi
+          else
+            MATCH_START_KST="UNKNOWN"
+          fi
+
+          echo "MATCH_START_KST=$MATCH_START_KST" >> $GITHUB_ENV
+          echo "✅ 경기 시작 시간 설정됨: $MATCH_START_KST"
+
+      - name: 현재 시간과 경기 시작 시간 비교 후 업데이트 주기 결정
+        id: update_schedule
+        run: |
+          CURRENT_KST=$(date +"%Y-%m-%d %H:%M:%S")
+
+          if [[ "$MATCH_START_KST" == "UNKNOWN" ]]; then
+            echo "⚠️ 경기 시작 시간이 확인되지 않음. 기본 업데이트 간격 유지."
+            echo "UPDATE_INTERVAL=360" >> $GITHUB_ENV
+            exit 0
+          fi
+
+          MATCH_850_KST=$(date -d "$MATCH_START_KST -10 minutes" "+%Y-%m-%d %H:%M:%S" 2>/dev/null || echo "UNKNOWN")
+
+          echo "CURRENT_KST=$CURRENT_KST" >> $GITHUB_ENV
+          echo "MATCH_850_KST=$MATCH_850_KST" >> $GITHUB_ENV
+
+          if [[ "$CURRENT_KST" < "$MATCH_850_KST" ]]; then
+            echo "UPDATE_INTERVAL=360" >> $GITHUB_ENV  # 경기 시작 10분 전까지 6시간 간격
+          else
+            echo "UPDATE_INTERVAL=1" >> $GITHUB_ENV  # 경기 시작 10분 전부터 1분 간격
+          fi
+
+      - name: 경기 상태 확인 및 설정
+        id: check_status
+        run: |
+          STATUS_FILE="data/real_live_${{ env.MATCH_ID }}.json"
+
+          if [ -f "$STATUS_FILE" ]; then
+            MATCH_STATUS=$(jq -r '.["경기 상태"]' "$STATUS_FILE")
+            if [[ -z "$MATCH_STATUS" || "$MATCH_STATUS" == "null" ]]; then
+              MATCH_STATUS="UNKNOWN"
+            fi
+          else
+            MATCH_STATUS="UNKNOWN"
+          fi
+
+          echo "MATCH_STATUS=$MATCH_STATUS" >> $GITHUB_ENV
+
+      - name: 경기 상태 판단 (STOP 여부 확인)
+        id: check_stop
+        run: |
+          STOP_CONDITIONS=("Match Finished" "Cancelled" "Postponed" "Abandoned" "Technical Loss")
+
+          echo "현재 경기 상태: $MATCH_STATUS"  # 🔍 디버깅용 로그 추가
+
+          for condition in "${STOP_CONDITIONS[@]}"; do
+            if [[ "$MATCH_STATUS" == "$condition" ]]; then
+              echo "STOP_MATCH=true" >> $GITHUB_ENV
+              echo "✅ 경기 종료 상태 감지: $MATCH_STATUS"
+              exit 0
+            fi
+          done
+
+          echo "STOP_MATCH=false" >> $GITHUB_ENV
+          echo "⚠️ 경기 진행 중으로 판단됨."
+
+
+      - name: 경기 데이터 업데이트
+        id: match
+        if: env.STOP_MATCH != 'true'  # 🔹 문자열 비교 방식 변경
+        run: python "scripts/premier_real_live_${{ env.MATCH_ID }}.py"
+
+
+      - name: 경기 시작 시간 JSON 파일 확인 (Python 실행 후)
+        run: |
+          if [ -f "data/match_${{ env.MATCH_ID }}_start.json" ]; then
+            echo "✅ 경기 시작 시간 파일이 정상적으로 존재합니다."
+            cat data/match_${{ env.MATCH_ID }}_start.json
+          else
+            echo "⚠️ 경기 시작 시간 파일이 존재하지 않습니다."
+          fi
+
+      - name: 저장된 JSON 파일 확인
+        run: ls -lah data/
+
+      - name: 배당률 JSON 파일 확인 (Python 실행 후)
+        run: |
+          if [ -f "data/bet_${{ env.MATCH_ID }}.json" ]; then
+            echo "✅ 배당률 파일이 정상적으로 존재합니다."
+            cat data/bet_${{ env.MATCH_ID }}.json
+          else
+            echo "❌ 배당률 파일이 생성되지 않았습니다. 빈 JSON 파일을 생성합니다."
+            echo '[{"배팅사": "N/A", "배당률": "데이터 없음"}]' > data/bet_${{ env.MATCH_ID }}.json
+          fi
+
+      - name: 변경 사항 커밋 및 푸시
+        if: env.STOP_MATCH != 'true'  # 🔹 Git 커밋/푸시 차단 추가
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@users.noreply.github.com"
+
+          if ls data/match_${{ env.MATCH_ID }}*.json 1> /dev/null 2>&1; then
+            git add -A
+            git commit --allow-empty -m "🔄 테스트: 경기 데이터 갱신" || echo "⚠️ No changes to commit"
+            git push origin HEAD:${{ github.ref }} || echo "⚠️ 푸시 실패: 권한 확인 필요"
+          else
+            echo "⚠️ 변경할 JSON 파일이 없음. 커밋 생략"
+          fi
