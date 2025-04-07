@@ -299,7 +299,7 @@ def get_match_data(match_id):
 
 # ✅ 실행
 if __name__ == "__main__":
-    match_id = 1208341
+    match_id = 1208335
     print(f"🎯 실행 시작: Match ID = {match_id}")
     result = get_match_data(match_id)
     print(f"✅ 실행 결과: {result}")
