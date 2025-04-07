@@ -10,11 +10,14 @@ LEAGUE_ID = 39
 SEASON = 2024
 HEADERS = {"x-apisports-key": API_KEY}
 
-# ✅ 저장 경로
-DATA_DIR = os.path.join(os.path.expanduser("~"), "Downloads", "data")
-os.makedirs(DATA_DIR, exist_ok=True)
-save_path = os.path.join(DATA_DIR, "premier_summary_2.json")
-print(f"📂 데이터 폴더 경로: {DATA_DIR}")
+# ✅ 저장할 폴더 경로 설정
+REPO_ROOT = os.path.abspath(os.path.dirname(__file__))  # 현재 파일 기준 경로
+DATA_DIR = os.path.join(REPO_ROOT, "..", "data")        # ../data 폴더 경로
+os.makedirs(DATA_DIR, exist_ok=True)                    # 없으면 생성
+
+# ✅ 저장 파일 경로 지정
+save_path = os.path.join(DATA_DIR, "premier_upcoming_0409_0430.json")
+print(f"📂 저장 경로: {save_path}")
 
 # ✅ 한글 팀명 매핑
 TEAM_NAME_MAPPING = {
