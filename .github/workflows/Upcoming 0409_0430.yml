@@ -1,0 +1,52 @@
+name: Upcoming 0409_0430
+
+env:
+  PY_FILE: premier_upcoming_0409_0430.py
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"  # ⏱️ 30분 간격
+  workflow_dispatch:
+
+jobs:
+  update-upcoming-matches:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v3
+
+      - name: 데이터 폴더 확인 및 생성
+        run: mkdir -p data
+
+      - name: Python 설정
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.9"
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: API 키 환경변수 설정
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+        run: echo "API_KEY=${API_KEY}" > .env
+
+      - name: 예정된 경기 스크립트 실행
+        run: python scripts/${{ env.PY_FILE }}
+
+      - name: 결과 파일 확인
+        run: |
+          echo "🔍 저장된 파일 목록:"
+          ls -lh data/
+
+      - name: 변경사항 커밋 및 푸시
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions@users.noreply.github.com"
+          git add -A
+          git commit --allow-empty -m "🕒 예정된 경기 자동 업데이트"
+          git push origin HEAD:${{ github.ref }} || echo "⚠️ 푸시 실패 또는 변경 없음"
