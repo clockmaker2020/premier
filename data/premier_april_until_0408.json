@@ -244,10 +244,10 @@
         }
     ],
     "최근 경기": {
-        "날짜": "2025-04-06",
-        "홈팀": "맨유",
-        "스코어": "0 - 0",
-        "원정팀": "맨 시티"
+        "날짜": "2025-04-07",
+        "홈팀": "레스터 시티",
+        "스코어": "0 - 3",
+        "원정팀": "뉴캐슬"
     },
     "팀별 최종 경기": [
         {
@@ -342,17 +342,17 @@
             "away_recent_url": "https://example.com/recent/맨-시티"
         },
         {
-            "date": "2025-04-03",
-            "time": "03:45",
-            "home_team": "뉴캐슬",
-            "away_team": "브렌트퍼드",
-            "score": "2 - 1",
-            "home_team_rank": 7,
-            "away_team_rank": 12,
+            "date": "2025-04-08",
+            "time": "04:00",
+            "home_team": "레스터 시티",
+            "away_team": "뉴캐슬",
+            "score": "0 - 3",
+            "home_team_rank": 19,
+            "away_team_rank": 7,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/뉴캐슬-vs-브렌트퍼드",
-            "home_recent_url": "https://example.com/recent/뉴캐슬",
-            "away_recent_url": "https://example.com/recent/브렌트퍼드"
+            "blog_url": "https://example.com/preview/레스터-시티-vs-뉴캐슬",
+            "home_recent_url": "https://example.com/recent/레스터-시티",
+            "away_recent_url": "https://example.com/recent/뉴캐슬"
         },
         {
             "date": "2025-04-06",
@@ -461,17 +461,17 @@
             "away_recent_url": "https://example.com/recent/맨-시티"
         },
         {
-            "date": "2025-04-03",
-            "time": "03:45",
-            "home_team": "뉴캐슬",
-            "away_team": "브렌트퍼드",
-            "score": "2 - 1",
-            "home_team_rank": 7,
-            "away_team_rank": 12,
+            "date": "2025-04-08",
+            "time": "04:00",
+            "home_team": "레스터 시티",
+            "away_team": "뉴캐슬",
+            "score": "0 - 3",
+            "home_team_rank": 19,
+            "away_team_rank": 7,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/뉴캐슬-vs-브렌트퍼드",
-            "home_recent_url": "https://example.com/recent/뉴캐슬",
-            "away_recent_url": "https://example.com/recent/브렌트퍼드"
+            "blog_url": "https://example.com/preview/레스터-시티-vs-뉴캐슬",
+            "home_recent_url": "https://example.com/recent/레스터-시티",
+            "away_recent_url": "https://example.com/recent/뉴캐슬"
         },
         {
             "date": "2025-04-06",
