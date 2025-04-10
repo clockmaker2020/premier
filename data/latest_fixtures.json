@@ -2,7 +2,7 @@
   {
     "fixture": {
       "id": 1208326,
-      "referee": "Darren England, England",
+      "referee": "D. England",
       "timezone": "UTC",
       "date": "2025-04-05T11:30:00+00:00",
       "timestamp": 1743852600,
@@ -72,7 +72,7 @@
   {
     "fixture": {
       "id": 1208323,
-      "referee": "Simon Hooper, England",
+      "referee": "S. Hooper",
       "timezone": "UTC",
       "date": "2025-04-05T16:30:00+00:00",
       "timestamp": 1743870600,
@@ -142,7 +142,7 @@
   {
     "fixture": {
       "id": 1208332,
-      "referee": "Tim Robinson, England",
+      "referee": "T. Robinson",
       "timezone": "UTC",
       "date": "2025-04-05T14:00:00+00:00",
       "timestamp": 1743861600,
@@ -212,7 +212,7 @@
   {
     "fixture": {
       "id": 1208324,
-      "referee": "Michael Oliver, England",
+      "referee": "M. Oliver",
       "timezone": "UTC",
       "date": "2025-04-06T13:00:00+00:00",
       "timestamp": 1743944400,
@@ -282,7 +282,7 @@
   {
     "fixture": {
       "id": 1208325,
-      "referee": "Anthony Taylor, England",
+      "referee": "A. Taylor",
       "timezone": "UTC",
       "date": "2025-04-05T14:00:00+00:00",
       "timestamp": 1743861600,
@@ -352,7 +352,7 @@
   {
     "fixture": {
       "id": 1208327,
-      "referee": "Chris Kavanagh, England",
+      "referee": "C. Kavanagh",
       "timezone": "UTC",
       "date": "2025-04-06T13:00:00+00:00",
       "timestamp": 1743944400,
@@ -422,7 +422,7 @@
   {
     "fixture": {
       "id": 1208330,
-      "referee": "Brooks, John, England",
+      "referee": "J. Brooks",
       "timezone": "UTC",
       "date": "2025-04-06T15:30:00+00:00",
       "timestamp": 1743953400,
@@ -492,7 +492,7 @@
   {
     "fixture": {
       "id": 1208329,
-      "referee": "Robert Jones, England",
+      "referee": "R. Jones",
       "timezone": "UTC",
       "date": "2025-04-07T19:00:00+00:00",
       "timestamp": 1744052400,
@@ -562,7 +562,7 @@
   {
     "fixture": {
       "id": 1208331,
-      "referee": "Michael Salisbury, England",
+      "referee": "M. Salisbury",
       "timezone": "UTC",
       "date": "2025-04-06T13:00:00+00:00",
       "timestamp": 1743944400,
