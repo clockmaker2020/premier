@@ -29,17 +29,29 @@
         {
             "순위": 3,
             "팀명": "노팅엄 포레스트",
-            "경기수": 31,
+            "경기수": 32,
             "승": 17,
-            "무": 6,
+            "무": 7,
             "패": 8,
-            "승점": 57,
+            "승점": 58,
             "득점": 51,
             "실점": 37,
             "득실차": 14
         },
         {
             "순위": 4,
+            "팀명": "맨 시티",
+            "경기수": 32,
+            "승": 16,
+            "무": 7,
+            "패": 9,
+            "승점": 55,
+            "득점": 62,
+            "실점": 42,
+            "득실차": 20
+        },
+        {
+            "순위": 5,
             "팀명": "첼시",
             "경기수": 31,
             "승": 15,
@@ -51,7 +63,7 @@
             "득실차": 17
         },
         {
-            "순위": 5,
+            "순위": 6,
             "팀명": "뉴캐슬",
             "경기수": 30,
             "승": 16,
@@ -63,25 +75,13 @@
             "득실차": 13
         },
         {
-            "순위": 6,
-            "팀명": "맨 시티",
-            "경기수": 31,
-            "승": 15,
-            "무": 7,
-            "패": 9,
-            "승점": 52,
-            "득점": 57,
-            "실점": 40,
-            "득실차": 17
-        },
-        {
             "순위": 7,
             "팀명": "애스턴 빌라",
-            "경기수": 31,
+            "경기수": 32,
             "승": 14,
-            "무": 9,
+            "무": 10,
             "패": 8,
-            "승점": 51,
+            "승점": 52,
             "득점": 46,
             "실점": 46,
             "득실차": 0
@@ -101,11 +101,11 @@
         {
             "순위": 9,
             "팀명": "브라이턴",
-            "경기수": 31,
+            "경기수": 32,
             "승": 12,
-            "무": 11,
+            "무": 12,
             "패": 8,
-            "승점": 47,
+            "승점": 48,
             "득점": 49,
             "실점": 47,
             "득실차": 2
@@ -125,14 +125,14 @@
         {
             "순위": 11,
             "팀명": "크리스털 팰리스",
-            "경기수": 30,
+            "경기수": 31,
             "승": 11,
             "무": 10,
-            "패": 9,
+            "패": 10,
             "승점": 43,
-            "득점": 39,
-            "실점": 35,
-            "득실차": 4
+            "득점": 41,
+            "실점": 40,
+            "득실차": 1
         },
         {
             "순위": 12,
@@ -173,11 +173,11 @@
         {
             "순위": 15,
             "팀명": "에버턴",
-            "경기수": 31,
+            "경기수": 32,
             "승": 7,
-            "무": 14,
+            "무": 15,
             "패": 10,
-            "승점": 35,
+            "승점": 36,
             "득점": 33,
             "실점": 38,
             "득실차": -5
@@ -221,11 +221,11 @@
         {
             "순위": 19,
             "팀명": "레스터 시티",
-            "경기수": 31,
+            "경기수": 32,
             "승": 4,
-            "무": 5,
+            "무": 6,
             "패": 22,
-            "승점": 17,
+            "승점": 18,
             "득점": 25,
             "실점": 70,
             "득실차": -45
@@ -233,11 +233,11 @@
         {
             "순위": 20,
             "팀명": "사우샘프턴",
-            "경기수": 31,
+            "경기수": 32,
             "승": 2,
-            "무": 4,
+            "무": 5,
             "패": 25,
-            "승점": 10,
+            "승점": 11,
             "득점": 23,
             "실점": 74,
             "득실차": -51
@@ -245,9 +245,9 @@
     ],
     "최근 경기": {
         "날짜": "2025-04-12",
-        "홈팀": "맨 시티",
-        "스코어": "5 - 2",
-        "원정팀": "크리스털 팰리스"
+        "홈팀": "사우샘프턴",
+        "스코어": "0 - 3",
+        "원정팀": "애스턴 빌라"
     },
     "팀별 최종 경기": [
         {
@@ -264,17 +264,17 @@
             "away_recent_url": "https://example.com/recent/아스널"
         },
         {
-            "date": "2025-04-06",
-            "time": "01:30",
-            "home_team": "애스턴 빌라",
-            "away_team": "노팅엄 포레스트",
-            "score": "2 - 1",
-            "home_team_rank": 7,
-            "away_team_rank": 3,
+            "date": "2025-04-12",
+            "time": "23:00",
+            "home_team": "사우샘프턴",
+            "away_team": "애스턴 빌라",
+            "score": "0 - 3",
+            "home_team_rank": 20,
+            "away_team_rank": 7,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/애스턴-빌라-vs-노팅엄-포레스트",
-            "home_recent_url": "https://example.com/recent/애스턴-빌라",
-            "away_recent_url": "https://example.com/recent/노팅엄-포레스트"
+            "blog_url": "https://example.com/preview/사우샘프턴-vs-애스턴-빌라",
+            "home_recent_url": "https://example.com/recent/사우샘프턴",
+            "away_recent_url": "https://example.com/recent/애스턴-빌라"
         },
         {
             "date": "2025-04-05",
@@ -296,24 +296,24 @@
             "away_team": "첼시",
             "score": "0 - 0",
             "home_team_rank": 12,
-            "away_team_rank": 4,
+            "away_team_rank": 5,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/브렌트퍼드-vs-첼시",
             "home_recent_url": "https://example.com/recent/브렌트퍼드",
             "away_recent_url": "https://example.com/recent/첼시"
         },
         {
-            "date": "2025-04-05",
+            "date": "2025-04-12",
             "time": "23:00",
-            "home_team": "크리스털 팰리스",
-            "away_team": "브라이턴",
-            "score": "2 - 1",
-            "home_team_rank": 11,
-            "away_team_rank": 9,
+            "home_team": "브라이턴",
+            "away_team": "레스터 시티",
+            "score": "2 - 2",
+            "home_team_rank": 9,
+            "away_team_rank": 19,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/크리스털-팰리스-vs-브라이턴",
-            "home_recent_url": "https://example.com/recent/크리스털-팰리스",
-            "away_recent_url": "https://example.com/recent/브라이턴"
+            "blog_url": "https://example.com/preview/브라이턴-vs-레스터-시티",
+            "home_recent_url": "https://example.com/recent/브라이턴",
+            "away_recent_url": "https://example.com/recent/레스터-시티"
         },
         {
             "date": "2025-04-12",
@@ -321,12 +321,25 @@
             "home_team": "맨 시티",
             "away_team": "크리스털 팰리스",
             "score": "5 - 2",
-            "home_team_rank": 6,
+            "home_team_rank": 4,
             "away_team_rank": 11,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/맨-시티-vs-크리스털-팰리스",
             "home_recent_url": "https://example.com/recent/맨-시티",
             "away_recent_url": "https://example.com/recent/크리스털-팰리스"
+        },
+        {
+            "date": "2025-04-12",
+            "time": "23:00",
+            "home_team": "노팅엄 포레스트",
+            "away_team": "에버턴",
+            "score": "0 - 1",
+            "home_team_rank": 3,
+            "away_team_rank": 15,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/노팅엄-포레스트-vs-에버턴",
+            "home_recent_url": "https://example.com/recent/노팅엄-포레스트",
+            "away_recent_url": "https://example.com/recent/에버턴"
         },
         {
             "date": "2025-04-06",
@@ -348,7 +361,7 @@
             "away_team": "맨 시티",
             "score": "0 - 0",
             "home_team_rank": 13,
-            "away_team_rank": 6,
+            "away_team_rank": 4,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/맨유-vs-맨-시티",
             "home_recent_url": "https://example.com/recent/맨유",
@@ -361,7 +374,7 @@
             "away_team": "뉴캐슬",
             "score": "0 - 3",
             "home_team_rank": 19,
-            "away_team_rank": 5,
+            "away_team_rank": 6,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/레스터-시티-vs-뉴캐슬",
             "home_recent_url": "https://example.com/recent/레스터-시티",
@@ -396,17 +409,17 @@
             "away_recent_url": "https://example.com/recent/아스널"
         },
         {
-            "date": "2025-04-06",
-            "time": "01:30",
-            "home_team": "애스턴 빌라",
-            "away_team": "노팅엄 포레스트",
-            "score": "2 - 1",
-            "home_team_rank": 7,
-            "away_team_rank": 3,
+            "date": "2025-04-12",
+            "time": "23:00",
+            "home_team": "사우샘프턴",
+            "away_team": "애스턴 빌라",
+            "score": "0 - 3",
+            "home_team_rank": 20,
+            "away_team_rank": 7,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/애스턴-빌라-vs-노팅엄-포레스트",
-            "home_recent_url": "https://example.com/recent/애스턴-빌라",
-            "away_recent_url": "https://example.com/recent/노팅엄-포레스트"
+            "blog_url": "https://example.com/preview/사우샘프턴-vs-애스턴-빌라",
+            "home_recent_url": "https://example.com/recent/사우샘프턴",
+            "away_recent_url": "https://example.com/recent/애스턴-빌라"
         },
         {
             "date": "2025-04-05",
@@ -428,24 +441,24 @@
             "away_team": "첼시",
             "score": "0 - 0",
             "home_team_rank": 12,
-            "away_team_rank": 4,
+            "away_team_rank": 5,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/브렌트퍼드-vs-첼시",
             "home_recent_url": "https://example.com/recent/브렌트퍼드",
             "away_recent_url": "https://example.com/recent/첼시"
         },
         {
-            "date": "2025-04-05",
+            "date": "2025-04-12",
             "time": "23:00",
-            "home_team": "크리스털 팰리스",
-            "away_team": "브라이턴",
-            "score": "2 - 1",
-            "home_team_rank": 11,
-            "away_team_rank": 9,
+            "home_team": "브라이턴",
+            "away_team": "레스터 시티",
+            "score": "2 - 2",
+            "home_team_rank": 9,
+            "away_team_rank": 19,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/크리스털-팰리스-vs-브라이턴",
-            "home_recent_url": "https://example.com/recent/크리스털-팰리스",
-            "away_recent_url": "https://example.com/recent/브라이턴"
+            "blog_url": "https://example.com/preview/브라이턴-vs-레스터-시티",
+            "home_recent_url": "https://example.com/recent/브라이턴",
+            "away_recent_url": "https://example.com/recent/레스터-시티"
         },
         {
             "date": "2025-04-12",
@@ -453,12 +466,25 @@
             "home_team": "맨 시티",
             "away_team": "크리스털 팰리스",
             "score": "5 - 2",
-            "home_team_rank": 6,
+            "home_team_rank": 4,
             "away_team_rank": 11,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/맨-시티-vs-크리스털-팰리스",
             "home_recent_url": "https://example.com/recent/맨-시티",
             "away_recent_url": "https://example.com/recent/크리스털-팰리스"
+        },
+        {
+            "date": "2025-04-12",
+            "time": "23:00",
+            "home_team": "노팅엄 포레스트",
+            "away_team": "에버턴",
+            "score": "0 - 1",
+            "home_team_rank": 3,
+            "away_team_rank": 15,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/노팅엄-포레스트-vs-에버턴",
+            "home_recent_url": "https://example.com/recent/노팅엄-포레스트",
+            "away_recent_url": "https://example.com/recent/에버턴"
         },
         {
             "date": "2025-04-06",
@@ -480,7 +506,7 @@
             "away_team": "맨 시티",
             "score": "0 - 0",
             "home_team_rank": 13,
-            "away_team_rank": 6,
+            "away_team_rank": 4,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/맨유-vs-맨-시티",
             "home_recent_url": "https://example.com/recent/맨유",
@@ -493,7 +519,7 @@
             "away_team": "뉴캐슬",
             "score": "0 - 3",
             "home_team_rank": 19,
-            "away_team_rank": 5,
+            "away_team_rank": 6,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/레스터-시티-vs-뉴캐슬",
             "home_recent_url": "https://example.com/recent/레스터-시티",
