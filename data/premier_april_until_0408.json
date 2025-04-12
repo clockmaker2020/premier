@@ -244,10 +244,10 @@
         }
     ],
     "최근 경기": {
-        "날짜": "2025-04-07",
-        "홈팀": "레스터 시티",
-        "스코어": "0 - 3",
-        "원정팀": "뉴캐슬"
+        "날짜": "2025-04-12",
+        "홈팀": "맨 시티",
+        "스코어": "5 - 2",
+        "원정팀": "크리스털 팰리스"
     },
     "팀별 최종 경기": [
         {
@@ -314,6 +314,19 @@
             "blog_url": "https://example.com/preview/크리스털-팰리스-vs-브라이턴",
             "home_recent_url": "https://example.com/recent/크리스털-팰리스",
             "away_recent_url": "https://example.com/recent/브라이턴"
+        },
+        {
+            "date": "2025-04-12",
+            "time": "20:30",
+            "home_team": "맨 시티",
+            "away_team": "크리스털 팰리스",
+            "score": "5 - 2",
+            "home_team_rank": 6,
+            "away_team_rank": 11,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/맨-시티-vs-크리스털-팰리스",
+            "home_recent_url": "https://example.com/recent/맨-시티",
+            "away_recent_url": "https://example.com/recent/크리스털-팰리스"
         },
         {
             "date": "2025-04-06",
@@ -433,6 +446,19 @@
             "blog_url": "https://example.com/preview/크리스털-팰리스-vs-브라이턴",
             "home_recent_url": "https://example.com/recent/크리스털-팰리스",
             "away_recent_url": "https://example.com/recent/브라이턴"
+        },
+        {
+            "date": "2025-04-12",
+            "time": "20:30",
+            "home_team": "맨 시티",
+            "away_team": "크리스털 팰리스",
+            "score": "5 - 2",
+            "home_team_rank": 6,
+            "away_team_rank": 11,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/맨-시티-vs-크리스털-팰리스",
+            "home_recent_url": "https://example.com/recent/맨-시티",
+            "away_recent_url": "https://example.com/recent/크리스털-팰리스"
         },
         {
             "date": "2025-04-06",
