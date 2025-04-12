@@ -151,13 +151,13 @@
         },
         {
             "이벤트 종류": "subst",
-            "선수": "B. Chilwell",
+            "선수": "N. Clyne",
             "팀": "Crystal Palace",
             "시간": 63
         },
         {
             "이벤트 종류": "subst",
-            "선수": "N. Clyne",
+            "선수": "B. Chilwell",
             "팀": "Crystal Palace",
             "시간": 63
         },
@@ -202,6 +202,24 @@
             "선수": "Savinho",
             "팀": "Manchester City",
             "시간": 82
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Doku",
+            "팀": "Manchester City",
+            "시간": 87
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Grealish",
+            "팀": "Manchester City",
+            "시간": 87
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "J. Lerma",
+            "팀": "Crystal Palace",
+            "시간": 90
         }
     ],
     "경기 통계": [
