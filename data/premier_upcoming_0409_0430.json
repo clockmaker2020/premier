@@ -245,22 +245,12 @@
     ],
     "경기일정": [
         {
-            "경기 ID": 1208334,
-            "날짜": "2025-04-13 01:30",
-            "홈팀": "아스널",
-            "원정팀": "브렌트퍼드",
-            "장소": "Emirates Stadium",
-            "blog_url": "https://chatboy.tistory.com/551",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
             "경기 ID": 1208338,
             "날짜": "2025-04-12 20:30",
             "홈팀": "맨 시티",
             "원정팀": "크리스털 팰리스",
             "장소": "Etihad Stadium",
-            "blog_url": "https://chatboy.tistory.com/552",
+            "blog_url": "https://chatboy.tistory.com/551",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -270,7 +260,7 @@
             "홈팀": "사우샘프턴",
             "원정팀": "애스턴 빌라",
             "장소": "St. Mary's Stadium",
-            "blog_url": "https://chatboy.tistory.com/553",
+            "blog_url": "https://chatboy.tistory.com/552",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -280,7 +270,7 @@
             "홈팀": "브라이턴",
             "원정팀": "레스터 시티",
             "장소": "American Express Stadium",
-            "blog_url": "https://chatboy.tistory.com/554",
+            "blog_url": "https://chatboy.tistory.com/553",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -290,6 +280,16 @@
             "홈팀": "노팅엄 포레스트",
             "원정팀": "에버턴",
             "장소": "The City Ground",
+            "blog_url": "https://chatboy.tistory.com/554",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208334,
+            "날짜": "2025-04-13 01:30",
+            "홈팀": "아스널",
+            "원정팀": "브렌트퍼드",
+            "장소": "Emirates Stadium",
             "blog_url": "https://chatboy.tistory.com/555",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
@@ -538,9 +538,9 @@
     "팀별 최근 경기": [
         {
             "팀": "아스널",
-            "날짜": "2025-04-05 20:30",
-            "홈팀": "에버턴",
-            "원정팀": "아스널",
+            "날짜": "2025-04-13 01:30",
+            "홈팀": "아스널",
+            "원정팀": "브렌트퍼드",
             "스코어": "1 - 1"
         },
         {
@@ -559,10 +559,10 @@
         },
         {
             "팀": "브렌트퍼드",
-            "날짜": "2025-04-06 22:00",
-            "홈팀": "브렌트퍼드",
-            "원정팀": "첼시",
-            "스코어": "0 - 0"
+            "날짜": "2025-04-13 01:30",
+            "홈팀": "아스널",
+            "원정팀": "브렌트퍼드",
+            "스코어": "1 - 1"
         },
         {
             "팀": "브라이턴",
@@ -658,8 +658,8 @@
     ],
     "최근 경기": {
         "날짜": "2025-04-12",
-        "홈팀": "사우샘프턴",
-        "스코어": "0 - 3",
-        "원정팀": "애스턴 빌라"
+        "홈팀": "아스널",
+        "스코어": "1 - 1",
+        "원정팀": "브렌트퍼드"
     }
 }
