@@ -71,25 +71,25 @@
   },
   {
     "fixture": {
-      "id": 1208323,
-      "referee": "S. Hooper",
+      "id": 1208341,
+      "referee": "Thomas Bramall, England",
       "timezone": "UTC",
-      "date": "2025-04-05T16:30:00+00:00",
-      "timestamp": 1743870600,
+      "date": "2025-04-12T14:00:00+00:00",
+      "timestamp": 1744466400,
       "periods": {
-        "first": 1743870600,
-        "second": 1743874200
+        "first": 1744466400,
+        "second": 1744470000
       },
       "venue": {
-        "id": 495,
-        "name": "Villa Park",
-        "city": "Birmingham"
+        "id": 585,
+        "name": "St. Mary's Stadium",
+        "city": "Southampton, Hampshire"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 5
+        "extra": 8
       }
     },
     "league": {
@@ -99,35 +99,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 31",
+      "round": "Regular Season - 32",
       "standings": true
     },
     "teams": {
       "home": {
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media.api-sports.io/football/teams/41.png",
+        "winner": false
+      },
+      "away": {
         "id": 66,
         "name": "Aston Villa",
         "logo": "https://media.api-sports.io/football/teams/66.png",
         "winner": true
-      },
-      "away": {
-        "id": 65,
-        "name": "Nottingham Forest",
-        "logo": "https://media.api-sports.io/football/teams/65.png",
-        "winner": false
       }
     },
     "goals": {
-      "home": 2,
-      "away": 1
+      "home": 0,
+      "away": 3
     },
     "score": {
       "halftime": {
-        "home": 2,
+        "home": 0,
         "away": 0
       },
       "fulltime": {
-        "home": 2,
-        "away": 1
+        "home": 0,
+        "away": 3
       },
       "extratime": {
         "home": null,
@@ -281,25 +281,25 @@
   },
   {
     "fixture": {
-      "id": 1208325,
-      "referee": "A. Taylor",
+      "id": 1208335,
+      "referee": "Darren Bond, England",
       "timezone": "UTC",
-      "date": "2025-04-05T14:00:00+00:00",
-      "timestamp": 1743861600,
+      "date": "2025-04-12T14:00:00+00:00",
+      "timestamp": 1744466400,
       "periods": {
-        "first": 1743861600,
-        "second": 1743865200
+        "first": 1744466400,
+        "second": 1744470000
       },
       "venue": {
-        "id": 525,
-        "name": "Selhurst Park",
-        "city": "London"
+        "id": 508,
+        "name": "American Express Stadium",
+        "city": "Falmer, East Sussex"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 15
+        "extra": 9
       }
     },
     "league": {
@@ -309,26 +309,26 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 31",
+      "round": "Regular Season - 32",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 52,
-        "name": "Crystal Palace",
-        "logo": "https://media.api-sports.io/football/teams/52.png",
-        "winner": true
-      },
-      "away": {
         "id": 51,
         "name": "Brighton",
         "logo": "https://media.api-sports.io/football/teams/51.png",
-        "winner": false
+        "winner": null
+      },
+      "away": {
+        "id": 46,
+        "name": "Leicester",
+        "logo": "https://media.api-sports.io/football/teams/46.png",
+        "winner": null
       }
     },
     "goals": {
       "home": 2,
-      "away": 1
+      "away": 2
     },
     "score": {
       "halftime": {
@@ -337,7 +337,7 @@
       },
       "fulltime": {
         "home": 2,
-        "away": 1
+        "away": 2
       },
       "extratime": {
         "home": null,
@@ -408,6 +408,76 @@
       "fulltime": {
         "home": 5,
         "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1208340,
+      "referee": "Pawson, Craig, England",
+      "timezone": "UTC",
+      "date": "2025-04-12T14:00:00+00:00",
+      "timestamp": 1744466400,
+      "periods": {
+        "first": 1744466400,
+        "second": 1744470000
+      },
+      "venue": {
+        "id": 566,
+        "name": "The City Ground",
+        "city": "Nottingham, Nottinghamshire"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/39.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2024,
+      "round": "Regular Season - 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 65,
+        "name": "Nottingham Forest",
+        "logo": "https://media.api-sports.io/football/teams/65.png",
+        "winner": false
+      },
+      "away": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media.api-sports.io/football/teams/45.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
       },
       "extratime": {
         "home": null,
