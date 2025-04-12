@@ -245,23 +245,23 @@
     ],
     "최근 경기": {
         "날짜": "2025-04-12",
-        "홈팀": "사우샘프턴",
-        "스코어": "0 - 3",
-        "원정팀": "애스턴 빌라"
+        "홈팀": "아스널",
+        "스코어": "1 - 1",
+        "원정팀": "브렌트퍼드"
     },
     "팀별 최종 경기": [
         {
-            "date": "2025-04-05",
-            "time": "20:30",
-            "home_team": "에버턴",
-            "away_team": "아스널",
+            "date": "2025-04-13",
+            "time": "01:30",
+            "home_team": "아스널",
+            "away_team": "브렌트퍼드",
             "score": "1 - 1",
-            "home_team_rank": 15,
-            "away_team_rank": 2,
+            "home_team_rank": 2,
+            "away_team_rank": 12,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/에버턴-vs-아스널",
-            "home_recent_url": "https://example.com/recent/에버턴",
-            "away_recent_url": "https://example.com/recent/아스널"
+            "blog_url": "https://example.com/preview/아스널-vs-브렌트퍼드",
+            "home_recent_url": "https://example.com/recent/아스널",
+            "away_recent_url": "https://example.com/recent/브렌트퍼드"
         },
         {
             "date": "2025-04-12",
@@ -290,19 +290,6 @@
             "away_recent_url": "https://example.com/recent/본머스"
         },
         {
-            "date": "2025-04-06",
-            "time": "22:00",
-            "home_team": "브렌트퍼드",
-            "away_team": "첼시",
-            "score": "0 - 0",
-            "home_team_rank": 12,
-            "away_team_rank": 5,
-            "status": "Match Finished",
-            "blog_url": "https://example.com/preview/브렌트퍼드-vs-첼시",
-            "home_recent_url": "https://example.com/recent/브렌트퍼드",
-            "away_recent_url": "https://example.com/recent/첼시"
-        },
-        {
             "date": "2025-04-12",
             "time": "23:00",
             "home_team": "브라이턴",
@@ -314,6 +301,19 @@
             "blog_url": "https://example.com/preview/브라이턴-vs-레스터-시티",
             "home_recent_url": "https://example.com/recent/브라이턴",
             "away_recent_url": "https://example.com/recent/레스터-시티"
+        },
+        {
+            "date": "2025-04-06",
+            "time": "22:00",
+            "home_team": "브렌트퍼드",
+            "away_team": "첼시",
+            "score": "0 - 0",
+            "home_team_rank": 12,
+            "away_team_rank": 5,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/브렌트퍼드-vs-첼시",
+            "home_recent_url": "https://example.com/recent/브렌트퍼드",
+            "away_recent_url": "https://example.com/recent/첼시"
         },
         {
             "date": "2025-04-12",
@@ -396,17 +396,17 @@
     ],
     "matches": [
         {
-            "date": "2025-04-05",
-            "time": "20:30",
-            "home_team": "에버턴",
-            "away_team": "아스널",
+            "date": "2025-04-13",
+            "time": "01:30",
+            "home_team": "아스널",
+            "away_team": "브렌트퍼드",
             "score": "1 - 1",
-            "home_team_rank": 15,
-            "away_team_rank": 2,
+            "home_team_rank": 2,
+            "away_team_rank": 12,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/에버턴-vs-아스널",
-            "home_recent_url": "https://example.com/recent/에버턴",
-            "away_recent_url": "https://example.com/recent/아스널"
+            "blog_url": "https://example.com/preview/아스널-vs-브렌트퍼드",
+            "home_recent_url": "https://example.com/recent/아스널",
+            "away_recent_url": "https://example.com/recent/브렌트퍼드"
         },
         {
             "date": "2025-04-12",
@@ -435,19 +435,6 @@
             "away_recent_url": "https://example.com/recent/본머스"
         },
         {
-            "date": "2025-04-06",
-            "time": "22:00",
-            "home_team": "브렌트퍼드",
-            "away_team": "첼시",
-            "score": "0 - 0",
-            "home_team_rank": 12,
-            "away_team_rank": 5,
-            "status": "Match Finished",
-            "blog_url": "https://example.com/preview/브렌트퍼드-vs-첼시",
-            "home_recent_url": "https://example.com/recent/브렌트퍼드",
-            "away_recent_url": "https://example.com/recent/첼시"
-        },
-        {
             "date": "2025-04-12",
             "time": "23:00",
             "home_team": "브라이턴",
@@ -459,6 +446,19 @@
             "blog_url": "https://example.com/preview/브라이턴-vs-레스터-시티",
             "home_recent_url": "https://example.com/recent/브라이턴",
             "away_recent_url": "https://example.com/recent/레스터-시티"
+        },
+        {
+            "date": "2025-04-06",
+            "time": "22:00",
+            "home_team": "브렌트퍼드",
+            "away_team": "첼시",
+            "score": "0 - 0",
+            "home_team_rank": 12,
+            "away_team_rank": 5,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/브렌트퍼드-vs-첼시",
+            "home_recent_url": "https://example.com/recent/브렌트퍼드",
+            "away_recent_url": "https://example.com/recent/첼시"
         },
         {
             "date": "2025-04-12",
