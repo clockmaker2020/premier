@@ -50,7 +50,7 @@
             "원정 성적": "6승 5무 3패"
         }
     },
-    "현재 점수": "0 - 2",
+    "현재 점수": "2 - 2",
     "득점 기록": [
         {
             "시간": 8,
@@ -61,6 +61,16 @@
             "시간": 21,
             "선수": "C. Richards",
             "팀": "Crystal Palace"
+        },
+        {
+            "시간": 33,
+            "선수": "K. De Bruyne",
+            "팀": "Manchester City"
+        },
+        {
+            "시간": 36,
+            "선수": "O. Marmoush",
+            "팀": "Manchester City"
         }
     ],
     "경기 이벤트": [
@@ -75,6 +85,24 @@
             "선수": "C. Richards",
             "팀": "Crystal Palace",
             "시간": 21
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "D. Kamada",
+            "팀": "Crystal Palace",
+            "시간": 31
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "K. De Bruyne",
+            "팀": "Manchester City",
+            "시간": 33
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "O. Marmoush",
+            "팀": "Manchester City",
+            "시간": 36
         }
     ],
     "경기 통계": [
