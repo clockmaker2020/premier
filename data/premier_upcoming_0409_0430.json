@@ -245,22 +245,12 @@
     ],
     "경기일정": [
         {
-            "경기 ID": 1208338,
-            "날짜": "2025-04-12 20:30",
-            "홈팀": "맨 시티",
-            "원정팀": "크리스털 팰리스",
-            "장소": "Etihad Stadium",
-            "blog_url": "https://chatboy.tistory.com/551",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
             "경기 ID": 1208341,
             "날짜": "2025-04-12 23:00",
             "홈팀": "사우샘프턴",
             "원정팀": "애스턴 빌라",
             "장소": "St. Mary's Stadium",
-            "blog_url": "https://chatboy.tistory.com/552",
+            "blog_url": "https://chatboy.tistory.com/551",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -270,7 +260,7 @@
             "홈팀": "브라이턴",
             "원정팀": "레스터 시티",
             "장소": "American Express Stadium",
-            "blog_url": "https://chatboy.tistory.com/553",
+            "blog_url": "https://chatboy.tistory.com/552",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -280,6 +270,16 @@
             "홈팀": "노팅엄 포레스트",
             "원정팀": "에버턴",
             "장소": "The City Ground",
+            "blog_url": "https://chatboy.tistory.com/553",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208338,
+            "날짜": "2025-04-12 20:30",
+            "홈팀": "맨 시티",
+            "원정팀": "크리스털 팰리스",
+            "장소": "Etihad Stadium",
             "blog_url": "https://chatboy.tistory.com/554",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
@@ -580,10 +580,10 @@
         },
         {
             "팀": "크리스털 팰리스",
-            "날짜": "2025-04-05 23:00",
-            "홈팀": "크리스털 팰리스",
-            "원정팀": "브라이턴",
-            "스코어": "2 - 1"
+            "날짜": "2025-04-12 20:30",
+            "홈팀": "맨 시티",
+            "원정팀": "크리스털 팰리스",
+            "스코어": "5 - 2"
         },
         {
             "팀": "에버턴",
@@ -608,10 +608,10 @@
         },
         {
             "팀": "맨 시티",
-            "날짜": "2025-04-07 00:30",
-            "홈팀": "맨유",
-            "원정팀": "맨 시티",
-            "스코어": "0 - 0"
+            "날짜": "2025-04-12 20:30",
+            "홈팀": "맨 시티",
+            "원정팀": "크리스털 팰리스",
+            "스코어": "5 - 2"
         },
         {
             "팀": "맨유",
@@ -657,9 +657,9 @@
         }
     ],
     "최근 경기": {
-        "날짜": "2025-04-07",
-        "홈팀": "레스터 시티",
-        "스코어": "0 - 3",
-        "원정팀": "뉴캐슬"
+        "날짜": "2025-04-12",
+        "홈팀": "맨 시티",
+        "스코어": "5 - 2",
+        "원정팀": "크리스털 팰리스"
     }
 }
