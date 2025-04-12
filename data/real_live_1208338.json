@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Manchester City",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Ederson",
+                "Rico Lewis",
+                "Rúben Dias",
+                "Joško Gvardiol",
+                "Nico O'Reilly",
+                "Nico González",
+                "Mateo Kovačić",
+                "James McAtee",
+                "İlkay Gündoğan",
+                "Kevin De Bruyne",
+                "Omar Marmoush"
+            ],
+            "교체 선수": [
+                "Stefan Ortega",
+                "Abdukodir Khusanov",
+                "Vitor Reis",
+                "Matheus Nunes",
+                "Jack Grealish",
+                "Savinho",
+                "Bernardo Silva",
+                "Oscar Bobb",
+                "Jérémy Doku"
+            ]
+        },
+        {
+            "팀": "Crystal Palace",
+            "포메이션": "3-4-2-1",
+            "선발 선수": [
+                "Dean Henderson",
+                "Chris Richards",
+                "Jefferson Lerma",
+                "Maxence Lacroix",
+                "Daniel Muñoz",
+                "Adam Wharton",
+                "Daichi Kamada",
+                "Tyrick Mitchell",
+                "Ismaïla Sarr",
+                "Eberechi Eze",
+                "Jean-Philippe Mateta"
+            ],
+            "교체 선수": [
+                "Remi Matthews",
+                "Ben Chilwell",
+                "Joel Ward",
+                "Nathaniel Clyne",
+                "Caleb Kporha",
+                "Will Hughes",
+                "Justin Devenny",
+                "Matheus França",
+                "Franco Umeh"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
