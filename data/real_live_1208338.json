@@ -3,7 +3,7 @@
     "경기 날짜": "2025-04-12 20:30:00",
     "경기장": "Etihad Stadium",
     "도시": "Manchester",
-    "경기 상태": "Halftime",
+    "경기 상태": "Second Half",
     "리그": "Premier League",
     "라운드": "Regular Season - 32",
     "심판": "Jarred Gillett, Australia",
@@ -50,7 +50,7 @@
             "원정 성적": "6승 5무 3패"
         }
     },
-    "현재 점수": "2 - 2",
+    "현재 점수": "3 - 2",
     "득점 기록": [
         {
             "시간": 8,
@@ -70,6 +70,11 @@
         {
             "시간": 36,
             "선수": "O. Marmoush",
+            "팀": "Manchester City"
+        },
+        {
+            "시간": 47,
+            "선수": "M. Kovacic",
             "팀": "Manchester City"
         }
     ],
@@ -109,6 +114,18 @@
             "선수": "Nico",
             "팀": "Manchester City",
             "시간": 40
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "W. Hughes",
+            "팀": "Crystal Palace",
+            "시간": 46
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "M. Kovacic",
+            "팀": "Manchester City",
+            "시간": 47
         }
     ],
     "경기 통계": [
