@@ -3,10 +3,10 @@
     "경기 날짜": "2025-04-13 01:30:00",
     "경기장": "Emirates Stadium",
     "도시": "London",
-    "경기 상태": "First Half",
+    "경기 상태": "Second Half",
     "리그": "Premier League",
     "라운드": "Regular Season - 32",
-    "심판": "S. Hooper",
+    "심판": "Simon Hooper, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -50,64 +50,154 @@
             "원정 성적": "5승 2무 8패"
         }
     },
-    "현재 점수": "0 - 0",
-    "득점 기록": [],
-    "경기 이벤트": [],
+    "현재 점수": "1 - 1",
+    "득점 기록": [
+        {
+            "시간": 61,
+            "선수": "T. Partey",
+            "팀": "Arsenal"
+        },
+        {
+            "시간": 74,
+            "선수": "Y. Wissa",
+            "팀": "Brentford"
+        }
+    ],
+    "경기 이벤트": [
+        {
+            "이벤트 종류": "Var",
+            "선수": "K. Tierney",
+            "팀": "Arsenal",
+            "시간": 26
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "C. Norgaard",
+            "팀": "Brentford",
+            "시간": 28
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "K. Schade",
+            "팀": "Brentford",
+            "시간": 34
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "T. Partey",
+            "팀": "Arsenal",
+            "시간": 61
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Odegaard",
+            "팀": "Arsenal",
+            "시간": 62
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Lewis-Skelly",
+            "팀": "Arsenal",
+            "시간": 62
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "B. Saka",
+            "팀": "Arsenal",
+            "시간": 63
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "J. Timber",
+            "팀": "Arsenal",
+            "시간": 69
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "Y. Yarmolyuk",
+            "팀": "Brentford",
+            "시간": 69
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Kayode",
+            "팀": "Brentford",
+            "시간": 69
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "Y. Wissa",
+            "팀": "Brentford",
+            "시간": 74
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "M. Merino",
+            "팀": "Arsenal",
+            "시간": 75
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "Y. Yarmolyuk",
+            "팀": "Brentford",
+            "시간": 78
+        }
+    ],
     "경기 통계": [
         {
             "팀": "Arsenal",
             "항목": "Shots on Goal",
-            "수치": 0
+            "수치": 3
         },
         {
             "팀": "Arsenal",
             "항목": "Shots off Goal",
-            "수치": 0
-        },
-        {
-            "팀": "Arsenal",
-            "항목": "Total Shots",
-            "수치": 0
-        },
-        {
-            "팀": "Arsenal",
-            "항목": "Blocked Shots",
-            "수치": 0
-        },
-        {
-            "팀": "Arsenal",
-            "항목": "Shots insidebox",
-            "수치": 0
-        },
-        {
-            "팀": "Arsenal",
-            "항목": "Shots outsidebox",
-            "수치": 0
-        },
-        {
-            "팀": "Arsenal",
-            "항목": "Fouls",
             "수치": 2
         },
         {
             "팀": "Arsenal",
+            "항목": "Total Shots",
+            "수치": 9
+        },
+        {
+            "팀": "Arsenal",
+            "항목": "Blocked Shots",
+            "수치": 4
+        },
+        {
+            "팀": "Arsenal",
+            "항목": "Shots insidebox",
+            "수치": 7
+        },
+        {
+            "팀": "Arsenal",
+            "항목": "Shots outsidebox",
+            "수치": 2
+        },
+        {
+            "팀": "Arsenal",
+            "항목": "Fouls",
+            "수치": 5
+        },
+        {
+            "팀": "Arsenal",
             "항목": "Corner Kicks",
-            "수치": null
+            "수치": 12
         },
         {
             "팀": "Arsenal",
             "항목": "Offsides",
-            "수치": null
+            "수치": 3
         },
         {
             "팀": "Arsenal",
             "항목": "Ball Possession",
-            "수치": "47%"
+            "수치": "63%"
         },
         {
             "팀": "Arsenal",
             "항목": "Yellow Cards",
-            "수치": null
+            "수치": 0
         },
         {
             "팀": "Arsenal",
@@ -117,47 +207,47 @@
         {
             "팀": "Arsenal",
             "항목": "Goalkeeper Saves",
-            "수치": null
+            "수치": 1
         },
         {
             "팀": "Arsenal",
             "항목": "Total passes",
-            "수치": 15
+            "수치": 380
         },
         {
             "팀": "Arsenal",
             "항목": "Passes accurate",
-            "수치": 11
+            "수치": 336
         },
         {
             "팀": "Arsenal",
             "항목": "Passes %",
-            "수치": "73%"
+            "수치": "88%"
         },
         {
             "팀": "Arsenal",
             "항목": "expected_goals",
-            "수치": null
+            "수치": "0.60"
         },
         {
             "팀": "Arsenal",
             "항목": "goals_prevented",
-            "수치": null
+            "수치": 0
         },
         {
             "팀": "Brentford",
             "항목": "Shots on Goal",
-            "수치": 0
+            "수치": 2
         },
         {
             "팀": "Brentford",
             "항목": "Shots off Goal",
-            "수치": 0
+            "수치": 1
         },
         {
             "팀": "Brentford",
             "항목": "Total Shots",
-            "수치": 0
+            "수치": 3
         },
         {
             "팀": "Brentford",
@@ -167,7 +257,7 @@
         {
             "팀": "Brentford",
             "항목": "Shots insidebox",
-            "수치": 0
+            "수치": 3
         },
         {
             "팀": "Brentford",
@@ -177,27 +267,27 @@
         {
             "팀": "Brentford",
             "항목": "Fouls",
-            "수치": 1
+            "수치": 5
         },
         {
             "팀": "Brentford",
             "항목": "Corner Kicks",
-            "수치": null
+            "수치": 5
         },
         {
             "팀": "Brentford",
             "항목": "Offsides",
-            "수치": null
+            "수치": 0
         },
         {
             "팀": "Brentford",
             "항목": "Ball Possession",
-            "수치": "53%"
+            "수치": "37%"
         },
         {
             "팀": "Brentford",
             "항목": "Yellow Cards",
-            "수치": null
+            "수치": 2
         },
         {
             "팀": "Brentford",
@@ -207,32 +297,32 @@
         {
             "팀": "Brentford",
             "항목": "Goalkeeper Saves",
-            "수치": null
+            "수치": 2
         },
         {
             "팀": "Brentford",
             "항목": "Total passes",
-            "수치": 17
+            "수치": 222
         },
         {
             "팀": "Brentford",
             "항목": "Passes accurate",
-            "수치": 10
+            "수치": 170
         },
         {
             "팀": "Brentford",
             "항목": "Passes %",
-            "수치": "59%"
+            "수치": "77%"
         },
         {
             "팀": "Brentford",
             "항목": "expected_goals",
-            "수치": null
+            "수치": "0.05"
         },
         {
             "팀": "Brentford",
             "항목": "goals_prevented",
-            "수치": null
+            "수치": 0
         }
     ],
     "라인업": [
@@ -245,9 +335,9 @@
                 "William Saliba",
                 "Jakub Kiwior",
                 "Kieran Tierney",
+                "Oleksandr Zinchenko",
                 "Jorginho",
                 "Declan Rice",
-                "Oleksandr Zinchenko",
                 "Ethan Nwaneri",
                 "Leandro Trossard",
                 "Gabriel Martinelli"
@@ -266,19 +356,19 @@
         },
         {
             "팀": "Brentford",
-            "포메이션": "4-2-3-1",
+            "포메이션": "4-4-2",
             "선발 선수": [
                 "Mark Flekken",
                 "Kristoffer Ajer",
                 "Nathan Collins",
                 "Sepp van den Berg",
                 "Keane Lewis-Potter",
+                "Bryan Mbeumo",
                 "Christian Nørgaard",
                 "Vitaly Janelt",
-                "Bryan Mbeumo",
                 "Mikkel Damsgaard",
-                "Kevin Schade",
-                "Yoane Wissa"
+                "Yoane Wissa",
+                "Kevin Schade"
             ],
             "교체 선수": [
                 "Hákon Rafn Valdimarsson",
@@ -301,10 +391,10 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 22,
                         "position": "G",
-                        "rating": null,
+                        "rating": "6.6",
                         "captain": false,
                         "substitute": false
                     },
@@ -315,14 +405,14 @@
                     },
                     "goals": {
                         "total": null,
-                        "conceded": 0,
+                        "conceded": 1,
                         "assists": null,
-                        "saves": null
+                        "saves": 1
                     },
                     "passes": {
-                        "total": 3,
+                        "total": 26,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "14"
                     },
                     "tackles": {
                         "total": null,
@@ -363,46 +453,46 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 69,
                         "number": 5,
                         "position": "D",
-                        "rating": null,
+                        "rating": "7.6",
                         "captain": false,
                         "substitute": false
                     },
                     "offsides": null,
                     "shots": {
-                        "total": null,
-                        "on": null
+                        "total": 1,
+                        "on": 1
                     },
                     "goals": {
-                        "total": null,
+                        "total": 1,
                         "conceded": 0,
                         "assists": null,
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 23,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "22"
                     },
                     "tackles": {
                         "total": null,
                         "blocks": null,
-                        "interceptions": null
+                        "interceptions": 1
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 10,
+                        "won": 5
                     },
                     "dribbles": {
-                        "attempts": null,
-                        "success": null,
+                        "attempts": 1,
+                        "success": 1,
                         "past": null
                     },
                     "fouls": {
-                        "drawn": null,
-                        "committed": null
+                        "drawn": 1,
+                        "committed": 1
                     },
                     "cards": {
                         "yellow": 0,
@@ -425,10 +515,10 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 2,
                         "position": "D",
-                        "rating": null,
+                        "rating": "7.3",
                         "captain": false,
                         "substitute": false
                     },
@@ -444,9 +534,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": 2,
-                        "key": null,
-                        "accuracy": "2"
+                        "total": 58,
+                        "key": 3,
+                        "accuracy": "57"
                     },
                     "tackles": {
                         "total": null,
@@ -454,16 +544,16 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 7,
+                        "won": 4
                     },
                     "dribbles": {
-                        "attempts": null,
-                        "success": null,
+                        "attempts": 2,
+                        "success": 2,
                         "past": null
                     },
                     "fouls": {
-                        "drawn": null,
+                        "drawn": 1,
                         "committed": null
                     },
                     "cards": {
@@ -487,10 +577,10 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 15,
                         "position": "D",
-                        "rating": null,
+                        "rating": "6.6",
                         "captain": false,
                         "substitute": false
                     },
@@ -506,18 +596,18 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": 3,
+                        "total": 52,
                         "key": null,
-                        "accuracy": "3"
+                        "accuracy": "48"
                     },
                     "tackles": {
-                        "total": null,
+                        "total": 1,
                         "blocks": null,
-                        "interceptions": null
+                        "interceptions": 1
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 2,
+                        "won": 2
                     },
                     "dribbles": {
                         "attempts": null,
@@ -549,14 +639,14 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 62,
                         "number": 3,
                         "position": "D",
-                        "rating": null,
+                        "rating": "6.9",
                         "captain": false,
                         "substitute": false
                     },
-                    "offsides": null,
+                    "offsides": 2,
                     "shots": {
                         "total": null,
                         "on": null
@@ -568,18 +658,18 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": 3,
+                        "total": 24,
                         "key": null,
-                        "accuracy": "3"
+                        "accuracy": "23"
                     },
                     "tackles": {
-                        "total": null,
+                        "total": 1,
                         "blocks": null,
-                        "interceptions": null
+                        "interceptions": 1
                     },
                     "duels": {
-                        "total": 1,
-                        "won": 1
+                        "total": 4,
+                        "won": 2
                     },
                     "dribbles": {
                         "attempts": null,
@@ -611,16 +701,16 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 62,
                         "number": 17,
                         "position": "M",
-                        "rating": null,
+                        "rating": "6.9",
                         "captain": false,
                         "substitute": false
                     },
                     "offsides": null,
                     "shots": {
-                        "total": null,
+                        "total": 1,
                         "on": null
                     },
                     "goals": {
@@ -630,9 +720,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": 2,
+                        "total": 29,
                         "key": null,
-                        "accuracy": "2"
+                        "accuracy": "26"
                     },
                     "tackles": {
                         "total": null,
@@ -640,12 +730,12 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": 1,
+                        "total": 2,
                         "won": 1
                     },
                     "dribbles": {
-                        "attempts": 1,
-                        "success": 1,
+                        "attempts": null,
+                        "success": null,
                         "past": null
                     },
                     "fouls": {
@@ -673,10 +763,10 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 20,
                         "position": "M",
-                        "rating": null,
+                        "rating": "6.9",
                         "captain": true,
                         "substitute": false
                     },
@@ -692,17 +782,17 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": 2,
+                        "total": 64,
                         "key": null,
-                        "accuracy": "1"
+                        "accuracy": "57"
                     },
                     "tackles": {
                         "total": null,
                         "blocks": null,
-                        "interceptions": null
+                        "interceptions": 2
                     },
                     "duels": {
-                        "total": 1,
+                        "total": 2,
                         "won": null
                     },
                     "dribbles": {
@@ -712,7 +802,7 @@
                     },
                     "fouls": {
                         "drawn": null,
-                        "committed": 1
+                        "committed": 2
                     },
                     "cards": {
                         "yellow": 0,
@@ -735,37 +825,37 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 41,
                         "position": "M",
-                        "rating": null,
+                        "rating": "7.5",
                         "captain": false,
                         "substitute": false
                     },
                     "offsides": null,
                     "shots": {
-                        "total": null,
-                        "on": null
+                        "total": 1,
+                        "on": 1
                     },
                     "goals": {
                         "total": null,
                         "conceded": 0,
-                        "assists": null,
+                        "assists": 1,
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
-                        "key": null,
-                        "accuracy": null
+                        "total": 27,
+                        "key": 2,
+                        "accuracy": "22"
                     },
                     "tackles": {
                         "total": null,
                         "blocks": null,
-                        "interceptions": null
+                        "interceptions": 1
                     },
                     "duels": {
-                        "total": 1,
-                        "won": null
+                        "total": 2,
+                        "won": 1
                     },
                     "dribbles": {
                         "attempts": null,
@@ -797,10 +887,134 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 63,
                         "number": 53,
                         "position": "F",
-                        "rating": null,
+                        "rating": "7",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": 1,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 22,
+                        "key": 1,
+                        "accuracy": "18"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 4
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 3,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Leandro Trossard",
+            "팀": "Arsenal",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 75,
+                        "number": 19,
+                        "position": "F",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 2,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": 1,
+                        "accuracy": "17"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Gabriel Martinelli",
+            "팀": "Arsenal",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 75,
+                        "number": 11,
+                        "position": "F",
+                        "rating": "6.5",
                         "captain": false,
                         "substitute": false
                     },
@@ -816,14 +1030,76 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 16,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "13"
                     },
                     "tackles": {
                         "total": null,
                         "blocks": null,
                         "interceptions": null
+                    },
+                    "duels": {
+                        "total": 11,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Myles Lewis-Skelly",
+            "팀": "Arsenal",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 13,
+                        "number": 49,
+                        "position": "M",
+                        "rating": "6.3",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 6,
+                        "key": null,
+                        "accuracy": "6"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
                     },
                     "duels": {
                         "total": 1,
@@ -853,18 +1129,18 @@
             ]
         },
         {
-            "선수": "Leandro Trossard",
+            "선수": "Martin Ødegaard",
             "팀": "Arsenal",
-            "포지션": "F",
+            "포지션": "M",
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
-                        "number": 19,
-                        "position": "F",
-                        "rating": null,
+                        "minutes": 13,
+                        "number": 8,
+                        "position": "M",
+                        "rating": "6.5",
                         "captain": false,
-                        "substitute": false
+                        "substitute": true
                     },
                     "offsides": null,
                     "shots": {
@@ -878,9 +1154,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 7,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "7"
                     },
                     "tackles": {
                         "total": null,
@@ -915,18 +1191,142 @@
             ]
         },
         {
-            "선수": "Gabriel Martinelli",
+            "선수": "Bukayo Saka",
             "팀": "Arsenal",
             "포지션": "F",
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
-                        "number": 11,
+                        "minutes": 12,
+                        "number": 7,
                         "position": "F",
+                        "rating": "6.3",
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": "4"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Jurriën Timber",
+            "팀": "Arsenal",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 6,
+                        "number": 12,
+                        "position": "D",
                         "rating": null,
                         "captain": false,
-                        "substitute": false
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": "2"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Mikel Merino",
+            "팀": "Arsenal",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 0,
+                        "number": 23,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
                     },
                     "offsides": null,
                     "shots": {
@@ -950,7 +1350,7 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": 2,
+                        "total": null,
                         "won": null
                     },
                     "dribbles": {
@@ -1039,254 +1439,6 @@
             ]
         },
         {
-            "선수": "Jurriën Timber",
-            "팀": "Arsenal",
-            "포지션": "D",
-            "스탯": [
-                {
-                    "games": {
-                        "minutes": null,
-                        "number": 12,
-                        "position": "D",
-                        "rating": null,
-                        "captain": false,
-                        "substitute": true
-                    },
-                    "offsides": null,
-                    "shots": {
-                        "total": null,
-                        "on": null
-                    },
-                    "goals": {
-                        "total": null,
-                        "conceded": 0,
-                        "assists": null,
-                        "saves": null
-                    },
-                    "passes": {
-                        "total": null,
-                        "key": null,
-                        "accuracy": null
-                    },
-                    "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
-                    },
-                    "duels": {
-                        "total": null,
-                        "won": null
-                    },
-                    "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": null
-                    },
-                    "fouls": {
-                        "drawn": null,
-                        "committed": null
-                    },
-                    "cards": {
-                        "yellow": 0,
-                        "red": 0
-                    },
-                    "penalty": {
-                        "won": null,
-                        "commited": null,
-                        "scored": 0,
-                        "missed": 0,
-                        "saved": null
-                    }
-                }
-            ]
-        },
-        {
-            "선수": "Myles Lewis-Skelly",
-            "팀": "Arsenal",
-            "포지션": "M",
-            "스탯": [
-                {
-                    "games": {
-                        "minutes": null,
-                        "number": 49,
-                        "position": "M",
-                        "rating": null,
-                        "captain": false,
-                        "substitute": true
-                    },
-                    "offsides": null,
-                    "shots": {
-                        "total": null,
-                        "on": null
-                    },
-                    "goals": {
-                        "total": null,
-                        "conceded": 0,
-                        "assists": null,
-                        "saves": null
-                    },
-                    "passes": {
-                        "total": null,
-                        "key": null,
-                        "accuracy": null
-                    },
-                    "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
-                    },
-                    "duels": {
-                        "total": null,
-                        "won": null
-                    },
-                    "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": null
-                    },
-                    "fouls": {
-                        "drawn": null,
-                        "committed": null
-                    },
-                    "cards": {
-                        "yellow": 0,
-                        "red": 0
-                    },
-                    "penalty": {
-                        "won": null,
-                        "commited": null,
-                        "scored": 0,
-                        "missed": 0,
-                        "saved": null
-                    }
-                }
-            ]
-        },
-        {
-            "선수": "Martin Ødegaard",
-            "팀": "Arsenal",
-            "포지션": "M",
-            "스탯": [
-                {
-                    "games": {
-                        "minutes": null,
-                        "number": 8,
-                        "position": "M",
-                        "rating": null,
-                        "captain": false,
-                        "substitute": true
-                    },
-                    "offsides": null,
-                    "shots": {
-                        "total": null,
-                        "on": null
-                    },
-                    "goals": {
-                        "total": null,
-                        "conceded": 0,
-                        "assists": null,
-                        "saves": null
-                    },
-                    "passes": {
-                        "total": null,
-                        "key": null,
-                        "accuracy": null
-                    },
-                    "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
-                    },
-                    "duels": {
-                        "total": null,
-                        "won": null
-                    },
-                    "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": null
-                    },
-                    "fouls": {
-                        "drawn": null,
-                        "committed": null
-                    },
-                    "cards": {
-                        "yellow": 0,
-                        "red": 0
-                    },
-                    "penalty": {
-                        "won": null,
-                        "commited": null,
-                        "scored": 0,
-                        "missed": 0,
-                        "saved": null
-                    }
-                }
-            ]
-        },
-        {
-            "선수": "Mikel Merino",
-            "팀": "Arsenal",
-            "포지션": "M",
-            "스탯": [
-                {
-                    "games": {
-                        "minutes": null,
-                        "number": 23,
-                        "position": "M",
-                        "rating": null,
-                        "captain": false,
-                        "substitute": true
-                    },
-                    "offsides": null,
-                    "shots": {
-                        "total": null,
-                        "on": null
-                    },
-                    "goals": {
-                        "total": null,
-                        "conceded": 0,
-                        "assists": null,
-                        "saves": null
-                    },
-                    "passes": {
-                        "total": null,
-                        "key": null,
-                        "accuracy": null
-                    },
-                    "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
-                    },
-                    "duels": {
-                        "total": null,
-                        "won": null
-                    },
-                    "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": null
-                    },
-                    "fouls": {
-                        "drawn": null,
-                        "committed": null
-                    },
-                    "cards": {
-                        "yellow": 0,
-                        "red": 0
-                    },
-                    "penalty": {
-                        "won": null,
-                        "commited": null,
-                        "scored": 0,
-                        "missed": 0,
-                        "saved": null
-                    }
-                }
-            ]
-        },
-        {
             "선수": "Jack Henry-Francis",
             "팀": "Arsenal",
             "포지션": "M",
@@ -1296,68 +1448,6 @@
                         "minutes": null,
                         "number": 45,
                         "position": "M",
-                        "rating": null,
-                        "captain": false,
-                        "substitute": true
-                    },
-                    "offsides": null,
-                    "shots": {
-                        "total": null,
-                        "on": null
-                    },
-                    "goals": {
-                        "total": null,
-                        "conceded": 0,
-                        "assists": null,
-                        "saves": null
-                    },
-                    "passes": {
-                        "total": null,
-                        "key": null,
-                        "accuracy": null
-                    },
-                    "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
-                    },
-                    "duels": {
-                        "total": null,
-                        "won": null
-                    },
-                    "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": null
-                    },
-                    "fouls": {
-                        "drawn": null,
-                        "committed": null
-                    },
-                    "cards": {
-                        "yellow": 0,
-                        "red": 0
-                    },
-                    "penalty": {
-                        "won": null,
-                        "commited": null,
-                        "scored": 0,
-                        "missed": 0,
-                        "saved": null
-                    }
-                }
-            ]
-        },
-        {
-            "선수": "Bukayo Saka",
-            "팀": "Arsenal",
-            "포지션": "F",
-            "스탯": [
-                {
-                    "games": {
-                        "minutes": null,
-                        "number": 7,
-                        "position": "F",
                         "rating": null,
                         "captain": false,
                         "substitute": true
@@ -1541,10 +1631,10 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 1,
                         "position": "G",
-                        "rating": null,
+                        "rating": "7.2",
                         "captain": false,
                         "substitute": false
                     },
@@ -1555,14 +1645,14 @@
                     },
                     "goals": {
                         "total": null,
-                        "conceded": 0,
+                        "conceded": 1,
                         "assists": null,
-                        "saves": null
+                        "saves": 2
                     },
                     "passes": {
-                        "total": 2,
+                        "total": 35,
                         "key": null,
-                        "accuracy": "1"
+                        "accuracy": "28"
                     },
                     "tackles": {
                         "total": null,
@@ -1603,17 +1693,17 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 69,
                         "number": 20,
                         "position": "D",
-                        "rating": null,
+                        "rating": "6.9",
                         "captain": false,
                         "substitute": false
                     },
                     "offsides": null,
                     "shots": {
-                        "total": null,
-                        "on": null
+                        "total": 1,
+                        "on": 1
                     },
                     "goals": {
                         "total": null,
@@ -1622,18 +1712,18 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 16,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "12"
                     },
                     "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 1
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 3,
+                        "won": 1
                     },
                     "dribbles": {
                         "attempts": null,
@@ -1642,7 +1732,7 @@
                     },
                     "fouls": {
                         "drawn": null,
-                        "committed": null
+                        "committed": 1
                     },
                     "cards": {
                         "yellow": 0,
@@ -1665,10 +1755,10 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 22,
                         "position": "D",
-                        "rating": null,
+                        "rating": "7",
                         "captain": false,
                         "substitute": false
                     },
@@ -1680,22 +1770,22 @@
                     "goals": {
                         "total": null,
                         "conceded": 0,
-                        "assists": null,
+                        "assists": 1,
                         "saves": null
                     },
                     "passes": {
-                        "total": 2,
-                        "key": null,
-                        "accuracy": "1"
+                        "total": 22,
+                        "key": 1,
+                        "accuracy": "20"
                     },
                     "tackles": {
                         "total": null,
                         "blocks": null,
-                        "interceptions": null
+                        "interceptions": 1
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 1,
+                        "won": 1
                     },
                     "dribbles": {
                         "attempts": null,
@@ -1727,10 +1817,10 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 4,
                         "position": "D",
-                        "rating": null,
+                        "rating": "6.9",
                         "captain": false,
                         "substitute": false
                     },
@@ -1746,18 +1836,18 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": 3,
+                        "total": 27,
                         "key": null,
-                        "accuracy": "3"
+                        "accuracy": "22"
                     },
                     "tackles": {
-                        "total": null,
+                        "total": 2,
                         "blocks": null,
                         "interceptions": null
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 6,
+                        "won": 6
                     },
                     "dribbles": {
                         "attempts": null,
@@ -1789,10 +1879,10 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 23,
                         "position": "D",
-                        "rating": null,
+                        "rating": "6.3",
                         "captain": false,
                         "substitute": false
                     },
@@ -1808,71 +1898,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": 1,
+                        "total": 16,
                         "key": null,
-                        "accuracy": null
-                    },
-                    "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
-                    },
-                    "duels": {
-                        "total": null,
-                        "won": null
-                    },
-                    "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": null
-                    },
-                    "fouls": {
-                        "drawn": null,
-                        "committed": null
-                    },
-                    "cards": {
-                        "yellow": 0,
-                        "red": 0
-                    },
-                    "penalty": {
-                        "won": null,
-                        "commited": null,
-                        "scored": 0,
-                        "missed": 0,
-                        "saved": null
-                    }
-                }
-            ]
-        },
-        {
-            "선수": "Christian Nørgaard",
-            "팀": "Brentford",
-            "포지션": "M",
-            "스탯": [
-                {
-                    "games": {
-                        "minutes": 5,
-                        "number": 6,
-                        "position": "M",
-                        "rating": null,
-                        "captain": true,
-                        "substitute": false
-                    },
-                    "offsides": null,
-                    "shots": {
-                        "total": null,
-                        "on": null
-                    },
-                    "goals": {
-                        "total": null,
-                        "conceded": 0,
-                        "assists": null,
-                        "saves": null
-                    },
-                    "passes": {
-                        "total": 1,
-                        "key": null,
-                        "accuracy": null
+                        "accuracy": "10"
                     },
                     "tackles": {
                         "total": null,
@@ -1881,69 +1909,7 @@
                     },
                     "duels": {
                         "total": 2,
-                        "won": 1
-                    },
-                    "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": 1
-                    },
-                    "fouls": {
-                        "drawn": null,
-                        "committed": null
-                    },
-                    "cards": {
-                        "yellow": 0,
-                        "red": 0
-                    },
-                    "penalty": {
-                        "won": null,
-                        "commited": null,
-                        "scored": 0,
-                        "missed": 0,
-                        "saved": null
-                    }
-                }
-            ]
-        },
-        {
-            "선수": "Vitaly Janelt",
-            "팀": "Brentford",
-            "포지션": "M",
-            "스탯": [
-                {
-                    "games": {
-                        "minutes": 5,
-                        "number": 27,
-                        "position": "M",
-                        "rating": null,
-                        "captain": false,
-                        "substitute": false
-                    },
-                    "offsides": null,
-                    "shots": {
-                        "total": null,
-                        "on": null
-                    },
-                    "goals": {
-                        "total": null,
-                        "conceded": 0,
-                        "assists": null,
-                        "saves": null
-                    },
-                    "passes": {
-                        "total": 3,
-                        "key": null,
-                        "accuracy": "2"
-                    },
-                    "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
-                    },
-                    "duels": {
-                        "total": null,
-                        "won": null
+                        "won": 2
                     },
                     "dribbles": {
                         "attempts": null,
@@ -1951,7 +1917,7 @@
                         "past": null
                     },
                     "fouls": {
-                        "drawn": null,
+                        "drawn": 1,
                         "committed": null
                     },
                     "cards": {
@@ -1975,10 +1941,10 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 19,
                         "position": "M",
-                        "rating": null,
+                        "rating": "6.9",
                         "captain": false,
                         "substitute": false
                     },
@@ -1994,18 +1960,142 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": 2,
-                        "key": null,
-                        "accuracy": "1"
+                        "total": 21,
+                        "key": 1,
+                        "accuracy": "14"
                     },
                     "tackles": {
-                        "total": 2,
+                        "total": 3,
                         "blocks": null,
                         "interceptions": null
                     },
                     "duels": {
-                        "total": 2,
-                        "won": 2
+                        "total": 9,
+                        "won": 6
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Christian Nørgaard",
+            "팀": "Brentford",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 75,
+                        "number": 6,
+                        "position": "M",
+                        "rating": "6.6",
+                        "captain": true,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 23,
+                        "key": null,
+                        "accuracy": "17"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 2,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 2
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Vitaly Janelt",
+            "팀": "Brentford",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 69,
+                        "number": 27,
+                        "position": "M",
+                        "rating": "6.6",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 18,
+                        "key": null,
+                        "accuracy": "13"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
                     },
                     "dribbles": {
                         "attempts": null,
@@ -2037,16 +2127,16 @@
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
                         "number": 24,
                         "position": "M",
-                        "rating": null,
+                        "rating": "6.9",
                         "captain": false,
                         "substitute": false
                     },
                     "offsides": null,
                     "shots": {
-                        "total": null,
+                        "total": 1,
                         "on": null
                     },
                     "goals": {
@@ -2056,23 +2146,23 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": 3,
+                        "total": 20,
                         "key": null,
-                        "accuracy": "2"
+                        "accuracy": "15"
                     },
                     "tackles": {
-                        "total": null,
+                        "total": 1,
                         "blocks": null,
-                        "interceptions": null
+                        "interceptions": 2
                     },
                     "duels": {
-                        "total": 1,
-                        "won": 1
+                        "total": 7,
+                        "won": 3
                     },
                     "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": null
+                        "attempts": 1,
+                        "success": 1,
+                        "past": 3
                     },
                     "fouls": {
                         "drawn": 1,
@@ -2093,16 +2183,78 @@
             ]
         },
         {
-            "선수": "Kevin Schade",
+            "선수": "Yoane Wissa",
             "팀": "Brentford",
-            "포지션": "M",
+            "포지션": "F",
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
+                        "minutes": 75,
+                        "number": 11,
+                        "position": "F",
+                        "rating": "7.3",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 11,
+                        "key": null,
+                        "accuracy": "10"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": 2,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Kevin Schade",
+            "팀": "Brentford",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 75,
                         "number": 7,
-                        "position": "M",
-                        "rating": null,
+                        "position": "F",
+                        "rating": "6.7",
                         "captain": false,
                         "substitute": false
                     },
@@ -2118,18 +2270,80 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 8,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "4"
                     },
                     "tackles": {
+                        "total": 3,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 7,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Michael Kayode",
+            "팀": "Brentford",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 6,
+                        "number": 33,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
                         "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": "3"
+                    },
+                    "tackles": {
+                        "total": 1,
                         "blocks": null,
                         "interceptions": null
                     },
                     "duels": {
-                        "total": null,
-                        "won": null
+                        "total": 1,
+                        "won": 1
                     },
                     "dribbles": {
                         "attempts": null,
@@ -2155,18 +2369,18 @@
             ]
         },
         {
-            "선수": "Yoane Wissa",
+            "선수": "Yehor Yarmolyuk",
             "팀": "Brentford",
-            "포지션": "F",
+            "포지션": "M",
             "스탯": [
                 {
                     "games": {
-                        "minutes": 5,
-                        "number": 11,
-                        "position": "F",
+                        "minutes": 6,
+                        "number": 18,
+                        "position": "M",
                         "rating": null,
                         "captain": false,
-                        "substitute": false
+                        "substitute": true
                     },
                     "offsides": null,
                     "shots": {
@@ -2180,9 +2394,9 @@
                         "saves": null
                     },
                     "passes": {
-                        "total": null,
+                        "total": 2,
                         "key": null,
-                        "accuracy": null
+                        "accuracy": "2"
                     },
                     "tackles": {
                         "total": null,
@@ -2190,8 +2404,8 @@
                         "interceptions": null
                     },
                     "duels": {
-                        "total": 2,
-                        "won": 1
+                        "total": null,
+                        "won": null
                     },
                     "dribbles": {
                         "attempts": null,
@@ -2199,8 +2413,8 @@
                         "past": null
                     },
                     "fouls": {
-                        "drawn": 1,
-                        "committed": 1
+                        "drawn": null,
+                        "committed": null
                     },
                     "cards": {
                         "yellow": 0,
@@ -2465,68 +2679,6 @@
             ]
         },
         {
-            "선수": "Michael Kayode",
-            "팀": "Brentford",
-            "포지션": "D",
-            "스탯": [
-                {
-                    "games": {
-                        "minutes": null,
-                        "number": 33,
-                        "position": "D",
-                        "rating": null,
-                        "captain": false,
-                        "substitute": true
-                    },
-                    "offsides": null,
-                    "shots": {
-                        "total": null,
-                        "on": null
-                    },
-                    "goals": {
-                        "total": null,
-                        "conceded": 0,
-                        "assists": null,
-                        "saves": null
-                    },
-                    "passes": {
-                        "total": null,
-                        "key": null,
-                        "accuracy": null
-                    },
-                    "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
-                    },
-                    "duels": {
-                        "total": null,
-                        "won": null
-                    },
-                    "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": null
-                    },
-                    "fouls": {
-                        "drawn": null,
-                        "committed": null
-                    },
-                    "cards": {
-                        "yellow": 0,
-                        "red": 0
-                    },
-                    "penalty": {
-                        "won": null,
-                        "commited": null,
-                        "scored": 0,
-                        "missed": 0,
-                        "saved": null
-                    }
-                }
-            ]
-        },
-        {
             "선수": "Mathias Jensen",
             "팀": "Brentford",
             "포지션": "M",
@@ -2535,68 +2687,6 @@
                     "games": {
                         "minutes": null,
                         "number": 8,
-                        "position": "M",
-                        "rating": null,
-                        "captain": false,
-                        "substitute": true
-                    },
-                    "offsides": null,
-                    "shots": {
-                        "total": null,
-                        "on": null
-                    },
-                    "goals": {
-                        "total": null,
-                        "conceded": 0,
-                        "assists": null,
-                        "saves": null
-                    },
-                    "passes": {
-                        "total": null,
-                        "key": null,
-                        "accuracy": null
-                    },
-                    "tackles": {
-                        "total": null,
-                        "blocks": null,
-                        "interceptions": null
-                    },
-                    "duels": {
-                        "total": null,
-                        "won": null
-                    },
-                    "dribbles": {
-                        "attempts": null,
-                        "success": null,
-                        "past": null
-                    },
-                    "fouls": {
-                        "drawn": null,
-                        "committed": null
-                    },
-                    "cards": {
-                        "yellow": 0,
-                        "red": 0
-                    },
-                    "penalty": {
-                        "won": null,
-                        "commited": null,
-                        "scored": 0,
-                        "missed": 0,
-                        "saved": null
-                    }
-                }
-            ]
-        },
-        {
-            "선수": "Yehor Yarmolyuk",
-            "팀": "Brentford",
-            "포지션": "M",
-            "스탯": [
-                {
-                    "games": {
-                        "minutes": null,
-                        "number": 18,
                         "position": "M",
                         "rating": null,
                         "captain": false,
