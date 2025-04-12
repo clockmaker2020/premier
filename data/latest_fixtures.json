@@ -1,25 +1,25 @@
 [
   {
     "fixture": {
-      "id": 1208326,
-      "referee": "D. England",
+      "id": 1208334,
+      "referee": "Simon Hooper, England",
       "timezone": "UTC",
-      "date": "2025-04-05T11:30:00+00:00",
-      "timestamp": 1743852600,
+      "date": "2025-04-12T16:30:00+00:00",
+      "timestamp": 1744475400,
       "periods": {
-        "first": 1743852600,
-        "second": 1743856200
+        "first": 1744475400,
+        "second": 1744479000
       },
       "venue": {
-        "id": 8560,
-        "name": "Goodison Park",
-        "city": "Liverpool"
+        "id": 494,
+        "name": "Emirates Stadium",
+        "city": "London"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 6
+        "extra": 7
       }
     },
     "league": {
@@ -29,20 +29,20 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 31",
+      "round": "Regular Season - 32",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 45,
-        "name": "Everton",
-        "logo": "https://media.api-sports.io/football/teams/45.png",
-        "winner": null
-      },
-      "away": {
         "id": 42,
         "name": "Arsenal",
         "logo": "https://media.api-sports.io/football/teams/42.png",
+        "winner": null
+      },
+      "away": {
+        "id": 55,
+        "name": "Brentford",
+        "logo": "https://media.api-sports.io/football/teams/55.png",
         "winner": null
       }
     },
@@ -53,7 +53,7 @@
     "score": {
       "halftime": {
         "home": 0,
-        "away": 1
+        "away": 0
       },
       "fulltime": {
         "home": 1,
@@ -211,76 +211,6 @@
   },
   {
     "fixture": {
-      "id": 1208324,
-      "referee": "M. Oliver",
-      "timezone": "UTC",
-      "date": "2025-04-06T13:00:00+00:00",
-      "timestamp": 1743944400,
-      "periods": {
-        "first": 1743944400,
-        "second": 1743948000
-      },
-      "venue": {
-        "id": 10503,
-        "name": "Gtech Community Stadium",
-        "city": "Brentford, Middlesex"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 31",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 55,
-        "name": "Brentford",
-        "logo": "https://media.api-sports.io/football/teams/55.png",
-        "winner": null
-      },
-      "away": {
-        "id": 49,
-        "name": "Chelsea",
-        "logo": "https://media.api-sports.io/football/teams/49.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1208335,
       "referee": "Darren Bond, England",
       "timezone": "UTC",
@@ -338,6 +268,76 @@
       "fulltime": {
         "home": 2,
         "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1208324,
+      "referee": "M. Oliver",
+      "timezone": "UTC",
+      "date": "2025-04-06T13:00:00+00:00",
+      "timestamp": 1743944400,
+      "periods": {
+        "first": 1743944400,
+        "second": 1743948000
+      },
+      "venue": {
+        "id": 10503,
+        "name": "Gtech Community Stadium",
+        "city": "Brentford, Middlesex"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/39.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2024,
+      "round": "Regular Season - 31",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 55,
+        "name": "Brentford",
+        "logo": "https://media.api-sports.io/football/teams/55.png",
+        "winner": null
+      },
+      "away": {
+        "id": 49,
+        "name": "Chelsea",
+        "logo": "https://media.api-sports.io/football/teams/49.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
       },
       "extratime": {
         "home": null,
