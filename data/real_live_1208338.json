@@ -155,6 +155,18 @@
             "선수": "N. Clyne",
             "팀": "Crystal Palace",
             "시간": 63
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "J. McAtee",
+            "팀": "Manchester City",
+            "시간": 68
+        },
+        {
+            "이벤트 종류": "subst",
+            "선수": "S. Ortega",
+            "팀": "Manchester City",
+            "시간": 71
         }
     ],
     "경기 통계": [
