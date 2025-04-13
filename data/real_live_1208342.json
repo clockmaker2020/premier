@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 32",
-    "심판": "A. Taylor",
+    "심판": "Anthony Taylor, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Wolves",
+            "포메이션": "3-4-2-1",
+            "선발 선수": [
+                "José Sá",
+                "Matt Doherty",
+                "Toti Gomes",
+                "Emmanuel Agbadou",
+                "Nélson Semedo",
+                "André",
+                "João Gomes",
+                "Rayan Aït Nouri",
+                "Marshall Munetsi",
+                "Jean-Ricner Bellegarde",
+                "Jørgen Strand Larsen"
+            ],
+            "교체 선수": [
+                "Daniel Bentley",
+                "Santiago Bueno",
+                "Nasser Djiga",
+                "Boubacar Traoré",
+                "Rodrigo Gomes",
+                "Matheus Cunha",
+                "Hee-Chan Hwang",
+                "Pablo Sarabia",
+                "Mateus Mané"
+            ]
+        },
+        {
+            "팀": "Tottenham",
+            "포메이션": "4-3-3",
+            "선발 선수": [
+                "Guglielmo Vicario",
+                "Archie Gray",
+                "Cristian Romero",
+                "Ben Davies",
+                "Djed Spence",
+                "Pape Matar Sarr",
+                "Yves Bissouma",
+                "James Maddison",
+                "Brennan Johnson",
+                "Dominic Solanke",
+                "Mathys Tel"
+            ],
+            "교체 선수": [
+                "Antonín Kinský",
+                "Micky van de Ven",
+                "Pedro Porro",
+                "Destiny Udogie",
+                "Rodrigo Bentancur",
+                "Lucas Bergvall",
+                "Dejan Kulusevski",
+                "Mikey Moore",
+                "Richarlison"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
