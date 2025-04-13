@@ -3,7 +3,7 @@
     "경기 날짜": "2025-04-13 22:00:00",
     "경기장": "Anfield",
     "도시": "Liverpool",
-    "경기 상태": "Not Started",
+    "경기 상태": "First Half",
     "리그": "Premier League",
     "라운드": "Regular Season - 32",
     "심판": "Andy Madley, England",
@@ -50,14 +50,189 @@
             "원정 성적": "4승 5무 6패"
         }
     },
-    "현재 점수": "None - None",
+    "현재 점수": "0 - 0",
     "득점 기록": [],
     "경기 이벤트": [],
     "경기 통계": [
         {
-            "팀": "N/A",
-            "항목": "N/A",
-            "수치": "N/A"
+            "팀": "Liverpool",
+            "항목": "Shots on Goal",
+            "수치": 1
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Shots off Goal",
+            "수치": 0
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Total Shots",
+            "수치": 1
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Blocked Shots",
+            "수치": 0
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Shots insidebox",
+            "수치": 1
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Shots outsidebox",
+            "수치": 0
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Fouls",
+            "수치": 1
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Corner Kicks",
+            "수치": 1
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Offsides",
+            "수치": 1
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Ball Possession",
+            "수치": "61%"
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Yellow Cards",
+            "수치": null
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Red Cards",
+            "수치": null
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Goalkeeper Saves",
+            "수치": null
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Total passes",
+            "수치": 36
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Passes accurate",
+            "수치": 31
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "Passes %",
+            "수치": "86%"
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "expected_goals",
+            "수치": "0.05"
+        },
+        {
+            "팀": "Liverpool",
+            "항목": "goals_prevented",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Shots on Goal",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Shots off Goal",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Total Shots",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Blocked Shots",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Shots insidebox",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Shots outsidebox",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Fouls",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Corner Kicks",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Offsides",
+            "수치": 0
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Ball Possession",
+            "수치": "39%"
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Yellow Cards",
+            "수치": null
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Red Cards",
+            "수치": null
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Goalkeeper Saves",
+            "수치": null
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Total passes",
+            "수치": 25
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Passes accurate",
+            "수치": 18
+        },
+        {
+            "팀": "West Ham",
+            "항목": "Passes %",
+            "수치": "72%"
+        },
+        {
+            "팀": "West Ham",
+            "항목": "expected_goals",
+            "수치": "0.00"
+        },
+        {
+            "팀": "West Ham",
+            "항목": "goals_prevented",
+            "수치": 0
         }
     ],
     "라인업": [
@@ -118,5 +293,2486 @@
             ]
         }
     ],
-    "선수별 통계": []
+    "선수별 통계": [
+        {
+            "선수": "Alisson",
+            "팀": "Liverpool",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 1,
+                        "position": "G",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Conor Bradley",
+            "팀": "Liverpool",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 84,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Ibrahima Konaté",
+            "팀": "Liverpool",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 5,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": "2"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Virgil van Dijk",
+            "팀": "Liverpool",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 4,
+                        "position": "D",
+                        "rating": null,
+                        "captain": true,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": "3"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Konstantinos Tsimikas",
+            "팀": "Liverpool",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 21,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Ryan Gravenberch",
+            "팀": "Liverpool",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 38,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": "3"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Alexis Mac Allister",
+            "팀": "Liverpool",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 10,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Mohamed Salah",
+            "팀": "Liverpool",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 11,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": "3"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Curtis Jones",
+            "팀": "Liverpool",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 17,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 4,
+                        "key": null,
+                        "accuracy": "4"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Luis Díaz",
+            "팀": "Liverpool",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 7,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Diogo Jota",
+            "팀": "Liverpool",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 20,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Vítězslav Jaroš",
+            "팀": "Liverpool",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 56,
+                        "position": "G",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Caoimhin Kelleher",
+            "팀": "Liverpool",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 62,
+                        "position": "G",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Jarell Quansah",
+            "팀": "Liverpool",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 78,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Andrew Robertson",
+            "팀": "Liverpool",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 26,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Wataru Endo",
+            "팀": "Liverpool",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 3,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Harvey Elliott",
+            "팀": "Liverpool",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 19,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Dominik Szoboszlai",
+            "팀": "Liverpool",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 8,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Federico Chiesa",
+            "팀": "Liverpool",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 14,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Cody Gakpo",
+            "팀": "Liverpool",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 18,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Alphonse Aréola",
+            "팀": "West Ham",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 23,
+                        "position": "G",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": "2"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Jean-Clair Todibo",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 25,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Konstantinos Mavropanos",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 15,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 2,
+                        "key": null,
+                        "accuracy": "2"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Max Kilman",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 26,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Aaron Wan-Bissaka",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 29,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Carlos Soler",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 4,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "James Ward-Prowse",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 8,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Lucas Paquetá",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 10,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": "2"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Oliver Scarles",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 57,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Jarrod Bowen",
+            "팀": "West Ham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 20,
+                        "position": "F",
+                        "rating": null,
+                        "captain": true,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Mohammed Kudus",
+            "팀": "West Ham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 3,
+                        "number": 14,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 1,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Łukasz Fabiański",
+            "팀": "West Ham",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 1,
+                        "position": "G",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Vladimír Coufal",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 5,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Emerson Palmieri",
+            "팀": "West Ham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 33,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Luis Guilherme",
+            "팀": "West Ham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 17,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Edson Álvarez",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 19,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Guido Rodríguez",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 24,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Tomáš Souček",
+            "팀": "West Ham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 28,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Niclas Füllkrug",
+            "팀": "West Ham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 11,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Evan Ferguson",
+            "팀": "West Ham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 34,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
 }
