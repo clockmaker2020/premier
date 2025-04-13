@@ -631,19 +631,19 @@
   },
   {
     "fixture": {
-      "id": 1208330,
-      "referee": "Brooks, John, England",
+      "id": 1208339,
+      "referee": "Michael Oliver, England",
       "timezone": "UTC",
-      "date": "2025-04-06T15:30:00+00:00",
-      "timestamp": 1743953400,
+      "date": "2025-04-13T15:30:00+00:00",
+      "timestamp": 1744558200,
       "periods": {
-        "first": 1743953400,
-        "second": 1743957000
+        "first": 1744558200,
+        "second": 1744561800
       },
       "venue": {
-        "id": 556,
-        "name": "Old Trafford",
-        "city": "Manchester"
+        "id": 562,
+        "name": "St. James' Park",
+        "city": "Newcastle upon Tyne"
       },
       "status": {
         "long": "Match Finished",
@@ -659,105 +659,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 31",
+      "round": "Regular Season - 32",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 33,
-        "name": "Manchester United",
-        "logo": "https://media.api-sports.io/football/teams/33.png",
-        "winner": null
-      },
-      "away": {
-        "id": 50,
-        "name": "Manchester City",
-        "logo": "https://media.api-sports.io/football/teams/50.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1208329,
-      "referee": "Robert Jones, England",
-      "timezone": "UTC",
-      "date": "2025-04-07T19:00:00+00:00",
-      "timestamp": 1744052400,
-      "periods": {
-        "first": 1744052400,
-        "second": 1744056000
-      },
-      "venue": {
-        "id": 547,
-        "name": "King Power Stadium",
-        "city": "Leicester, Leicestershire"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 6
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 31",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 46,
-        "name": "Leicester",
-        "logo": "https://media.api-sports.io/football/teams/46.png",
-        "winner": false
-      },
-      "away": {
         "id": 34,
         "name": "Newcastle",
         "logo": "https://media.api-sports.io/football/teams/34.png",
         "winner": true
+      },
+      "away": {
+        "id": 33,
+        "name": "Manchester United",
+        "logo": "https://media.api-sports.io/football/teams/33.png",
+        "winner": false
       }
     },
     "goals": {
-      "home": 0,
-      "away": 3
+      "home": 4,
+      "away": 1
     },
     "score": {
       "halftime": {
-        "home": 0,
-        "away": 3
+        "home": 1,
+        "away": 1
       },
       "fulltime": {
-        "home": 0,
-        "away": 3
+        "home": 4,
+        "away": 1
       },
       "extratime": {
         "home": null,
