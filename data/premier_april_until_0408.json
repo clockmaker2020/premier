@@ -245,9 +245,9 @@
     ],
     "최근 경기": {
         "날짜": "2025-04-13",
-        "홈팀": "울브스",
-        "스코어": "4 - 2",
-        "원정팀": "토트넘"
+        "홈팀": "뉴캐슬",
+        "스코어": "4 - 1",
+        "원정팀": "맨유"
     },
     "팀별 최종 경기": [
         {
@@ -368,30 +368,17 @@
             "away_recent_url": "https://example.com/recent/웨스트-햄"
         },
         {
-            "date": "2025-04-07",
+            "date": "2025-04-14",
             "time": "00:30",
-            "home_team": "맨유",
-            "away_team": "맨 시티",
-            "score": "0 - 0",
-            "home_team_rank": 13,
-            "away_team_rank": 4,
+            "home_team": "뉴캐슬",
+            "away_team": "맨유",
+            "score": "4 - 1",
+            "home_team_rank": 7,
+            "away_team_rank": 13,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/맨유-vs-맨-시티",
-            "home_recent_url": "https://example.com/recent/맨유",
-            "away_recent_url": "https://example.com/recent/맨-시티"
-        },
-        {
-            "date": "2025-04-08",
-            "time": "04:00",
-            "home_team": "레스터 시티",
-            "away_team": "뉴캐슬",
-            "score": "0 - 3",
-            "home_team_rank": 19,
-            "away_team_rank": 7,
-            "status": "Match Finished",
-            "blog_url": "https://example.com/preview/레스터-시티-vs-뉴캐슬",
-            "home_recent_url": "https://example.com/recent/레스터-시티",
-            "away_recent_url": "https://example.com/recent/뉴캐슬"
+            "blog_url": "https://example.com/preview/뉴캐슬-vs-맨유",
+            "home_recent_url": "https://example.com/recent/뉴캐슬",
+            "away_recent_url": "https://example.com/recent/맨유"
         },
         {
             "date": "2025-04-13",
@@ -526,30 +513,17 @@
             "away_recent_url": "https://example.com/recent/웨스트-햄"
         },
         {
-            "date": "2025-04-07",
+            "date": "2025-04-14",
             "time": "00:30",
-            "home_team": "맨유",
-            "away_team": "맨 시티",
-            "score": "0 - 0",
-            "home_team_rank": 13,
-            "away_team_rank": 4,
+            "home_team": "뉴캐슬",
+            "away_team": "맨유",
+            "score": "4 - 1",
+            "home_team_rank": 7,
+            "away_team_rank": 13,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/맨유-vs-맨-시티",
-            "home_recent_url": "https://example.com/recent/맨유",
-            "away_recent_url": "https://example.com/recent/맨-시티"
-        },
-        {
-            "date": "2025-04-08",
-            "time": "04:00",
-            "home_team": "레스터 시티",
-            "away_team": "뉴캐슬",
-            "score": "0 - 3",
-            "home_team_rank": 19,
-            "away_team_rank": 7,
-            "status": "Match Finished",
-            "blog_url": "https://example.com/preview/레스터-시티-vs-뉴캐슬",
-            "home_recent_url": "https://example.com/recent/레스터-시티",
-            "away_recent_url": "https://example.com/recent/뉴캐슬"
+            "blog_url": "https://example.com/preview/뉴캐슬-vs-맨유",
+            "home_recent_url": "https://example.com/recent/뉴캐슬",
+            "away_recent_url": "https://example.com/recent/맨유"
         },
         {
             "date": "2025-04-13",
