@@ -245,42 +245,12 @@
     ],
     "경기일정": [
         {
-            "경기 ID": 1208342,
-            "날짜": "2025-04-13 22:00",
-            "홈팀": "울브스",
-            "원정팀": "토트넘",
-            "장소": "Molineux Stadium",
-            "blog_url": "https://chatboy.tistory.com/551",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208337,
-            "날짜": "2025-04-13 22:00",
-            "홈팀": "리버풀",
-            "원정팀": "웨스트 햄",
-            "장소": "Anfield",
-            "blog_url": "https://chatboy.tistory.com/552",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208336,
-            "날짜": "2025-04-13 22:00",
-            "홈팀": "첼시",
-            "원정팀": "입스위치",
-            "장소": "Stamford Bridge",
-            "blog_url": "https://chatboy.tistory.com/553",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
             "경기 ID": 1208338,
             "날짜": "2025-04-12 20:30",
             "홈팀": "맨 시티",
             "원정팀": "크리스털 팰리스",
             "장소": "Etihad Stadium",
-            "blog_url": "https://chatboy.tistory.com/554",
+            "blog_url": "https://chatboy.tistory.com/551",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -290,7 +260,7 @@
             "홈팀": "사우샘프턴",
             "원정팀": "애스턴 빌라",
             "장소": "St. Mary's Stadium",
-            "blog_url": "https://chatboy.tistory.com/555",
+            "blog_url": "https://chatboy.tistory.com/552",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -300,7 +270,7 @@
             "홈팀": "브라이턴",
             "원정팀": "레스터 시티",
             "장소": "American Express Stadium",
-            "blog_url": "https://chatboy.tistory.com/556",
+            "blog_url": "https://chatboy.tistory.com/553",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -310,7 +280,7 @@
             "홈팀": "노팅엄 포레스트",
             "원정팀": "에버턴",
             "장소": "The City Ground",
-            "blog_url": "https://chatboy.tistory.com/557",
+            "blog_url": "https://chatboy.tistory.com/554",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -320,6 +290,36 @@
             "홈팀": "아스널",
             "원정팀": "브렌트퍼드",
             "장소": "Emirates Stadium",
+            "blog_url": "https://chatboy.tistory.com/555",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208342,
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "울브스",
+            "원정팀": "토트넘",
+            "장소": "Molineux Stadium",
+            "blog_url": "https://chatboy.tistory.com/556",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208337,
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "리버풀",
+            "원정팀": "웨스트 햄",
+            "장소": "Anfield",
+            "blog_url": "https://chatboy.tistory.com/557",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208336,
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "첼시",
+            "원정팀": "입스위치",
+            "장소": "Stamford Bridge",
             "blog_url": "https://chatboy.tistory.com/558",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
@@ -573,10 +573,10 @@
         },
         {
             "팀": "첼시",
-            "날짜": "2025-04-06 22:00",
-            "홈팀": "브렌트퍼드",
-            "원정팀": "첼시",
-            "스코어": "0 - 0"
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "첼시",
+            "원정팀": "입스위치",
+            "스코어": "2 - 2"
         },
         {
             "팀": "크리스털 팰리스",
@@ -601,10 +601,10 @@
         },
         {
             "팀": "리버풀",
-            "날짜": "2025-04-06 22:00",
-            "홈팀": "풀럼",
-            "원정팀": "리버풀",
-            "스코어": "3 - 2"
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "리버풀",
+            "원정팀": "웨스트 햄",
+            "스코어": "2 - 1"
         },
         {
             "팀": "맨 시티",
@@ -615,17 +615,17 @@
         },
         {
             "팀": "맨유",
-            "날짜": "2025-04-07 00:30",
-            "홈팀": "맨유",
-            "원정팀": "맨 시티",
-            "스코어": "0 - 0"
+            "날짜": "2025-04-14 00:30",
+            "홈팀": "뉴캐슬",
+            "원정팀": "맨유",
+            "스코어": "4 - 1"
         },
         {
             "팀": "뉴캐슬",
-            "날짜": "2025-04-08 04:00",
-            "홈팀": "레스터 시티",
-            "원정팀": "뉴캐슬",
-            "스코어": "0 - 3"
+            "날짜": "2025-04-14 00:30",
+            "홈팀": "뉴캐슬",
+            "원정팀": "맨유",
+            "스코어": "4 - 1"
         },
         {
             "팀": "노팅엄 포레스트",
@@ -643,23 +643,23 @@
         },
         {
             "팀": "토트넘",
-            "날짜": "2025-04-06 22:00",
-            "홈팀": "토트넘",
-            "원정팀": "사우샘프턴",
-            "스코어": "3 - 1"
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "울브스",
+            "원정팀": "토트넘",
+            "스코어": "4 - 2"
         },
         {
             "팀": "웨스트 햄",
-            "날짜": "2025-04-05 23:00",
-            "홈팀": "웨스트 햄",
-            "원정팀": "본머스",
-            "스코어": "2 - 2"
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "리버풀",
+            "원정팀": "웨스트 햄",
+            "스코어": "2 - 1"
         }
     ],
     "최근 경기": {
-        "날짜": "2025-04-12",
-        "홈팀": "아스널",
-        "스코어": "1 - 1",
-        "원정팀": "브렌트퍼드"
+        "날짜": "2025-04-13",
+        "홈팀": "뉴캐슬",
+        "스코어": "4 - 1",
+        "원정팀": "맨유"
     }
 }
