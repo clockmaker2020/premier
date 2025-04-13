@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 32",
-    "심판": "A. Madley",
+    "심판": "Andy Madley, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Liverpool",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Alisson",
+                "Conor Bradley",
+                "Ibrahima Konaté",
+                "Virgil van Dijk",
+                "Konstantinos Tsimikas",
+                "Ryan Gravenberch",
+                "Alexis Mac Allister",
+                "Mohamed Salah",
+                "Curtis Jones",
+                "Luis Díaz",
+                "Diogo Jota"
+            ],
+            "교체 선수": [
+                "Vítězslav Jaroš",
+                "Caoimhin Kelleher",
+                "Jarell Quansah",
+                "Andrew Robertson",
+                "Wataru Endo",
+                "Harvey Elliott",
+                "Dominik Szoboszlai",
+                "Federico Chiesa",
+                "Cody Gakpo"
+            ]
+        },
+        {
+            "팀": "West Ham",
+            "포메이션": "3-4-2-1",
+            "선발 선수": [
+                "Alphonse Aréola",
+                "Jean-Clair Todibo",
+                "Konstantinos Mavropanos",
+                "Max Kilman",
+                "Aaron Wan-Bissaka",
+                "Carlos Soler",
+                "James Ward-Prowse",
+                "Oliver Scarles",
+                "Mohammed Kudus",
+                "Lucas Paquetá",
+                "Jarrod Bowen"
+            ],
+            "교체 선수": [
+                "Łukasz Fabiański",
+                "Vladimír Coufal",
+                "Emerson Palmieri",
+                "Luis Guilherme",
+                "Edson Álvarez",
+                "Guido Rodríguez",
+                "Tomáš Souček",
+                "Niclas Füllkrug",
+                "Evan Ferguson"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
