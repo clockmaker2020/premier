@@ -142,7 +142,7 @@
   {
     "fixture": {
       "id": 1208332,
-      "referee": "Tim Robinson, England",
+      "referee": "T. Robinson",
       "timezone": "UTC",
       "date": "2025-04-05T14:00:00+00:00",
       "timestamp": 1743861600,
@@ -352,7 +352,7 @@
   {
     "fixture": {
       "id": 1208338,
-      "referee": "Jarred Gillett, Australia",
+      "referee": "J. Gillett",
       "timezone": "UTC",
       "date": "2025-04-12T11:30:00+00:00",
       "timestamp": 1744457400,
@@ -492,7 +492,7 @@
   {
     "fixture": {
       "id": 1208327,
-      "referee": "Chris Kavanagh, England",
+      "referee": "C. Kavanagh",
       "timezone": "UTC",
       "date": "2025-04-06T13:00:00+00:00",
       "timestamp": 1743944400,
