@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Bournemouth",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Kepa Arrizabalaga",
+                "Adam Smith",
+                "Marcos Senesi",
+                "Dean Huijsen",
+                "Miloš Kerkez",
+                "Lewis Cook",
+                "Tyler Adams",
+                "Antoine Semenyo",
+                "Alex Scott",
+                "Dango Ouattara",
+                "Evanilson"
+            ],
+            "교체 선수": [
+                "Will Dennis",
+                "Julio Soler",
+                "Julián Araujo",
+                "James Hill",
+                "Illia Zabarnyi",
+                "David Brooks",
+                "Marcus Tavernier",
+                "Ben Winterburn",
+                "Daniel Jebbison"
+            ]
+        },
+        {
+            "팀": "Fulham",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Bernd Leno",
+                "Timothy Castagne",
+                "Joachim Andersen",
+                "Calvin Bassey",
+                "Antonee Robinson",
+                "Sander Berge",
+                "Saša Lukić",
+                "Ryan Sessegnon",
+                "Andreas Pereira",
+                "Alex Iwobi",
+                "Rodrigo Muniz"
+            ],
+            "교체 선수": [
+                "Steven Benda",
+                "Kenny Tete",
+                "Jorge Cuenca",
+                "Harrison Reed",
+                "Tom Cairney",
+                "Emile Smith Rowe",
+                "Willian",
+                "Adama Traoré",
+                "Raúl Jiménez"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
