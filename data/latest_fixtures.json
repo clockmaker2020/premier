@@ -141,19 +141,19 @@
   },
   {
     "fixture": {
-      "id": 1208332,
-      "referee": "Tim Robinson, England",
+      "id": 1208333,
+      "referee": "Michael Oliver, England",
       "timezone": "UTC",
-      "date": "2025-04-05T14:00:00+00:00",
-      "timestamp": 1743861600,
+      "date": "2025-04-14T19:00:00+00:00",
+      "timestamp": 1744657200,
       "periods": {
-        "first": 1743861600,
-        "second": 1743865200
+        "first": 1744657200,
+        "second": 1744660800
       },
       "venue": {
-        "id": 598,
-        "name": "London Stadium",
-        "city": "London"
+        "id": 504,
+        "name": "Vitality Stadium",
+        "city": "Bournemouth, Dorset"
       },
       "status": {
         "long": "Match Finished",
@@ -169,35 +169,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 31",
+      "round": "Regular Season - 32",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 48,
-        "name": "West Ham",
-        "logo": "https://media.api-sports.io/football/teams/48.png",
-        "winner": null
-      },
-      "away": {
         "id": 35,
         "name": "Bournemouth",
         "logo": "https://media.api-sports.io/football/teams/35.png",
-        "winner": null
+        "winner": true
+      },
+      "away": {
+        "id": 36,
+        "name": "Fulham",
+        "logo": "https://media.api-sports.io/football/teams/36.png",
+        "winner": false
       }
     },
     "goals": {
-      "home": 2,
-      "away": 2
+      "home": 1,
+      "away": 0
     },
     "score": {
       "halftime": {
-        "home": 0,
-        "away": 1
+        "home": 1,
+        "away": 0
       },
       "fulltime": {
-        "home": 2,
-        "away": 2
+        "home": 1,
+        "away": 0
       },
       "extratime": {
         "home": null,
@@ -478,76 +478,6 @@
       "fulltime": {
         "home": 0,
         "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1208327,
-      "referee": "Chris Kavanagh, England",
-      "timezone": "UTC",
-      "date": "2025-04-06T13:00:00+00:00",
-      "timestamp": 1743944400,
-      "periods": {
-        "first": 1743944400,
-        "second": 1743948000
-      },
-      "venue": {
-        "id": 535,
-        "name": "Craven Cottage",
-        "city": "London"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 7
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 31",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 36,
-        "name": "Fulham",
-        "logo": "https://media.api-sports.io/football/teams/36.png",
-        "winner": true
-      },
-      "away": {
-        "id": 40,
-        "name": "Liverpool",
-        "logo": "https://media.api-sports.io/football/teams/40.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 3,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 3,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 3,
-        "away": 2
       },
       "extratime": {
         "home": null,
