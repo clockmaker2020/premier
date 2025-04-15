@@ -2,7 +2,7 @@
   {
     "fixture": {
       "id": 1208334,
-      "referee": "Simon Hooper, England",
+      "referee": "S. Hooper",
       "timezone": "UTC",
       "date": "2025-04-12T16:30:00+00:00",
       "timestamp": 1744475400,
@@ -72,7 +72,7 @@
   {
     "fixture": {
       "id": 1208341,
-      "referee": "Thomas Bramall, England",
+      "referee": "T. Bramall",
       "timezone": "UTC",
       "date": "2025-04-12T14:00:00+00:00",
       "timestamp": 1744466400,
@@ -212,7 +212,7 @@
   {
     "fixture": {
       "id": 1208335,
-      "referee": "Darren Bond, England",
+      "referee": "D. Bond",
       "timezone": "UTC",
       "date": "2025-04-12T14:00:00+00:00",
       "timestamp": 1744466400,
@@ -282,7 +282,7 @@
   {
     "fixture": {
       "id": 1208336,
-      "referee": "Stuart Attwell, England",
+      "referee": "S. Attwell",
       "timezone": "UTC",
       "date": "2025-04-13T13:00:00+00:00",
       "timestamp": 1744549200,
@@ -352,7 +352,7 @@
   {
     "fixture": {
       "id": 1208338,
-      "referee": "Jarred Gillett, Australia",
+      "referee": "J. Gillett",
       "timezone": "UTC",
       "date": "2025-04-12T11:30:00+00:00",
       "timestamp": 1744457400,
@@ -422,7 +422,7 @@
   {
     "fixture": {
       "id": 1208340,
-      "referee": "Pawson, Craig, England",
+      "referee": "C. Pawson",
       "timezone": "UTC",
       "date": "2025-04-12T14:00:00+00:00",
       "timestamp": 1744466400,
@@ -492,7 +492,7 @@
   {
     "fixture": {
       "id": 1208337,
-      "referee": "Andy Madley, England",
+      "referee": "A. Madley",
       "timezone": "UTC",
       "date": "2025-04-13T13:00:00+00:00",
       "timestamp": 1744549200,
@@ -562,7 +562,7 @@
   {
     "fixture": {
       "id": 1208339,
-      "referee": "Michael Oliver, England",
+      "referee": "C. Kavanagh",
       "timezone": "UTC",
       "date": "2025-04-13T15:30:00+00:00",
       "timestamp": 1744558200,
@@ -632,7 +632,7 @@
   {
     "fixture": {
       "id": 1208342,
-      "referee": "Anthony Taylor, England",
+      "referee": "A. Taylor",
       "timezone": "UTC",
       "date": "2025-04-13T13:00:00+00:00",
       "timestamp": 1744549200,
