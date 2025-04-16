@@ -244,10 +244,10 @@
         }
     ],
     "최근 경기": {
-        "날짜": "2025-04-14",
-        "홈팀": "본머스",
-        "스코어": "1 - 0",
-        "원정팀": "풀럼"
+        "날짜": "2025-04-16",
+        "홈팀": "뉴캐슬",
+        "스코어": "5 - 0",
+        "원정팀": "크리스털 팰리스"
     },
     "팀별 최종 경기": [
         {
@@ -316,16 +316,16 @@
             "away_recent_url": "https://example.com/recent/입스위치"
         },
         {
-            "date": "2025-04-12",
-            "time": "20:30",
-            "home_team": "맨 시티",
+            "date": "2025-04-17",
+            "time": "03:30",
+            "home_team": "뉴캐슬",
             "away_team": "크리스털 팰리스",
-            "score": "5 - 2",
-            "home_team_rank": 5,
+            "score": "5 - 0",
+            "home_team_rank": 4,
             "away_team_rank": 12,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/맨-시티-vs-크리스털-팰리스",
-            "home_recent_url": "https://example.com/recent/맨-시티",
+            "blog_url": "https://example.com/preview/뉴캐슬-vs-크리스털-팰리스",
+            "home_recent_url": "https://example.com/recent/뉴캐슬",
             "away_recent_url": "https://example.com/recent/크리스털-팰리스"
         },
         {
@@ -355,17 +355,17 @@
             "away_recent_url": "https://example.com/recent/웨스트-햄"
         },
         {
-            "date": "2025-04-14",
-            "time": "00:30",
-            "home_team": "뉴캐슬",
-            "away_team": "맨유",
-            "score": "4 - 1",
-            "home_team_rank": 4,
-            "away_team_rank": 14,
+            "date": "2025-04-12",
+            "time": "20:30",
+            "home_team": "맨 시티",
+            "away_team": "크리스털 팰리스",
+            "score": "5 - 2",
+            "home_team_rank": 5,
+            "away_team_rank": 12,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/뉴캐슬-vs-맨유",
-            "home_recent_url": "https://example.com/recent/뉴캐슬",
-            "away_recent_url": "https://example.com/recent/맨유"
+            "blog_url": "https://example.com/preview/맨-시티-vs-크리스털-팰리스",
+            "home_recent_url": "https://example.com/recent/맨-시티",
+            "away_recent_url": "https://example.com/recent/크리스털-팰리스"
         },
         {
             "date": "2025-04-13",
@@ -448,16 +448,16 @@
             "away_recent_url": "https://example.com/recent/입스위치"
         },
         {
-            "date": "2025-04-12",
-            "time": "20:30",
-            "home_team": "맨 시티",
+            "date": "2025-04-17",
+            "time": "03:30",
+            "home_team": "뉴캐슬",
             "away_team": "크리스털 팰리스",
-            "score": "5 - 2",
-            "home_team_rank": 5,
+            "score": "5 - 0",
+            "home_team_rank": 4,
             "away_team_rank": 12,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/맨-시티-vs-크리스털-팰리스",
-            "home_recent_url": "https://example.com/recent/맨-시티",
+            "blog_url": "https://example.com/preview/뉴캐슬-vs-크리스털-팰리스",
+            "home_recent_url": "https://example.com/recent/뉴캐슬",
             "away_recent_url": "https://example.com/recent/크리스털-팰리스"
         },
         {
@@ -487,17 +487,17 @@
             "away_recent_url": "https://example.com/recent/웨스트-햄"
         },
         {
-            "date": "2025-04-14",
-            "time": "00:30",
-            "home_team": "뉴캐슬",
-            "away_team": "맨유",
-            "score": "4 - 1",
-            "home_team_rank": 4,
-            "away_team_rank": 14,
+            "date": "2025-04-12",
+            "time": "20:30",
+            "home_team": "맨 시티",
+            "away_team": "크리스털 팰리스",
+            "score": "5 - 2",
+            "home_team_rank": 5,
+            "away_team_rank": 12,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/뉴캐슬-vs-맨유",
-            "home_recent_url": "https://example.com/recent/뉴캐슬",
-            "away_recent_url": "https://example.com/recent/맨유"
+            "blog_url": "https://example.com/preview/맨-시티-vs-크리스털-팰리스",
+            "home_recent_url": "https://example.com/recent/맨-시티",
+            "away_recent_url": "https://example.com/recent/크리스털-팰리스"
         },
         {
             "date": "2025-04-13",
