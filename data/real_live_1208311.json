@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 29",
-    "심판": "D. England",
+    "심판": "Darren England, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Newcastle",
+            "포메이션": "4-3-3",
+            "선발 선수": [
+                "Nick Pope",
+                "Kieran Trippier",
+                "Fabian Schär",
+                "Dan Burn",
+                "Valentino Livramento",
+                "Bruno Guimarães",
+                "Sandro Tonali",
+                "Joelinton",
+                "Jacob Murphy",
+                "Alexander Isak",
+                "Harvey Barnes"
+            ],
+            "교체 선수": [
+                "Martin Dúbravka",
+                "Matt Targett",
+                "Emil Krafth",
+                "Joe Willock",
+                "Sean Longstaff",
+                "Lewis Miley",
+                "Callum Wilson",
+                "Anthony Gordon",
+                "William Osula"
+            ]
+        },
+        {
+            "팀": "Crystal Palace",
+            "포메이션": "3-4-2-1",
+            "선발 선수": [
+                "Dean Henderson",
+                "Chris Richards",
+                "Maxence Lacroix",
+                "Marc Guéhi",
+                "Daniel Muñoz",
+                "Jefferson Lerma",
+                "Will Hughes",
+                "Tyrick Mitchell",
+                "Ismaïla Sarr",
+                "Eberechi Eze",
+                "Jean-Philippe Mateta"
+            ],
+            "교체 선수": [
+                "Matt Turner",
+                "Nathaniel Clyne",
+                "Ben Chilwell",
+                "Daichi Kamada",
+                "Adam Wharton",
+                "Romain Esse",
+                "Justin Devenny",
+                "Edward Nketiah",
+                "Matheus França"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
