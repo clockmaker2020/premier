@@ -351,25 +351,25 @@
   },
   {
     "fixture": {
-      "id": 1208338,
-      "referee": "Jarred Gillett, Australia",
+      "id": 1208311,
+      "referee": "Darren England, England",
       "timezone": "UTC",
-      "date": "2025-04-12T11:30:00+00:00",
-      "timestamp": 1744457400,
+      "date": "2025-04-16T18:30:00+00:00",
+      "timestamp": 1744828200,
       "periods": {
-        "first": 1744457400,
-        "second": 1744461000
+        "first": 1744828200,
+        "second": 1744831800
       },
       "venue": {
-        "id": 555,
-        "name": "Etihad Stadium",
-        "city": "Manchester"
+        "id": 562,
+        "name": "St. James' Park",
+        "city": "Newcastle upon Tyne"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 8
+        "extra": 6
       }
     },
     "league": {
@@ -379,14 +379,14 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 32",
+      "round": "Regular Season - 29",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 50,
-        "name": "Manchester City",
-        "logo": "https://media.api-sports.io/football/teams/50.png",
+        "id": 34,
+        "name": "Newcastle",
+        "logo": "https://media.api-sports.io/football/teams/34.png",
         "winner": true
       },
       "away": {
@@ -398,16 +398,16 @@
     },
     "goals": {
       "home": 5,
-      "away": 2
+      "away": 0
     },
     "score": {
       "halftime": {
-        "home": 2,
-        "away": 2
+        "home": 4,
+        "away": 0
       },
       "fulltime": {
         "home": 5,
-        "away": 2
+        "away": 0
       },
       "extratime": {
         "home": null,
@@ -561,25 +561,25 @@
   },
   {
     "fixture": {
-      "id": 1208339,
-      "referee": "Michael Oliver, England",
+      "id": 1208338,
+      "referee": "Jarred Gillett, Australia",
       "timezone": "UTC",
-      "date": "2025-04-13T15:30:00+00:00",
-      "timestamp": 1744558200,
+      "date": "2025-04-12T11:30:00+00:00",
+      "timestamp": 1744457400,
       "periods": {
-        "first": 1744558200,
-        "second": 1744561800
+        "first": 1744457400,
+        "second": 1744461000
       },
       "venue": {
-        "id": 562,
-        "name": "St. James' Park",
-        "city": "Newcastle upon Tyne"
+        "id": 555,
+        "name": "Etihad Stadium",
+        "city": "Manchester"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 5
+        "extra": 8
       }
     },
     "league": {
@@ -594,30 +594,30 @@
     },
     "teams": {
       "home": {
-        "id": 34,
-        "name": "Newcastle",
-        "logo": "https://media.api-sports.io/football/teams/34.png",
+        "id": 50,
+        "name": "Manchester City",
+        "logo": "https://media.api-sports.io/football/teams/50.png",
         "winner": true
       },
       "away": {
-        "id": 33,
-        "name": "Manchester United",
-        "logo": "https://media.api-sports.io/football/teams/33.png",
+        "id": 52,
+        "name": "Crystal Palace",
+        "logo": "https://media.api-sports.io/football/teams/52.png",
         "winner": false
       }
     },
     "goals": {
-      "home": 4,
-      "away": 1
+      "home": 5,
+      "away": 2
     },
     "score": {
       "halftime": {
-        "home": 1,
-        "away": 1
+        "home": 2,
+        "away": 2
       },
       "fulltime": {
-        "home": 4,
-        "away": 1
+        "home": 5,
+        "away": 2
       },
       "extratime": {
         "home": null,
