@@ -245,9 +245,9 @@
     ],
     "최근 경기": {
         "날짜": "2025-04-19",
-        "홈팀": "에버턴",
-        "스코어": "0 - 2",
-        "원정팀": "맨 시티"
+        "홈팀": "애스턴 빌라",
+        "스코어": "4 - 1",
+        "원정팀": "뉴캐슬"
     },
     "팀별 최종 경기": [
         {
@@ -264,17 +264,17 @@
             "away_recent_url": "https://example.com/recent/브렌트퍼드"
         },
         {
-            "date": "2025-04-12",
-            "time": "23:00",
-            "home_team": "사우샘프턴",
-            "away_team": "애스턴 빌라",
-            "score": "0 - 3",
-            "home_team_rank": 20,
-            "away_team_rank": 7,
+            "date": "2025-04-20",
+            "time": "01:30",
+            "home_team": "애스턴 빌라",
+            "away_team": "뉴캐슬",
+            "score": "4 - 1",
+            "home_team_rank": 7,
+            "away_team_rank": 3,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/사우샘프턴-vs-애스턴-빌라",
-            "home_recent_url": "https://example.com/recent/사우샘프턴",
-            "away_recent_url": "https://example.com/recent/애스턴-빌라"
+            "blog_url": "https://example.com/preview/애스턴-빌라-vs-뉴캐슬",
+            "home_recent_url": "https://example.com/recent/애스턴-빌라",
+            "away_recent_url": "https://example.com/recent/뉴캐슬"
         },
         {
             "date": "2025-04-19",
@@ -422,17 +422,17 @@
             "away_recent_url": "https://example.com/recent/브렌트퍼드"
         },
         {
-            "date": "2025-04-12",
-            "time": "23:00",
-            "home_team": "사우샘프턴",
-            "away_team": "애스턴 빌라",
-            "score": "0 - 3",
-            "home_team_rank": 20,
-            "away_team_rank": 7,
+            "date": "2025-04-20",
+            "time": "01:30",
+            "home_team": "애스턴 빌라",
+            "away_team": "뉴캐슬",
+            "score": "4 - 1",
+            "home_team_rank": 7,
+            "away_team_rank": 3,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/사우샘프턴-vs-애스턴-빌라",
-            "home_recent_url": "https://example.com/recent/사우샘프턴",
-            "away_recent_url": "https://example.com/recent/애스턴-빌라"
+            "blog_url": "https://example.com/preview/애스턴-빌라-vs-뉴캐슬",
+            "home_recent_url": "https://example.com/recent/애스턴-빌라",
+            "away_recent_url": "https://example.com/recent/뉴캐슬"
         },
         {
             "date": "2025-04-19",
