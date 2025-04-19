@@ -290,17 +290,17 @@
             "away_recent_url": "https://example.com/recent/본머스"
         },
         {
-            "date": "2025-04-12",
+            "date": "2025-04-19",
             "time": "23:00",
-            "home_team": "브라이턴",
-            "away_team": "레스터 시티",
-            "score": "2 - 2",
-            "home_team_rank": 10,
-            "away_team_rank": 19,
+            "home_team": "브렌트퍼드",
+            "away_team": "브라이턴",
+            "score": "4 - 2",
+            "home_team_rank": 11,
+            "away_team_rank": 10,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/브라이턴-vs-레스터-시티",
-            "home_recent_url": "https://example.com/recent/브라이턴",
-            "away_recent_url": "https://example.com/recent/레스터-시티"
+            "blog_url": "https://example.com/preview/브렌트퍼드-vs-브라이턴",
+            "home_recent_url": "https://example.com/recent/브렌트퍼드",
+            "away_recent_url": "https://example.com/recent/브라이턴"
         },
         {
             "date": "2025-04-13",
@@ -448,17 +448,17 @@
             "away_recent_url": "https://example.com/recent/본머스"
         },
         {
-            "date": "2025-04-12",
+            "date": "2025-04-19",
             "time": "23:00",
-            "home_team": "브라이턴",
-            "away_team": "레스터 시티",
-            "score": "2 - 2",
-            "home_team_rank": 10,
-            "away_team_rank": 19,
+            "home_team": "브렌트퍼드",
+            "away_team": "브라이턴",
+            "score": "4 - 2",
+            "home_team_rank": 11,
+            "away_team_rank": 10,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/브라이턴-vs-레스터-시티",
-            "home_recent_url": "https://example.com/recent/브라이턴",
-            "away_recent_url": "https://example.com/recent/레스터-시티"
+            "blog_url": "https://example.com/preview/브렌트퍼드-vs-브라이턴",
+            "home_recent_url": "https://example.com/recent/브렌트퍼드",
+            "away_recent_url": "https://example.com/recent/브라이턴"
         },
         {
             "date": "2025-04-13",
