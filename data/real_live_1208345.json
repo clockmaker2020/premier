@@ -3,7 +3,7 @@
     "경기 날짜": "2025-04-19 23:00:00",
     "경기장": "Selhurst Park",
     "도시": "London",
-    "경기 상태": "Not Started",
+    "경기 상태": "First Half",
     "리그": "Premier League",
     "라운드": "Regular Season - 33",
     "심판": "Samuel Barrott, England",
@@ -50,7 +50,7 @@
             "원정 성적": "6승 6무 4패"
         }
     },
-    "현재 점수": "None - None",
+    "현재 점수": "0 - 0",
     "득점 기록": [],
     "경기 이벤트": [],
     "경기 통계": [
