@@ -3,10 +3,10 @@
     "경기 날짜": "2025-04-19 23:00:00",
     "경기장": "London Stadium",
     "도시": "London",
-    "경기 상태": "Not Started",
+    "경기 상태": "First Half",
     "리그": "Premier League",
     "라운드": "Regular Season - 33",
-    "심판": "A. Kitchen",
+    "심판": "Andrew Kitchen, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -50,7 +50,7 @@
             "원정 성적": "1승 2무 13패"
         }
     },
-    "현재 점수": "None - None",
+    "현재 점수": "0 - 0",
     "득점 기록": [],
     "경기 이벤트": [],
     "경기 통계": [
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "West Ham",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Alphonse Aréola",
+                "Vladimír Coufal",
+                "Jean-Clair Todibo",
+                "Max Kilman",
+                "Emerson Palmieri",
+                "Carlos Soler",
+                "James Ward-Prowse",
+                "Jarrod Bowen",
+                "Lucas Paquetá",
+                "Mohammed Kudus",
+                "Niclas Füllkrug"
+            ],
+            "교체 선수": [
+                "Łukasz Fabiański",
+                "Aaron Cresswell",
+                "Konstantinos Mavropanos",
+                "Luis Guilherme",
+                "Guido Rodríguez",
+                "Tomáš Souček",
+                "Andy Irving",
+                "Oliver Scarles",
+                "Evan Ferguson"
+            ]
+        },
+        {
+            "팀": "Southampton",
+            "포메이션": "3-5-2",
+            "선발 선수": [
+                "Aaron Ramsdale",
+                "Taylor Harwood-Bellis",
+                "Jan Bednarek",
+                "Jack Stephens",
+                "Kyle Walker-Peters",
+                "Flynn Downes",
+                "Lesley Ugochukwu",
+                "Mateus Fernandes",
+                "Ryan Manning",
+                "Paul Onuachu",
+                "Kamaldeen Sulemana"
+            ],
+            "교체 선수": [
+                "Alex McCarthy",
+                "Welington",
+                "James Bree",
+                "Nathan Wood",
+                "Will Smallbone",
+                "Tyler Dibling",
+                "Joe Aribo",
+                "Cameron Archer",
+                "Ross Stewart"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
