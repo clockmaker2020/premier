@@ -29,17 +29,29 @@
         {
             "순위": 3,
             "팀명": "뉴캐슬",
-            "경기수": 32,
+            "경기수": 33,
             "승": 18,
             "무": 5,
-            "패": 9,
+            "패": 10,
             "승점": 59,
-            "득점": 61,
-            "실점": 40,
-            "득실차": 21
+            "득점": 62,
+            "실점": 44,
+            "득실차": 18
         },
         {
             "순위": 4,
+            "팀명": "맨 시티",
+            "경기수": 33,
+            "승": 17,
+            "무": 7,
+            "패": 9,
+            "승점": 58,
+            "득점": 64,
+            "실점": 42,
+            "득실차": 22
+        },
+        {
+            "순위": 5,
             "팀명": "노팅엄 포레스트",
             "경기수": 32,
             "승": 17,
@@ -51,19 +63,19 @@
             "득실차": 13
         },
         {
-            "순위": 5,
-            "팀명": "맨 시티",
+            "순위": 6,
+            "팀명": "애스턴 빌라",
             "경기수": 33,
             "승": 16,
-            "무": 8,
-            "패": 9,
-            "승점": 56,
-            "득점": 62,
-            "실점": 42,
-            "득실차": 20
+            "무": 9,
+            "패": 8,
+            "승점": 57,
+            "득점": 53,
+            "실점": 47,
+            "득실차": 6
         },
         {
-            "순위": 6,
+            "순위": 7,
             "팀명": "첼시",
             "경기수": 32,
             "승": 15,
@@ -73,18 +85,6 @@
             "득점": 56,
             "실점": 39,
             "득실차": 17
-        },
-        {
-            "순위": 7,
-            "팀명": "애스턴 빌라",
-            "경기수": 32,
-            "승": 15,
-            "무": 9,
-            "패": 8,
-            "승점": 54,
-            "득점": 49,
-            "실점": 46,
-            "득실차": 3
         },
         {
             "순위": 8,
@@ -118,9 +118,9 @@
             "무": 12,
             "패": 9,
             "승점": 48,
-            "득점": 51,
-            "실점": 50,
-            "득실차": 1
+            "득점": 53,
+            "실점": 53,
+            "득실차": 0
         },
         {
             "순위": 11,
@@ -130,9 +130,9 @@
             "무": 7,
             "패": 13,
             "승점": 46,
-            "득점": 53,
-            "실점": 48,
-            "득실차": 5
+            "득점": 56,
+            "실점": 50,
+            "득실차": 6
         },
         {
             "순위": 12,
@@ -151,12 +151,12 @@
             "팀명": "에버턴",
             "경기수": 33,
             "승": 8,
-            "무": 15,
-            "패": 10,
-            "승점": 39,
+            "무": 14,
+            "패": 11,
+            "승점": 38,
             "득점": 34,
-            "실점": 38,
-            "득실차": -4
+            "실점": 40,
+            "득실차": -6
         },
         {
             "순위": 14,
@@ -190,8 +190,8 @@
             "무": 9,
             "패": 15,
             "승점": 36,
-            "득점": 36,
-            "실점": 54,
+            "득점": 37,
+            "실점": 55,
             "득실차": -18
         },
         {
@@ -238,8 +238,8 @@
             "무": 5,
             "패": 26,
             "승점": 11,
-            "득점": 23,
-            "실점": 77,
+            "득점": 24,
+            "실점": 78,
             "득실차": -54
         }
     ],
@@ -269,7 +269,7 @@
             "home_team": "애스턴 빌라",
             "away_team": "뉴캐슬",
             "score": "4 - 1",
-            "home_team_rank": 7,
+            "home_team_rank": 6,
             "away_team_rank": 3,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/애스턴-빌라-vs-뉴캐슬",
@@ -308,7 +308,7 @@
             "home_team": "첼시",
             "away_team": "입스위치",
             "score": "2 - 2",
-            "home_team_rank": 6,
+            "home_team_rank": 7,
             "away_team_rank": 18,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/첼시-vs-입스위치",
@@ -322,7 +322,7 @@
             "away_team": "맨 시티",
             "score": "0 - 2",
             "home_team_rank": 13,
-            "away_team_rank": 5,
+            "away_team_rank": 4,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/에버턴-vs-맨-시티",
             "home_recent_url": "https://example.com/recent/에버턴",
@@ -373,7 +373,7 @@
             "home_team": "노팅엄 포레스트",
             "away_team": "에버턴",
             "score": "0 - 1",
-            "home_team_rank": 4,
+            "home_team_rank": 5,
             "away_team_rank": 13,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/노팅엄-포레스트-vs-에버턴",
@@ -427,7 +427,7 @@
             "home_team": "애스턴 빌라",
             "away_team": "뉴캐슬",
             "score": "4 - 1",
-            "home_team_rank": 7,
+            "home_team_rank": 6,
             "away_team_rank": 3,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/애스턴-빌라-vs-뉴캐슬",
@@ -466,7 +466,7 @@
             "home_team": "첼시",
             "away_team": "입스위치",
             "score": "2 - 2",
-            "home_team_rank": 6,
+            "home_team_rank": 7,
             "away_team_rank": 18,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/첼시-vs-입스위치",
@@ -480,7 +480,7 @@
             "away_team": "맨 시티",
             "score": "0 - 2",
             "home_team_rank": 13,
-            "away_team_rank": 5,
+            "away_team_rank": 4,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/에버턴-vs-맨-시티",
             "home_recent_url": "https://example.com/recent/에버턴",
@@ -531,7 +531,7 @@
             "home_team": "노팅엄 포레스트",
             "away_team": "에버턴",
             "score": "0 - 1",
-            "home_team_rank": 4,
+            "home_team_rank": 5,
             "away_team_rank": 13,
             "status": "Match Finished",
             "blog_url": "https://example.com/preview/노팅엄-포레스트-vs-에버턴",
