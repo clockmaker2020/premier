@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 33",
-    "심판": "S. Barrott",
+    "심판": "Samuel Barrott, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Crystal Palace",
+            "포메이션": "3-4-2-1",
+            "선발 선수": [
+                "Dean Henderson",
+                "Chris Richards",
+                "Maxence Lacroix",
+                "Marc Guéhi",
+                "Daniel Muñoz",
+                "Adam Wharton",
+                "Will Hughes",
+                "Tyrick Mitchell",
+                "Ismaïla Sarr",
+                "Eberechi Eze",
+                "Jean-Philippe Mateta"
+            ],
+            "교체 선수": [
+                "Matt Turner",
+                "Nathaniel Clyne",
+                "Ben Chilwell",
+                "Jefferson Lerma",
+                "Daichi Kamada",
+                "Romain Esse",
+                "Justin Devenny",
+                "Edward Nketiah",
+                "Matheus França"
+            ]
+        },
+        {
+            "팀": "Bournemouth",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Kepa Arrizabalaga",
+                "Adam Smith",
+                "Illia Zabarnyi",
+                "Dean Huijsen",
+                "Miloš Kerkez",
+                "Alex Scott",
+                "Tyler Adams",
+                "Antoine Semenyo",
+                "Justin Kluivert",
+                "Dango Ouattara",
+                "Evanilson"
+            ],
+            "교체 선수": [
+                "Will Dennis",
+                "Marcos Senesi",
+                "Julio Soler",
+                "Julián Araujo",
+                "James Hill",
+                "Lewis Cook",
+                "David Brooks",
+                "Marcus Tavernier",
+                "Daniel Jebbison"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
