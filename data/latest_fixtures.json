@@ -211,25 +211,25 @@
   },
   {
     "fixture": {
-      "id": 1208335,
-      "referee": "D. Bond",
+      "id": 1208344,
+      "referee": "Tim Robinson, England",
       "timezone": "UTC",
-      "date": "2025-04-12T14:00:00+00:00",
-      "timestamp": 1744466400,
+      "date": "2025-04-19T14:00:00+00:00",
+      "timestamp": 1745071200,
       "periods": {
-        "first": 1744466400,
-        "second": 1744470000
+        "first": 1745071200,
+        "second": 1745074800
       },
       "venue": {
-        "id": 508,
-        "name": "American Express Stadium",
-        "city": "Falmer, East Sussex"
+        "id": 10503,
+        "name": "Gtech Community Stadium",
+        "city": "Brentford, Middlesex"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 9
+        "extra": null
       }
     },
     "league": {
@@ -239,25 +239,25 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 32",
+      "round": "Regular Season - 33",
       "standings": true
     },
     "teams": {
       "home": {
+        "id": 55,
+        "name": "Brentford",
+        "logo": "https://media.api-sports.io/football/teams/55.png",
+        "winner": true
+      },
+      "away": {
         "id": 51,
         "name": "Brighton",
         "logo": "https://media.api-sports.io/football/teams/51.png",
-        "winner": null
-      },
-      "away": {
-        "id": 46,
-        "name": "Leicester",
-        "logo": "https://media.api-sports.io/football/teams/46.png",
-        "winner": null
+        "winner": false
       }
     },
     "goals": {
-      "home": 2,
+      "home": 4,
       "away": 2
     },
     "score": {
@@ -266,7 +266,7 @@
         "away": 1
       },
       "fulltime": {
-        "home": 2,
+        "home": 4,
         "away": 2
       },
       "extratime": {
