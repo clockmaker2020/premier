@@ -141,25 +141,25 @@
   },
   {
     "fixture": {
-      "id": 1208333,
-      "referee": "M. Oliver",
+      "id": 1208345,
+      "referee": "Samuel Barrott, England",
       "timezone": "UTC",
-      "date": "2025-04-14T19:00:00+00:00",
-      "timestamp": 1744657200,
+      "date": "2025-04-19T14:00:00+00:00",
+      "timestamp": 1745071200,
       "periods": {
-        "first": 1744657200,
-        "second": 1744660800
+        "first": 1745071200,
+        "second": 1745074800
       },
       "venue": {
-        "id": 504,
-        "name": "Vitality Stadium",
-        "city": "Bournemouth, Dorset"
+        "id": 525,
+        "name": "Selhurst Park",
+        "city": "London"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 7
+        "extra": 5
       }
     },
     "league": {
@@ -169,34 +169,34 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 32",
+      "round": "Regular Season - 33",
       "standings": true
     },
     "teams": {
       "home": {
+        "id": 52,
+        "name": "Crystal Palace",
+        "logo": "https://media.api-sports.io/football/teams/52.png",
+        "winner": null
+      },
+      "away": {
         "id": 35,
         "name": "Bournemouth",
         "logo": "https://media.api-sports.io/football/teams/35.png",
-        "winner": true
-      },
-      "away": {
-        "id": 36,
-        "name": "Fulham",
-        "logo": "https://media.api-sports.io/football/teams/36.png",
-        "winner": false
+        "winner": null
       }
     },
     "goals": {
-      "home": 1,
+      "home": 0,
       "away": 0
     },
     "score": {
       "halftime": {
-        "home": 1,
+        "home": 0,
         "away": 0
       },
       "fulltime": {
-        "home": 1,
+        "home": 0,
         "away": 0
       },
       "extratime": {
@@ -351,19 +351,19 @@
   },
   {
     "fixture": {
-      "id": 1208311,
-      "referee": "D. England",
+      "id": 1208346,
+      "referee": "Simon Hooper, England",
       "timezone": "UTC",
-      "date": "2025-04-16T18:30:00+00:00",
-      "timestamp": 1744828200,
+      "date": "2025-04-19T14:00:00+00:00",
+      "timestamp": 1745071200,
       "periods": {
-        "first": 1744828200,
-        "second": 1744831800
+        "first": 1745071200,
+        "second": 1745074800
       },
       "venue": {
-        "id": 562,
-        "name": "St. James' Park",
-        "city": "Newcastle upon Tyne"
+        "id": 8560,
+        "name": "Goodison Park",
+        "city": "Liverpool"
       },
       "status": {
         "long": "Match Finished",
@@ -379,35 +379,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 29",
+      "round": "Regular Season - 33",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 34,
-        "name": "Newcastle",
-        "logo": "https://media.api-sports.io/football/teams/34.png",
-        "winner": true
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media.api-sports.io/football/teams/45.png",
+        "winner": false
       },
       "away": {
-        "id": 52,
-        "name": "Crystal Palace",
-        "logo": "https://media.api-sports.io/football/teams/52.png",
-        "winner": false
+        "id": 50,
+        "name": "Manchester City",
+        "logo": "https://media.api-sports.io/football/teams/50.png",
+        "winner": true
       }
     },
     "goals": {
-      "home": 5,
-      "away": 0
+      "home": 0,
+      "away": 2
     },
     "score": {
       "halftime": {
-        "home": 4,
+        "home": 0,
         "away": 0
       },
       "fulltime": {
-        "home": 5,
-        "away": 0
+        "home": 0,
+        "away": 2
       },
       "extratime": {
         "home": null,
@@ -421,19 +421,19 @@
   },
   {
     "fixture": {
-      "id": 1208340,
-      "referee": "C. Pawson",
+      "id": 1208333,
+      "referee": "M. Oliver",
       "timezone": "UTC",
-      "date": "2025-04-12T14:00:00+00:00",
-      "timestamp": 1744466400,
+      "date": "2025-04-14T19:00:00+00:00",
+      "timestamp": 1744657200,
       "periods": {
-        "first": 1744466400,
-        "second": 1744470000
+        "first": 1744657200,
+        "second": 1744660800
       },
       "venue": {
-        "id": 566,
-        "name": "The City Ground",
-        "city": "Nottingham, Nottinghamshire"
+        "id": 504,
+        "name": "Vitality Stadium",
+        "city": "Bournemouth, Dorset"
       },
       "status": {
         "long": "Match Finished",
@@ -454,30 +454,30 @@
     },
     "teams": {
       "home": {
-        "id": 65,
-        "name": "Nottingham Forest",
-        "logo": "https://media.api-sports.io/football/teams/65.png",
-        "winner": false
+        "id": 35,
+        "name": "Bournemouth",
+        "logo": "https://media.api-sports.io/football/teams/35.png",
+        "winner": true
       },
       "away": {
-        "id": 45,
-        "name": "Everton",
-        "logo": "https://media.api-sports.io/football/teams/45.png",
-        "winner": true
+        "id": 36,
+        "name": "Fulham",
+        "logo": "https://media.api-sports.io/football/teams/36.png",
+        "winner": false
       }
     },
     "goals": {
-      "home": 0,
-      "away": 1
+      "home": 1,
+      "away": 0
     },
     "score": {
       "halftime": {
-        "home": 0,
+        "home": 1,
         "away": 0
       },
       "fulltime": {
-        "home": 0,
-        "away": 1
+        "home": 1,
+        "away": 0
       },
       "extratime": {
         "home": null,
@@ -561,25 +561,25 @@
   },
   {
     "fixture": {
-      "id": 1208338,
-      "referee": "J. Gillett",
+      "id": 1208339,
+      "referee": "C. Kavanagh",
       "timezone": "UTC",
-      "date": "2025-04-12T11:30:00+00:00",
-      "timestamp": 1744457400,
+      "date": "2025-04-13T15:30:00+00:00",
+      "timestamp": 1744558200,
       "periods": {
-        "first": 1744457400,
-        "second": 1744461000
+        "first": 1744558200,
+        "second": 1744561800
       },
       "venue": {
-        "id": 555,
-        "name": "Etihad Stadium",
-        "city": "Manchester"
+        "id": 562,
+        "name": "St. James' Park",
+        "city": "Newcastle upon Tyne"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 8
+        "extra": 5
       }
     },
     "league": {
@@ -594,30 +594,170 @@
     },
     "teams": {
       "home": {
-        "id": 50,
-        "name": "Manchester City",
-        "logo": "https://media.api-sports.io/football/teams/50.png",
+        "id": 34,
+        "name": "Newcastle",
+        "logo": "https://media.api-sports.io/football/teams/34.png",
         "winner": true
       },
       "away": {
-        "id": 52,
-        "name": "Crystal Palace",
-        "logo": "https://media.api-sports.io/football/teams/52.png",
+        "id": 33,
+        "name": "Manchester United",
+        "logo": "https://media.api-sports.io/football/teams/33.png",
         "winner": false
       }
     },
     "goals": {
-      "home": 5,
-      "away": 2
+      "home": 4,
+      "away": 1
     },
     "score": {
       "halftime": {
-        "home": 2,
-        "away": 2
+        "home": 1,
+        "away": 1
       },
       "fulltime": {
-        "home": 5,
-        "away": 2
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1208340,
+      "referee": "C. Pawson",
+      "timezone": "UTC",
+      "date": "2025-04-12T14:00:00+00:00",
+      "timestamp": 1744466400,
+      "periods": {
+        "first": 1744466400,
+        "second": 1744470000
+      },
+      "venue": {
+        "id": 566,
+        "name": "The City Ground",
+        "city": "Nottingham, Nottinghamshire"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/39.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2024,
+      "round": "Regular Season - 32",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 65,
+        "name": "Nottingham Forest",
+        "logo": "https://media.api-sports.io/football/teams/65.png",
+        "winner": false
+      },
+      "away": {
+        "id": 45,
+        "name": "Everton",
+        "logo": "https://media.api-sports.io/football/teams/45.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1208352,
+      "referee": "Andrew Kitchen, England",
+      "timezone": "UTC",
+      "date": "2025-04-19T14:00:00+00:00",
+      "timestamp": 1745071200,
+      "periods": {
+        "first": 1745071200,
+        "second": 1745074800
+      },
+      "venue": {
+        "id": 598,
+        "name": "London Stadium",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/39.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2024,
+      "round": "Regular Season - 33",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media.api-sports.io/football/teams/48.png",
+        "winner": null
+      },
+      "away": {
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media.api-sports.io/football/teams/41.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
       },
       "extratime": {
         "home": null,
