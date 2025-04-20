@@ -245,9 +245,9 @@
     ],
     "최근 경기": {
         "날짜": "2025-04-20",
-        "홈팀": "맨유",
+        "홈팀": "레스터 시티",
         "스코어": "0 - 1",
-        "원정팀": "울브스"
+        "원정팀": "리버풀"
     },
     "팀별 최종 경기": [
         {
@@ -329,17 +329,17 @@
             "away_recent_url": "https://example.com/recent/맨-시티"
         },
         {
-            "date": "2025-04-13",
-            "time": "22:00",
-            "home_team": "리버풀",
-            "away_team": "웨스트 햄",
-            "score": "2 - 1",
-            "home_team_rank": 1,
-            "away_team_rank": 16,
+            "date": "2025-04-21",
+            "time": "00:30",
+            "home_team": "레스터 시티",
+            "away_team": "리버풀",
+            "score": "0 - 1",
+            "home_team_rank": 19,
+            "away_team_rank": 1,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/리버풀-vs-웨스트-햄",
-            "home_recent_url": "https://example.com/recent/리버풀",
-            "away_recent_url": "https://example.com/recent/웨스트-햄"
+            "blog_url": "https://example.com/preview/레스터-시티-vs-리버풀",
+            "home_recent_url": "https://example.com/recent/레스터-시티",
+            "away_recent_url": "https://example.com/recent/리버풀"
         },
         {
             "date": "2025-04-20",
@@ -474,17 +474,17 @@
             "away_recent_url": "https://example.com/recent/맨-시티"
         },
         {
-            "date": "2025-04-13",
-            "time": "22:00",
-            "home_team": "리버풀",
-            "away_team": "웨스트 햄",
-            "score": "2 - 1",
-            "home_team_rank": 1,
-            "away_team_rank": 16,
+            "date": "2025-04-21",
+            "time": "00:30",
+            "home_team": "레스터 시티",
+            "away_team": "리버풀",
+            "score": "0 - 1",
+            "home_team_rank": 19,
+            "away_team_rank": 1,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/리버풀-vs-웨스트-햄",
-            "home_recent_url": "https://example.com/recent/리버풀",
-            "away_recent_url": "https://example.com/recent/웨스트-햄"
+            "blog_url": "https://example.com/preview/레스터-시티-vs-리버풀",
+            "home_recent_url": "https://example.com/recent/레스터-시티",
+            "away_recent_url": "https://example.com/recent/리버풀"
         },
         {
             "date": "2025-04-20",
