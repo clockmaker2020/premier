@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 33",
-    "심판": "R. Jones",
+    "심판": "Robert Jones, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Manchester United",
+            "포메이션": "3-4-2-1",
+            "선발 선수": [
+                "André Onana",
+                "Tyler Fredricson",
+                "Victor Lindelöf",
+                "Noussair Mazraoui",
+                "Patrick Dorgu",
+                "Christian Eriksen",
+                "Manuel Ugarte",
+                "Harry Amass",
+                "Alejandro Garnacho",
+                "Kobbie Mainoo",
+                "Rasmus Højlund"
+            ],
+            "교체 선수": [
+                "Tom Heaton",
+                "Diogo Dalot",
+                "Jonny Evans",
+                "Harry Maguire",
+                "Leny Yoro",
+                "Casemiro",
+                "Bruno Fernandes",
+                "Mason Mount",
+                "Chido Obi-Martin"
+            ]
+        },
+        {
+            "팀": "Wolves",
+            "포메이션": "3-4-2-1",
+            "선발 선수": [
+                "José Sá",
+                "Santiago Bueno",
+                "Emmanuel Agbadou",
+                "Toti Gomes",
+                "Nélson Semedo",
+                "André",
+                "João Gomes",
+                "Rayan Aït Nouri",
+                "Marshall Munetsi",
+                "Matheus Cunha",
+                "Jørgen Strand Larsen"
+            ],
+            "교체 선수": [
+                "Daniel Bentley",
+                "Matt Doherty",
+                "Nasser Djiga",
+                "Boubacar Traoré",
+                "Rodrigo Gomes",
+                "Tommy Doyle",
+                "Pablo Sarabia",
+                "Carlos Forbs",
+                "Mateus Mané"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
