@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 33",
-    "심판": "S. Attwell",
+    "심판": "Stuart Attwell, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Leicester",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Mads Hermansen",
+                "Ricardo Pereira",
+                "Wout Faes",
+                "Conor Coady",
+                "Luke Thomas",
+                "Wilfred Ndidi",
+                "Boubakary Soumaré",
+                "Bobby Decordova-Reid",
+                "Bilal El Khannouss",
+                "Stephy Mavididi",
+                "Jamie Vardy"
+            ],
+            "교체 선수": [
+                "Jakub Stolarczyk",
+                "James Justin",
+                "Victor Kristiansen",
+                "Caleb Okoli",
+                "Oliver Skipp",
+                "Facundo Buonanotte",
+                "Jordan Ayew",
+                "Patson Daka",
+                "Jeremy Monga"
+            ]
+        },
+        {
+            "팀": "Liverpool",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Alisson",
+                "Conor Bradley",
+                "Ibrahima Konaté",
+                "Virgil van Dijk",
+                "Konstantinos Tsimikas",
+                "Ryan Gravenberch",
+                "Alexis Mac Allister",
+                "Mohamed Salah",
+                "Dominik Szoboszlai",
+                "Luis Díaz",
+                "Cody Gakpo"
+            ],
+            "교체 선수": [
+                "Caoimhin Kelleher",
+                "Andrew Robertson",
+                "Trent Alexander-Arnold",
+                "Jarell Quansah",
+                "Wataru Endo",
+                "Curtis Jones",
+                "Harvey Elliott",
+                "Darwin Núñez",
+                "Diogo Jota"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
