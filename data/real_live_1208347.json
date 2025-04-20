@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Fulham",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Bernd Leno",
+                "Kenny Tete",
+                "Joachim Andersen",
+                "Calvin Bassey",
+                "Antonee Robinson",
+                "Sander Berge",
+                "Saša Lukić",
+                "Ryan Sessegnon",
+                "Andreas Pereira",
+                "Alex Iwobi",
+                "Raúl Jiménez"
+            ],
+            "교체 선수": [
+                "Steven Benda",
+                "Timothy Castagne",
+                "Jorge Cuenca",
+                "Harrison Reed",
+                "Tom Cairney",
+                "Willian",
+                "Harry Wilson",
+                "Adama Traoré",
+                "Carlos Vinícius"
+            ]
+        },
+        {
+            "팀": "Chelsea",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Robert Sánchez",
+                "Reece James",
+                "Trevoh Chalobah",
+                "Levi Colwill",
+                "Marc Cucurella",
+                "Enzo Fernández",
+                "Moisés Caicedo",
+                "Noni Madueke",
+                "Cole Palmer",
+                "Pedro Neto",
+                "Nicolas Jackson"
+            ],
+            "교체 선수": [
+                "Filip Jørgensen",
+                "Tosin Adarabioyo",
+                "Benoît Badiashile",
+                "Josh Acheampong",
+                "Malo Gusto",
+                "Roméo Lavia",
+                "Kiernan Dewsbury-Hall",
+                "Jadon Sancho",
+                "Tyrique George"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
