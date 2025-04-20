@@ -421,19 +421,19 @@
   },
   {
     "fixture": {
-      "id": 1208337,
-      "referee": "Andy Madley, England",
+      "id": 1208349,
+      "referee": "Stuart Attwell, England",
       "timezone": "UTC",
-      "date": "2025-04-13T13:00:00+00:00",
-      "timestamp": 1744549200,
+      "date": "2025-04-20T15:30:00+00:00",
+      "timestamp": 1745163000,
       "periods": {
-        "first": 1744549200,
-        "second": 1744552800
+        "first": 1745163000,
+        "second": 1745166600
       },
       "venue": {
-        "id": 550,
-        "name": "Anfield",
-        "city": "Liverpool"
+        "id": 547,
+        "name": "King Power Stadium",
+        "city": "Leicester, Leicestershire"
       },
       "status": {
         "long": "Match Finished",
@@ -449,34 +449,34 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 32",
+      "round": "Regular Season - 33",
       "standings": true
     },
     "teams": {
       "home": {
+        "id": 46,
+        "name": "Leicester",
+        "logo": "https://media.api-sports.io/football/teams/46.png",
+        "winner": false
+      },
+      "away": {
         "id": 40,
         "name": "Liverpool",
         "logo": "https://media.api-sports.io/football/teams/40.png",
         "winner": true
-      },
-      "away": {
-        "id": 48,
-        "name": "West Ham",
-        "logo": "https://media.api-sports.io/football/teams/48.png",
-        "winner": false
       }
     },
     "goals": {
-      "home": 2,
+      "home": 0,
       "away": 1
     },
     "score": {
       "halftime": {
-        "home": 1,
+        "home": 0,
         "away": 0
       },
       "fulltime": {
-        "home": 2,
+        "home": 0,
         "away": 1
       },
       "extratime": {
