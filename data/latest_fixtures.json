@@ -1,25 +1,25 @@
 [
   {
     "fixture": {
-      "id": 1208334,
-      "referee": "Simon Hooper, England",
+      "id": 1208348,
+      "referee": "Chris Kavanagh, England",
       "timezone": "UTC",
-      "date": "2025-04-12T16:30:00+00:00",
-      "timestamp": 1744475400,
+      "date": "2025-04-20T13:00:00+00:00",
+      "timestamp": 1745154000,
       "periods": {
-        "first": 1744475400,
-        "second": 1744479000
+        "first": 1745154000,
+        "second": 1745157600
       },
       "venue": {
-        "id": 494,
-        "name": "Emirates Stadium",
-        "city": "London"
+        "id": 545,
+        "name": "Portman Road",
+        "city": "Ipswich, Suffolk"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 7
+        "extra": 5
       }
     },
     "league": {
@@ -29,35 +29,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 32",
+      "round": "Regular Season - 33",
       "standings": true
     },
     "teams": {
       "home": {
+        "id": 57,
+        "name": "Ipswich",
+        "logo": "https://media.api-sports.io/football/teams/57.png",
+        "winner": false
+      },
+      "away": {
         "id": 42,
         "name": "Arsenal",
         "logo": "https://media.api-sports.io/football/teams/42.png",
-        "winner": null
-      },
-      "away": {
-        "id": 55,
-        "name": "Brentford",
-        "logo": "https://media.api-sports.io/football/teams/55.png",
-        "winner": null
+        "winner": true
       }
     },
     "goals": {
-      "home": 1,
-      "away": 1
+      "home": 0,
+      "away": 4
     },
     "score": {
       "halftime": {
         "home": 0,
-        "away": 0
+        "away": 2
       },
       "fulltime": {
-        "home": 1,
-        "away": 1
+        "home": 0,
+        "away": 4
       },
       "extratime": {
         "home": null,
@@ -281,25 +281,25 @@
   },
   {
     "fixture": {
-      "id": 1208336,
-      "referee": "Stuart Attwell, England",
+      "id": 1208347,
+      "referee": "Anthony Taylor, England",
       "timezone": "UTC",
-      "date": "2025-04-13T13:00:00+00:00",
-      "timestamp": 1744549200,
+      "date": "2025-04-20T13:00:00+00:00",
+      "timestamp": 1745154000,
       "periods": {
-        "first": 1744549200,
-        "second": 1744552800
+        "first": 1745154000,
+        "second": 1745157600
       },
       "venue": {
-        "id": 519,
-        "name": "Stamford Bridge",
+        "id": 535,
+        "name": "Craven Cottage",
         "city": "London"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 7
+        "extra": 8
       }
     },
     "league": {
@@ -309,34 +309,34 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 32",
+      "round": "Regular Season - 33",
       "standings": true
     },
     "teams": {
       "home": {
+        "id": 36,
+        "name": "Fulham",
+        "logo": "https://media.api-sports.io/football/teams/36.png",
+        "winner": false
+      },
+      "away": {
         "id": 49,
         "name": "Chelsea",
         "logo": "https://media.api-sports.io/football/teams/49.png",
-        "winner": null
-      },
-      "away": {
-        "id": 57,
-        "name": "Ipswich",
-        "logo": "https://media.api-sports.io/football/teams/57.png",
-        "winner": null
+        "winner": true
       }
     },
     "goals": {
-      "home": 2,
+      "home": 1,
       "away": 2
     },
     "score": {
       "halftime": {
-        "home": 0,
-        "away": 2
+        "home": 1,
+        "away": 0
       },
       "fulltime": {
-        "home": 2,
+        "home": 1,
         "away": 2
       },
       "extratime": {
@@ -421,76 +421,6 @@
   },
   {
     "fixture": {
-      "id": 1208333,
-      "referee": "Michael Oliver, England",
-      "timezone": "UTC",
-      "date": "2025-04-14T19:00:00+00:00",
-      "timestamp": 1744657200,
-      "periods": {
-        "first": 1744657200,
-        "second": 1744660800
-      },
-      "venue": {
-        "id": 504,
-        "name": "Vitality Stadium",
-        "city": "Bournemouth, Dorset"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 7
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 32",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 35,
-        "name": "Bournemouth",
-        "logo": "https://media.api-sports.io/football/teams/35.png",
-        "winner": true
-      },
-      "away": {
-        "id": 36,
-        "name": "Fulham",
-        "logo": "https://media.api-sports.io/football/teams/36.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1208337,
       "referee": "Andy Madley, England",
       "timezone": "UTC",
@@ -561,25 +491,25 @@
   },
   {
     "fixture": {
-      "id": 1208339,
-      "referee": "Michael Oliver, England",
+      "id": 1208350,
+      "referee": "Robert Jones, England",
       "timezone": "UTC",
-      "date": "2025-04-13T15:30:00+00:00",
-      "timestamp": 1744558200,
+      "date": "2025-04-20T13:00:00+00:00",
+      "timestamp": 1745154000,
       "periods": {
-        "first": 1744558200,
-        "second": 1744561800
+        "first": 1745154000,
+        "second": 1745157600
       },
       "venue": {
-        "id": 562,
-        "name": "St. James' Park",
-        "city": "Newcastle upon Tyne"
+        "id": 556,
+        "name": "Old Trafford",
+        "city": "Manchester"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 5
+        "extra": 8
       }
     },
     "league": {
@@ -589,34 +519,34 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 32",
+      "round": "Regular Season - 33",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 34,
-        "name": "Newcastle",
-        "logo": "https://media.api-sports.io/football/teams/34.png",
-        "winner": true
-      },
-      "away": {
         "id": 33,
         "name": "Manchester United",
         "logo": "https://media.api-sports.io/football/teams/33.png",
         "winner": false
+      },
+      "away": {
+        "id": 39,
+        "name": "Wolves",
+        "logo": "https://media.api-sports.io/football/teams/39.png",
+        "winner": true
       }
     },
     "goals": {
-      "home": 4,
+      "home": 0,
       "away": 1
     },
     "score": {
       "halftime": {
-        "home": 1,
-        "away": 1
+        "home": 0,
+        "away": 0
       },
       "fulltime": {
-        "home": 4,
+        "home": 0,
         "away": 1
       },
       "extratime": {
