@@ -561,19 +561,19 @@
   },
   {
     "fixture": {
-      "id": 1208340,
-      "referee": "Pawson, Craig, England",
+      "id": 1208351,
+      "referee": "Peter Bankes, England",
       "timezone": "UTC",
-      "date": "2025-04-12T14:00:00+00:00",
-      "timestamp": 1744466400,
+      "date": "2025-04-21T19:00:00+00:00",
+      "timestamp": 1745262000,
       "periods": {
-        "first": 1744466400,
-        "second": 1744470000
+        "first": 1745262000,
+        "second": 1745265600
       },
       "venue": {
-        "id": 566,
-        "name": "The City Ground",
-        "city": "Nottingham, Nottinghamshire"
+        "id": 593,
+        "name": "Tottenham Hotspur Stadium",
+        "city": "London"
       },
       "status": {
         "long": "Match Finished",
@@ -589,35 +589,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 32",
+      "round": "Regular Season - 33",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 65,
-        "name": "Nottingham Forest",
-        "logo": "https://media.api-sports.io/football/teams/65.png",
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png",
         "winner": false
       },
       "away": {
-        "id": 45,
-        "name": "Everton",
-        "logo": "https://media.api-sports.io/football/teams/45.png",
+        "id": 65,
+        "name": "Nottingham Forest",
+        "logo": "https://media.api-sports.io/football/teams/65.png",
         "winner": true
       }
     },
     "goals": {
-      "home": 0,
-      "away": 1
+      "home": 1,
+      "away": 2
     },
     "score": {
       "halftime": {
         "home": 0,
-        "away": 0
+        "away": 2
       },
       "fulltime": {
-        "home": 0,
-        "away": 1
+        "home": 1,
+        "away": 2
       },
       "extratime": {
         "home": null,
@@ -688,76 +688,6 @@
       "fulltime": {
         "home": 1,
         "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1208342,
-      "referee": "Anthony Taylor, England",
-      "timezone": "UTC",
-      "date": "2025-04-13T13:00:00+00:00",
-      "timestamp": 1744549200,
-      "periods": {
-        "first": 1744549200,
-        "second": 1744552800
-      },
-      "venue": {
-        "id": 600,
-        "name": "Molineux Stadium",
-        "city": "Wolverhampton, West Midlands"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 32",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 39,
-        "name": "Wolves",
-        "logo": "https://media.api-sports.io/football/teams/39.png",
-        "winner": true
-      },
-      "away": {
-        "id": 47,
-        "name": "Tottenham",
-        "logo": "https://media.api-sports.io/football/teams/47.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 4,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 2,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 4,
-        "away": 2
       },
       "extratime": {
         "home": null,
