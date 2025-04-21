@@ -3,10 +3,10 @@
     "경기 날짜": "2025-04-22 04:00:00",
     "경기장": "Tottenham Hotspur Stadium",
     "도시": "London",
-    "경기 상태": "Not Started",
+    "경기 상태": "Halftime",
     "리그": "Premier League",
     "라운드": "Regular Season - 33",
-    "심판": "P. Bankes",
+    "심판": "Peter Bankes, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -50,16 +50,2765 @@
             "원정 성적": "8승 2무 6패"
         }
     },
-    "현재 점수": "None - None",
-    "득점 기록": [],
-    "경기 이벤트": [],
-    "경기 통계": [
+    "현재 점수": "0 - 2",
+    "득점 기록": [
         {
-            "팀": "N/A",
-            "항목": "N/A",
-            "수치": "N/A"
+            "시간": 5,
+            "선수": "E. Anderson",
+            "팀": "Nottingham Forest"
+        },
+        {
+            "시간": 16,
+            "선수": "C. Wood",
+            "팀": "Nottingham Forest"
         }
     ],
-    "라인업": [],
-    "선수별 통계": []
+    "경기 이벤트": [
+        {
+            "이벤트 종류": "Goal",
+            "선수": "E. Anderson",
+            "팀": "Nottingham Forest",
+            "시간": 5
+        },
+        {
+            "이벤트 종류": "Var",
+            "선수": "C. Wood",
+            "팀": "Nottingham Forest",
+            "시간": 10
+        },
+        {
+            "이벤트 종류": "Goal",
+            "선수": "C. Wood",
+            "팀": "Nottingham Forest",
+            "시간": 16
+        },
+        {
+            "이벤트 종류": "Card",
+            "선수": "C. Romero",
+            "팀": "Tottenham",
+            "시간": 42
+        }
+    ],
+    "경기 통계": [
+        {
+            "팀": "Tottenham",
+            "항목": "Shots on Goal",
+            "수치": 2
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Shots off Goal",
+            "수치": 5
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Total Shots",
+            "수치": 10
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Blocked Shots",
+            "수치": 3
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Shots insidebox",
+            "수치": 7
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Shots outsidebox",
+            "수치": 3
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Fouls",
+            "수치": 4
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Corner Kicks",
+            "수치": 3
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Offsides",
+            "수치": 0
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Ball Possession",
+            "수치": "67%"
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Yellow Cards",
+            "수치": 1
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Red Cards",
+            "수치": null
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Goalkeeper Saves",
+            "수치": 1
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Total passes",
+            "수치": 265
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Passes accurate",
+            "수치": 240
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "Passes %",
+            "수치": "91%"
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "expected_goals",
+            "수치": "1.23"
+        },
+        {
+            "팀": "Tottenham",
+            "항목": "goals_prevented",
+            "수치": 0
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Shots on Goal",
+            "수치": 3
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Shots off Goal",
+            "수치": 0
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Total Shots",
+            "수치": 3
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Blocked Shots",
+            "수치": 0
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Shots insidebox",
+            "수치": 1
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Shots outsidebox",
+            "수치": 2
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Fouls",
+            "수치": 2
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Corner Kicks",
+            "수치": 1
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Offsides",
+            "수치": 2
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Ball Possession",
+            "수치": "33%"
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Yellow Cards",
+            "수치": 0
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Red Cards",
+            "수치": null
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Goalkeeper Saves",
+            "수치": 2
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Total passes",
+            "수치": 138
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Passes accurate",
+            "수치": 98
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "Passes %",
+            "수치": "71%"
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "expected_goals",
+            "수치": "0.33"
+        },
+        {
+            "팀": "Nottingham Forest",
+            "항목": "goals_prevented",
+            "수치": 0
+        }
+    ],
+    "라인업": [
+        {
+            "팀": "Tottenham",
+            "포메이션": "4-3-3",
+            "선발 선수": [
+                "Guglielmo Vicario",
+                "Pedro Porro",
+                "Cristian Romero",
+                "Micky van de Ven",
+                "Djed Spence",
+                "Dejan Kulusevski",
+                "Rodrigo Bentancur",
+                "Pape Matar Sarr",
+                "Wilson Odobert",
+                "Richarlison",
+                "Mathys Tel"
+            ],
+            "교체 선수": [
+                "Antonín Kinský",
+                "Ben Davies",
+                "Kevin Danso",
+                "Archie Gray",
+                "Yves Bissouma",
+                "Lucas Bergvall",
+                "James Maddison",
+                "Brennan Johnson",
+                "Dominic Solanke"
+            ]
+        },
+        {
+            "팀": "Nottingham Forest",
+            "포메이션": "4-2-2-2",
+            "선발 선수": [
+                "Matz Sels",
+                "Neco Williams",
+                "Nikola Milenković",
+                "Murillo",
+                "Harry Toffolo",
+                "Nicolás Domínguez",
+                "Danilo",
+                "Morgan Gibbs-White",
+                "Elliot Anderson",
+                "Chris Wood",
+                "Anthony Elanga"
+            ],
+            "교체 선수": [
+                "Carlos Miguel",
+                "Morato",
+                "Álex Moreno",
+                "Zach Abbott",
+                "Ibrahim Sangaré",
+                "Callum Hudson-Odoi",
+                "Ryan Yates",
+                "Taiwo Awoniyi",
+                "Ramón Sosa"
+            ]
+        }
+    ],
+    "선수별 통계": [
+        {
+            "선수": "Guglielmo Vicario",
+            "팀": "Tottenham",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 1,
+                        "position": "G",
+                        "rating": "5.7",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 2,
+                        "assists": null,
+                        "saves": 1
+                    },
+                    "passes": {
+                        "total": 10,
+                        "key": null,
+                        "accuracy": "9"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Pedro Porro",
+            "팀": "Tottenham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 23,
+                        "position": "D",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 34,
+                        "key": 1,
+                        "accuracy": "31"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Cristian Romero",
+            "팀": "Tottenham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 17,
+                        "position": "D",
+                        "rating": "6.6",
+                        "captain": true,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 35,
+                        "key": null,
+                        "accuracy": "35"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 2
+                    },
+                    "cards": {
+                        "yellow": 1,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Micky van de Ven",
+            "팀": "Tottenham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 37,
+                        "position": "D",
+                        "rating": "6.5",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 49,
+                        "key": null,
+                        "accuracy": "45"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Djed Spence",
+            "팀": "Tottenham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 24,
+                        "position": "D",
+                        "rating": "6.2",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 20,
+                        "key": null,
+                        "accuracy": "17"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Dejan Kulusevski",
+            "팀": "Tottenham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 21,
+                        "position": "M",
+                        "rating": "6.7",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 18,
+                        "key": 1,
+                        "accuracy": "17"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Rodrigo Bentancur",
+            "팀": "Tottenham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 30,
+                        "position": "M",
+                        "rating": "6.7",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 27,
+                        "key": 1,
+                        "accuracy": "22"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Pape Matar Sarr",
+            "팀": "Tottenham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 29,
+                        "position": "M",
+                        "rating": "6.3",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 25,
+                        "key": null,
+                        "accuracy": "25"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Wilson Odobert",
+            "팀": "Tottenham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 28,
+                        "position": "F",
+                        "rating": "7.3",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 16,
+                        "key": 1,
+                        "accuracy": "15"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 3,
+                        "success": 2,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Richarlison",
+            "팀": "Tottenham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 9,
+                        "position": "F",
+                        "rating": "5.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 3,
+                        "key": null,
+                        "accuracy": "1"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 3,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Mathys Tel",
+            "팀": "Tottenham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 11,
+                        "position": "F",
+                        "rating": "7.3",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 2,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 28,
+                        "key": 4,
+                        "accuracy": "23"
+                    },
+                    "tackles": {
+                        "total": 1,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Antonín Kinský",
+            "팀": "Tottenham",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 31,
+                        "position": "G",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Ben Davies",
+            "팀": "Tottenham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 33,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Kevin Danso",
+            "팀": "Tottenham",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 4,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Archie Gray",
+            "팀": "Tottenham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 14,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Yves Bissouma",
+            "팀": "Tottenham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 8,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Lucas Bergvall",
+            "팀": "Tottenham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 15,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "James Maddison",
+            "팀": "Tottenham",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 10,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Brennan Johnson",
+            "팀": "Tottenham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 22,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Dominic Solanke",
+            "팀": "Tottenham",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 19,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Matz Sels",
+            "팀": "Nottingham Forest",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 26,
+                        "position": "G",
+                        "rating": "6.6",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": 2
+                    },
+                    "passes": {
+                        "total": 14,
+                        "key": null,
+                        "accuracy": "6"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": 0
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Neco Williams",
+            "팀": "Nottingham Forest",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 7,
+                        "position": "D",
+                        "rating": "6.7",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": "5"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Nikola Milenković",
+            "팀": "Nottingham Forest",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 31,
+                        "position": "D",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 17,
+                        "key": null,
+                        "accuracy": "13"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Murillo",
+            "팀": "Nottingham Forest",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 5,
+                        "position": "D",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 19,
+                        "key": null,
+                        "accuracy": "15"
+                    },
+                    "tackles": {
+                        "total": 3,
+                        "blocks": 1,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 4,
+                        "won": 3
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Harry Toffolo",
+            "팀": "Nottingham Forest",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 15,
+                        "position": "D",
+                        "rating": "6.6",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 9,
+                        "key": null,
+                        "accuracy": "6"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": 1,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 1,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Nicolás Domínguez",
+            "팀": "Nottingham Forest",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 16,
+                        "position": "M",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 16,
+                        "key": 1,
+                        "accuracy": "14"
+                    },
+                    "tackles": {
+                        "total": 2,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 1
+                    },
+                    "fouls": {
+                        "drawn": 1,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Danilo",
+            "팀": "Nottingham Forest",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 28,
+                        "position": "M",
+                        "rating": "7",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 21,
+                        "key": null,
+                        "accuracy": "15"
+                    },
+                    "tackles": {
+                        "total": 4,
+                        "blocks": null,
+                        "interceptions": 1
+                    },
+                    "duels": {
+                        "total": 5,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": 1,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Morgan Gibbs-White",
+            "팀": "Nottingham Forest",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 10,
+                        "position": "M",
+                        "rating": "6.7",
+                        "captain": true,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 9,
+                        "key": null,
+                        "accuracy": "7"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": 1,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Elliot Anderson",
+            "팀": "Nottingham Forest",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 8,
+                        "position": "M",
+                        "rating": "7.5",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 10,
+                        "key": 1,
+                        "accuracy": "7"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 8,
+                        "won": 5
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": 2
+                    },
+                    "fouls": {
+                        "drawn": 3,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Chris Wood",
+            "팀": "Nottingham Forest",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 11,
+                        "position": "F",
+                        "rating": "7.3",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": 1,
+                    "shots": {
+                        "total": 1,
+                        "on": 1
+                    },
+                    "goals": {
+                        "total": 1,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 7,
+                        "key": null,
+                        "accuracy": "3"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 2,
+                        "won": 2
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Anthony Elanga",
+            "팀": "Nottingham Forest",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": 46,
+                        "number": 21,
+                        "position": "F",
+                        "rating": "6.9",
+                        "captain": false,
+                        "substitute": false
+                    },
+                    "offsides": 1,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": 1,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": 9,
+                        "key": 1,
+                        "accuracy": "7"
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": 6,
+                        "won": 1
+                    },
+                    "dribbles": {
+                        "attempts": 2,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": 1
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Carlos Miguel",
+            "팀": "Nottingham Forest",
+            "포지션": "G",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 33,
+                        "position": "G",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Morato",
+            "팀": "Nottingham Forest",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 4,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Álex Moreno",
+            "팀": "Nottingham Forest",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 19,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Zach Abbott",
+            "팀": "Nottingham Forest",
+            "포지션": "D",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 44,
+                        "position": "D",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Ibrahim Sangaré",
+            "팀": "Nottingham Forest",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 6,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Callum Hudson-Odoi",
+            "팀": "Nottingham Forest",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 14,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Ryan Yates",
+            "팀": "Nottingham Forest",
+            "포지션": "M",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 22,
+                        "position": "M",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Taiwo Awoniyi",
+            "팀": "Nottingham Forest",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 9,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        },
+        {
+            "선수": "Ramón Sosa",
+            "팀": "Nottingham Forest",
+            "포지션": "F",
+            "스탯": [
+                {
+                    "games": {
+                        "minutes": null,
+                        "number": 24,
+                        "position": "F",
+                        "rating": null,
+                        "captain": false,
+                        "substitute": true
+                    },
+                    "offsides": null,
+                    "shots": {
+                        "total": null,
+                        "on": null
+                    },
+                    "goals": {
+                        "total": null,
+                        "conceded": 0,
+                        "assists": null,
+                        "saves": null
+                    },
+                    "passes": {
+                        "total": null,
+                        "key": null,
+                        "accuracy": null
+                    },
+                    "tackles": {
+                        "total": null,
+                        "blocks": null,
+                        "interceptions": null
+                    },
+                    "duels": {
+                        "total": null,
+                        "won": null
+                    },
+                    "dribbles": {
+                        "attempts": null,
+                        "success": null,
+                        "past": null
+                    },
+                    "fouls": {
+                        "drawn": null,
+                        "committed": null
+                    },
+                    "cards": {
+                        "yellow": 0,
+                        "red": 0
+                    },
+                    "penalty": {
+                        "won": null,
+                        "commited": null,
+                        "scored": 0,
+                        "missed": 0,
+                        "saved": null
+                    }
+                }
+            ]
+        }
+    ]
 }
