@@ -71,25 +71,25 @@
   },
   {
     "fixture": {
-      "id": 1208343,
-      "referee": "Jarred Gillett, Australia",
+      "id": 1208358,
+      "referee": "Craig Pawson, England",
       "timezone": "UTC",
-      "date": "2025-04-19T16:30:00+00:00",
-      "timestamp": 1745080200,
+      "date": "2025-04-22T19:00:00+00:00",
+      "timestamp": 1745348400,
       "periods": {
-        "first": 1745080200,
-        "second": 1745083800
+        "first": 1745348400,
+        "second": 1745352000
       },
       "venue": {
-        "id": 495,
-        "name": "Villa Park",
-        "city": "Birmingham"
+        "id": 555,
+        "name": "Etihad Stadium",
+        "city": "Manchester"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 6
+        "extra": 7
       }
     },
     "league": {
@@ -99,25 +99,25 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 33",
+      "round": "Regular Season - 34",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 66,
-        "name": "Aston Villa",
-        "logo": "https://media.api-sports.io/football/teams/66.png",
+        "id": 50,
+        "name": "Manchester City",
+        "logo": "https://media.api-sports.io/football/teams/50.png",
         "winner": true
       },
       "away": {
-        "id": 34,
-        "name": "Newcastle",
-        "logo": "https://media.api-sports.io/football/teams/34.png",
+        "id": 66,
+        "name": "Aston Villa",
+        "logo": "https://media.api-sports.io/football/teams/66.png",
         "winner": false
       }
     },
     "goals": {
-      "home": 4,
+      "home": 2,
       "away": 1
     },
     "score": {
@@ -126,7 +126,7 @@
         "away": 1
       },
       "fulltime": {
-        "home": 4,
+        "home": 2,
         "away": 1
       },
       "extratime": {
@@ -547,6 +547,76 @@
       },
       "fulltime": {
         "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1208343,
+      "referee": "Jarred Gillett, Australia",
+      "timezone": "UTC",
+      "date": "2025-04-19T16:30:00+00:00",
+      "timestamp": 1745080200,
+      "periods": {
+        "first": 1745080200,
+        "second": 1745083800
+      },
+      "venue": {
+        "id": 495,
+        "name": "Villa Park",
+        "city": "Birmingham"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/39.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2024,
+      "round": "Regular Season - 33",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 66,
+        "name": "Aston Villa",
+        "logo": "https://media.api-sports.io/football/teams/66.png",
+        "winner": true
+      },
+      "away": {
+        "id": 34,
+        "name": "Newcastle",
+        "logo": "https://media.api-sports.io/football/teams/34.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
         "away": 1
       },
       "extratime": {
