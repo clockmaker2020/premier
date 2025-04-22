@@ -6,7 +6,7 @@
     "경기 상태": "Not Started",
     "리그": "Premier League",
     "라운드": "Regular Season - 34",
-    "심판": "C. Pawson",
+    "심판": "Craig Pawson, England",
     "관중 수": "N/A",
     "팀 정보": {
         "홈팀": {
@@ -60,6 +60,63 @@
             "수치": "N/A"
         }
     ],
-    "라인업": [],
+    "라인업": [
+        {
+            "팀": "Manchester City",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Stefan Ortega",
+                "Matheus Nunes",
+                "Rúben Dias",
+                "Joško Gvardiol",
+                "Nico O'Reilly",
+                "İlkay Gündoğan",
+                "Mateo Kovačić",
+                "Bernardo Silva",
+                "Kevin De Bruyne",
+                "James McAtee",
+                "Omar Marmoush"
+            ],
+            "교체 선수": [
+                "Scott Carson",
+                "Manuel Akanji",
+                "Abdukodir Khusanov",
+                "Rico Lewis",
+                "Jack Grealish",
+                "Nico González",
+                "Savinho",
+                "Phil Foden",
+                "Jérémy Doku"
+            ]
+        },
+        {
+            "팀": "Aston Villa",
+            "포메이션": "4-2-3-1",
+            "선발 선수": [
+                "Emiliano Martínez",
+                "Matty Cash",
+                "Ezri Konsa",
+                "Pau Torres",
+                "Lucas Digne",
+                "Boubacar Kamara",
+                "Amadou Onana",
+                "Morgan Rogers",
+                "Youri Tielemans",
+                "Jacob Ramsey",
+                "Marcus Rashford"
+            ],
+            "교체 선수": [
+                "Robin Olsen",
+                "Ian Maatsen",
+                "Andrés García",
+                "Axel Disasi",
+                "John McGinn",
+                "Ross Barkley",
+                "Donyell Malen",
+                "Marco Asensio",
+                "Ollie Watkins"
+            ]
+        }
+    ],
     "선수별 통계": []
 }
