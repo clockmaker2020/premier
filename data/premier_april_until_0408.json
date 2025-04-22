@@ -244,10 +244,10 @@
         }
     ],
     "최근 경기": {
-        "날짜": "2025-04-21",
-        "홈팀": "토트넘",
-        "스코어": "1 - 2",
-        "원정팀": "노팅엄 포레스트"
+        "날짜": "2025-04-22",
+        "홈팀": "맨 시티",
+        "스코어": "2 - 1",
+        "원정팀": "애스턴 빌라"
     },
     "팀별 최종 경기": [
         {
@@ -264,17 +264,17 @@
             "away_recent_url": "https://example.com/recent/아스널"
         },
         {
-            "date": "2025-04-20",
-            "time": "01:30",
-            "home_team": "애스턴 빌라",
-            "away_team": "뉴캐슬",
-            "score": "4 - 1",
-            "home_team_rank": 7,
-            "away_team_rank": 4,
+            "date": "2025-04-23",
+            "time": "04:00",
+            "home_team": "맨 시티",
+            "away_team": "애스턴 빌라",
+            "score": "2 - 1",
+            "home_team_rank": 5,
+            "away_team_rank": 7,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/애스턴-빌라-vs-뉴캐슬",
-            "home_recent_url": "https://example.com/recent/애스턴-빌라",
-            "away_recent_url": "https://example.com/recent/뉴캐슬"
+            "blog_url": "https://example.com/preview/맨-시티-vs-애스턴-빌라",
+            "home_recent_url": "https://example.com/recent/맨-시티",
+            "away_recent_url": "https://example.com/recent/애스턴-빌라"
         },
         {
             "date": "2025-04-19",
@@ -353,6 +353,19 @@
             "blog_url": "https://example.com/preview/맨유-vs-울브스",
             "home_recent_url": "https://example.com/recent/맨유",
             "away_recent_url": "https://example.com/recent/울브스"
+        },
+        {
+            "date": "2025-04-20",
+            "time": "01:30",
+            "home_team": "애스턴 빌라",
+            "away_team": "뉴캐슬",
+            "score": "4 - 1",
+            "home_team_rank": 7,
+            "away_team_rank": 4,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/애스턴-빌라-vs-뉴캐슬",
+            "home_recent_url": "https://example.com/recent/애스턴-빌라",
+            "away_recent_url": "https://example.com/recent/뉴캐슬"
         },
         {
             "date": "2025-04-22",
@@ -396,17 +409,17 @@
             "away_recent_url": "https://example.com/recent/아스널"
         },
         {
-            "date": "2025-04-20",
-            "time": "01:30",
-            "home_team": "애스턴 빌라",
-            "away_team": "뉴캐슬",
-            "score": "4 - 1",
-            "home_team_rank": 7,
-            "away_team_rank": 4,
+            "date": "2025-04-23",
+            "time": "04:00",
+            "home_team": "맨 시티",
+            "away_team": "애스턴 빌라",
+            "score": "2 - 1",
+            "home_team_rank": 5,
+            "away_team_rank": 7,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/애스턴-빌라-vs-뉴캐슬",
-            "home_recent_url": "https://example.com/recent/애스턴-빌라",
-            "away_recent_url": "https://example.com/recent/뉴캐슬"
+            "blog_url": "https://example.com/preview/맨-시티-vs-애스턴-빌라",
+            "home_recent_url": "https://example.com/recent/맨-시티",
+            "away_recent_url": "https://example.com/recent/애스턴-빌라"
         },
         {
             "date": "2025-04-19",
@@ -485,6 +498,19 @@
             "blog_url": "https://example.com/preview/맨유-vs-울브스",
             "home_recent_url": "https://example.com/recent/맨유",
             "away_recent_url": "https://example.com/recent/울브스"
+        },
+        {
+            "date": "2025-04-20",
+            "time": "01:30",
+            "home_team": "애스턴 빌라",
+            "away_team": "뉴캐슬",
+            "score": "4 - 1",
+            "home_team_rank": 7,
+            "away_team_rank": 4,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/애스턴-빌라-vs-뉴캐슬",
+            "home_recent_url": "https://example.com/recent/애스턴-빌라",
+            "away_recent_url": "https://example.com/recent/뉴캐슬"
         },
         {
             "date": "2025-04-22",
