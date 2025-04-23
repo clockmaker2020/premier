@@ -1,25 +1,25 @@
 [
   {
     "fixture": {
-      "id": 1208348,
-      "referee": "Chris Kavanagh, England",
+      "id": 1208354,
+      "referee": "Michael Salisbury, England",
       "timezone": "UTC",
-      "date": "2025-04-20T13:00:00+00:00",
-      "timestamp": 1745154000,
+      "date": "2025-04-23T19:00:00+00:00",
+      "timestamp": 1745434800,
       "periods": {
-        "first": 1745154000,
-        "second": 1745157600
+        "first": 1745434800,
+        "second": 1745438400
       },
       "venue": {
-        "id": 545,
-        "name": "Portman Road",
-        "city": "Ipswich, Suffolk"
+        "id": 494,
+        "name": "Emirates Stadium",
+        "city": "London"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 5
+        "extra": 9
       }
     },
     "league": {
@@ -29,35 +29,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 33",
+      "round": "Regular Season - 34",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 57,
-        "name": "Ipswich",
-        "logo": "https://media.api-sports.io/football/teams/57.png",
-        "winner": false
-      },
-      "away": {
         "id": 42,
         "name": "Arsenal",
         "logo": "https://media.api-sports.io/football/teams/42.png",
-        "winner": true
+        "winner": null
+      },
+      "away": {
+        "id": 52,
+        "name": "Crystal Palace",
+        "logo": "https://media.api-sports.io/football/teams/52.png",
+        "winner": null
       }
     },
     "goals": {
-      "home": 0,
-      "away": 4
+      "home": 2,
+      "away": 2
     },
     "score": {
       "halftime": {
-        "home": 0,
-        "away": 2
+        "home": 2,
+        "away": 1
       },
       "fulltime": {
-        "home": 0,
-        "away": 4
+        "home": 2,
+        "away": 2
       },
       "extratime": {
         "home": null,
