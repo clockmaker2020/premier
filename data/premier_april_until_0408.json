@@ -244,10 +244,10 @@
         }
     ],
     "최근 경기": {
-        "날짜": "2025-04-23",
-        "홈팀": "아스널",
-        "스코어": "2 - 2",
-        "원정팀": "크리스털 팰리스"
+        "날짜": "2025-04-26",
+        "홈팀": "첼시",
+        "스코어": "1 - 0",
+        "원정팀": "에버턴"
     },
     "팀별 최종 경기": [
         {
@@ -303,6 +303,19 @@
             "away_recent_url": "https://example.com/recent/브라이턴"
         },
         {
+            "date": "2025-04-26",
+            "time": "20:30",
+            "home_team": "첼시",
+            "away_team": "에버턴",
+            "score": "1 - 0",
+            "home_team_rank": 6,
+            "away_team_rank": 13,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/첼시-vs-에버턴",
+            "home_recent_url": "https://example.com/recent/첼시",
+            "away_recent_url": "https://example.com/recent/에버턴"
+        },
+        {
             "date": "2025-04-20",
             "time": "22:00",
             "home_team": "풀럼",
@@ -314,19 +327,6 @@
             "blog_url": "https://example.com/preview/풀럼-vs-첼시",
             "home_recent_url": "https://example.com/recent/풀럼",
             "away_recent_url": "https://example.com/recent/첼시"
-        },
-        {
-            "date": "2025-04-19",
-            "time": "23:00",
-            "home_team": "에버턴",
-            "away_team": "맨 시티",
-            "score": "0 - 2",
-            "home_team_rank": 13,
-            "away_team_rank": 3,
-            "status": "Match Finished",
-            "blog_url": "https://example.com/preview/에버턴-vs-맨-시티",
-            "home_recent_url": "https://example.com/recent/에버턴",
-            "away_recent_url": "https://example.com/recent/맨-시티"
         },
         {
             "date": "2025-04-21",
@@ -448,6 +448,19 @@
             "away_recent_url": "https://example.com/recent/브라이턴"
         },
         {
+            "date": "2025-04-26",
+            "time": "20:30",
+            "home_team": "첼시",
+            "away_team": "에버턴",
+            "score": "1 - 0",
+            "home_team_rank": 6,
+            "away_team_rank": 13,
+            "status": "Match Finished",
+            "blog_url": "https://example.com/preview/첼시-vs-에버턴",
+            "home_recent_url": "https://example.com/recent/첼시",
+            "away_recent_url": "https://example.com/recent/에버턴"
+        },
+        {
             "date": "2025-04-20",
             "time": "22:00",
             "home_team": "풀럼",
@@ -459,19 +472,6 @@
             "blog_url": "https://example.com/preview/풀럼-vs-첼시",
             "home_recent_url": "https://example.com/recent/풀럼",
             "away_recent_url": "https://example.com/recent/첼시"
-        },
-        {
-            "date": "2025-04-19",
-            "time": "23:00",
-            "home_team": "에버턴",
-            "away_team": "맨 시티",
-            "score": "0 - 2",
-            "home_team_rank": 13,
-            "away_team_rank": 3,
-            "status": "Match Finished",
-            "blog_url": "https://example.com/preview/에버턴-vs-맨-시티",
-            "home_recent_url": "https://example.com/recent/에버턴",
-            "away_recent_url": "https://example.com/recent/맨-시티"
         },
         {
             "date": "2025-04-21",
