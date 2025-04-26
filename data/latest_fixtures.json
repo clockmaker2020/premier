@@ -281,6 +281,76 @@
   },
   {
     "fixture": {
+      "id": 1208355,
+      "referee": "Darren England, England",
+      "timezone": "UTC",
+      "date": "2025-04-26T14:00:00+00:00",
+      "timestamp": 1745676000,
+      "periods": {
+        "first": 1745676000,
+        "second": 1745679600
+      },
+      "venue": {
+        "id": 508,
+        "name": "American Express Stadium",
+        "city": "Falmer, East Sussex"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 39,
+      "name": "Premier League",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/39.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2024,
+      "round": "Regular Season - 34",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 51,
+        "name": "Brighton",
+        "logo": "https://media.api-sports.io/football/teams/51.png",
+        "winner": true
+      },
+      "away": {
+        "id": 48,
+        "name": "West Ham",
+        "logo": "https://media.api-sports.io/football/teams/48.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
       "id": 1208356,
       "referee": "Chris Kavanagh, England",
       "timezone": "UTC",
@@ -351,25 +421,25 @@
   },
   {
     "fixture": {
-      "id": 1208347,
-      "referee": "A. Taylor",
+      "id": 1208361,
+      "referee": "Tony Harrington, England",
       "timezone": "UTC",
-      "date": "2025-04-20T13:00:00+00:00",
-      "timestamp": 1745154000,
+      "date": "2025-04-26T14:00:00+00:00",
+      "timestamp": 1745676000,
       "periods": {
-        "first": 1745154000,
-        "second": 1745157600
+        "first": 1745676000,
+        "second": 1745679600
       },
       "venue": {
-        "id": 535,
-        "name": "Craven Cottage",
-        "city": "London"
+        "id": 585,
+        "name": "St. Mary's Stadium",
+        "city": "Southampton, Hampshire"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 8
+        "extra": 4
       }
     },
     "league": {
@@ -379,20 +449,20 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 33",
+      "round": "Regular Season - 34",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 36,
-        "name": "Fulham",
-        "logo": "https://media.api-sports.io/football/teams/36.png",
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media.api-sports.io/football/teams/41.png",
         "winner": false
       },
       "away": {
-        "id": 49,
-        "name": "Chelsea",
-        "logo": "https://media.api-sports.io/football/teams/49.png",
+        "id": 36,
+        "name": "Fulham",
+        "logo": "https://media.api-sports.io/football/teams/36.png",
         "winner": true
       }
     },
@@ -561,19 +631,19 @@
   },
   {
     "fixture": {
-      "id": 1208343,
-      "referee": "J. Gillett",
+      "id": 1208359,
+      "referee": "Michael Salisbury, England",
       "timezone": "UTC",
-      "date": "2025-04-19T16:30:00+00:00",
-      "timestamp": 1745080200,
+      "date": "2025-04-26T14:00:00+00:00",
+      "timestamp": 1745676000,
       "periods": {
-        "first": 1745080200,
-        "second": 1745083800
+        "first": 1745676000,
+        "second": 1745679600
       },
       "venue": {
-        "id": 495,
-        "name": "Villa Park",
-        "city": "Birmingham"
+        "id": 562,
+        "name": "St. James' Park",
+        "city": "Newcastle upon Tyne"
       },
       "status": {
         "long": "Match Finished",
@@ -589,35 +659,35 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 33",
+      "round": "Regular Season - 34",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 66,
-        "name": "Aston Villa",
-        "logo": "https://media.api-sports.io/football/teams/66.png",
-        "winner": true
-      },
-      "away": {
         "id": 34,
         "name": "Newcastle",
         "logo": "https://media.api-sports.io/football/teams/34.png",
+        "winner": true
+      },
+      "away": {
+        "id": 57,
+        "name": "Ipswich",
+        "logo": "https://media.api-sports.io/football/teams/57.png",
         "winner": false
       }
     },
     "goals": {
-      "home": 4,
-      "away": 1
+      "home": 3,
+      "away": 0
     },
     "score": {
       "halftime": {
         "home": 1,
-        "away": 1
+        "away": 0
       },
       "fulltime": {
-        "home": 4,
-        "away": 1
+        "home": 3,
+        "away": 0
       },
       "extratime": {
         "home": null,
@@ -688,76 +758,6 @@
       "fulltime": {
         "home": 1,
         "away": 2
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1208352,
-      "referee": "A. Kitchen",
-      "timezone": "UTC",
-      "date": "2025-04-19T14:00:00+00:00",
-      "timestamp": 1745071200,
-      "periods": {
-        "first": 1745071200,
-        "second": 1745074800
-      },
-      "venue": {
-        "id": 598,
-        "name": "London Stadium",
-        "city": "London"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 6
-      }
-    },
-    "league": {
-      "id": 39,
-      "name": "Premier League",
-      "country": "England",
-      "logo": "https://media.api-sports.io/football/leagues/39.png",
-      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
-      "season": 2024,
-      "round": "Regular Season - 33",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 48,
-        "name": "West Ham",
-        "logo": "https://media.api-sports.io/football/teams/48.png",
-        "winner": null
-      },
-      "away": {
-        "id": 41,
-        "name": "Southampton",
-        "logo": "https://media.api-sports.io/football/teams/41.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 1
       },
       "extratime": {
         "home": null,
