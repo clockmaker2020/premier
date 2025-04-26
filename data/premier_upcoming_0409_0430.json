@@ -245,252 +245,12 @@
     ],
     "경기일정": [
         {
-            "경기 ID": 1208338,
-            "날짜": "2025-04-12 20:30",
-            "홈팀": "맨 시티",
-            "원정팀": "크리스털 팰리스",
-            "장소": "Etihad Stadium",
-            "blog_url": "https://chatboy.tistory.com/551",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208341,
-            "날짜": "2025-04-12 23:00",
-            "홈팀": "사우샘프턴",
-            "원정팀": "애스턴 빌라",
-            "장소": "St. Mary's Stadium",
-            "blog_url": "https://chatboy.tistory.com/552",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208335,
-            "날짜": "2025-04-12 23:00",
-            "홈팀": "브라이턴",
-            "원정팀": "레스터 시티",
-            "장소": "American Express Stadium",
-            "blog_url": "https://chatboy.tistory.com/553",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208340,
-            "날짜": "2025-04-12 23:00",
-            "홈팀": "노팅엄 포레스트",
-            "원정팀": "에버턴",
-            "장소": "The City Ground",
-            "blog_url": "https://chatboy.tistory.com/554",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208334,
-            "날짜": "2025-04-13 01:30",
-            "홈팀": "아스널",
-            "원정팀": "브렌트퍼드",
-            "장소": "Emirates Stadium",
-            "blog_url": "https://chatboy.tistory.com/555",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208342,
-            "날짜": "2025-04-13 22:00",
-            "홈팀": "울브스",
-            "원정팀": "토트넘",
-            "장소": "Molineux Stadium",
-            "blog_url": "https://chatboy.tistory.com/556",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208337,
-            "날짜": "2025-04-13 22:00",
-            "홈팀": "리버풀",
-            "원정팀": "웨스트 햄",
-            "장소": "Anfield",
-            "blog_url": "https://chatboy.tistory.com/557",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208336,
-            "날짜": "2025-04-13 22:00",
-            "홈팀": "첼시",
-            "원정팀": "입스위치",
-            "장소": "Stamford Bridge",
-            "blog_url": "https://chatboy.tistory.com/558",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208339,
-            "날짜": "2025-04-14 00:30",
-            "홈팀": "뉴캐슬",
-            "원정팀": "맨유",
-            "장소": "St. James' Park",
-            "blog_url": "https://chatboy.tistory.com/559",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208333,
-            "날짜": "2025-04-15 04:00",
-            "홈팀": "본머스",
-            "원정팀": "풀럼",
-            "장소": "Vitality Stadium",
-            "blog_url": "https://chatboy.tistory.com/560",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208311,
-            "날짜": "2025-04-17 03:30",
-            "홈팀": "뉴캐슬",
-            "원정팀": "크리스털 팰리스",
-            "장소": "St. James' Park",
-            "blog_url": "https://chatboy.tistory.com/561",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208346,
-            "날짜": "2025-04-19 23:00",
-            "홈팀": "에버턴",
-            "원정팀": "맨 시티",
-            "장소": "Goodison Park",
-            "blog_url": "https://chatboy.tistory.com/562",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208352,
-            "날짜": "2025-04-19 23:00",
-            "홈팀": "웨스트 햄",
-            "원정팀": "사우샘프턴",
-            "장소": "London Stadium",
-            "blog_url": "https://chatboy.tistory.com/563",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208345,
-            "날짜": "2025-04-19 23:00",
-            "홈팀": "크리스털 팰리스",
-            "원정팀": "본머스",
-            "장소": "Selhurst Park",
-            "blog_url": "https://chatboy.tistory.com/564",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208344,
-            "날짜": "2025-04-19 23:00",
-            "홈팀": "브렌트퍼드",
-            "원정팀": "브라이턴",
-            "장소": "Gtech Community Stadium",
-            "blog_url": "https://chatboy.tistory.com/565",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208343,
-            "날짜": "2025-04-20 01:30",
-            "홈팀": "애스턴 빌라",
-            "원정팀": "뉴캐슬",
-            "장소": "Villa Park",
-            "blog_url": "https://chatboy.tistory.com/566",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208350,
-            "날짜": "2025-04-20 22:00",
-            "홈팀": "맨유",
-            "원정팀": "울브스",
-            "장소": "Old Trafford",
-            "blog_url": "https://chatboy.tistory.com/567",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208347,
-            "날짜": "2025-04-20 22:00",
-            "홈팀": "풀럼",
-            "원정팀": "첼시",
-            "장소": "Craven Cottage",
-            "blog_url": "https://chatboy.tistory.com/568",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208348,
-            "날짜": "2025-04-20 22:00",
-            "홈팀": "입스위치",
-            "원정팀": "아스널",
-            "장소": "Portman Road",
-            "blog_url": "https://chatboy.tistory.com/569",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208349,
-            "날짜": "2025-04-21 00:30",
-            "홈팀": "레스터 시티",
-            "원정팀": "리버풀",
-            "장소": "King Power Stadium",
-            "blog_url": "https://chatboy.tistory.com/570",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208351,
-            "날짜": "2025-04-22 04:00",
-            "홈팀": "토트넘",
-            "원정팀": "노팅엄 포레스트",
-            "장소": "Tottenham Hotspur Stadium",
-            "blog_url": "https://chatboy.tistory.com/571",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208358,
-            "날짜": "2025-04-23 04:00",
-            "홈팀": "맨 시티",
-            "원정팀": "애스턴 빌라",
-            "장소": "Etihad Stadium",
-            "blog_url": "https://chatboy.tistory.com/572",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208354,
-            "날짜": "2025-04-24 04:00",
-            "홈팀": "아스널",
-            "원정팀": "크리스털 팰리스",
-            "장소": "Emirates Stadium",
-            "blog_url": "https://chatboy.tistory.com/573",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
-            "경기 ID": 1208356,
-            "날짜": "2025-04-26 20:30",
-            "홈팀": "첼시",
-            "원정팀": "에버턴",
-            "장소": "Stamford Bridge",
-            "blog_url": "https://chatboy.tistory.com/574",
-            "home_blog_url": "https://chatboy.tistory.com/",
-            "away_blog_url": "https://chatboy.tistory.com/"
-        },
-        {
             "경기 ID": 1208359,
             "날짜": "2025-04-26 23:00",
             "홈팀": "뉴캐슬",
             "원정팀": "입스위치",
             "장소": "St. James' Park",
-            "blog_url": "https://chatboy.tistory.com/575",
+            "blog_url": "https://chatboy.tistory.com/551",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -500,7 +260,7 @@
             "홈팀": "울브스",
             "원정팀": "레스터 시티",
             "장소": "Molineux Stadium",
-            "blog_url": "https://chatboy.tistory.com/576",
+            "blog_url": "https://chatboy.tistory.com/552",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -510,7 +270,7 @@
             "홈팀": "사우샘프턴",
             "원정팀": "풀럼",
             "장소": "St. Mary's Stadium",
-            "blog_url": "https://chatboy.tistory.com/577",
+            "blog_url": "https://chatboy.tistory.com/553",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
         },
@@ -520,6 +280,246 @@
             "홈팀": "브라이턴",
             "원정팀": "웨스트 햄",
             "장소": "American Express Stadium",
+            "blog_url": "https://chatboy.tistory.com/554",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208338,
+            "날짜": "2025-04-12 20:30",
+            "홈팀": "맨 시티",
+            "원정팀": "크리스털 팰리스",
+            "장소": "Etihad Stadium",
+            "blog_url": "https://chatboy.tistory.com/555",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208341,
+            "날짜": "2025-04-12 23:00",
+            "홈팀": "사우샘프턴",
+            "원정팀": "애스턴 빌라",
+            "장소": "St. Mary's Stadium",
+            "blog_url": "https://chatboy.tistory.com/556",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208335,
+            "날짜": "2025-04-12 23:00",
+            "홈팀": "브라이턴",
+            "원정팀": "레스터 시티",
+            "장소": "American Express Stadium",
+            "blog_url": "https://chatboy.tistory.com/557",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208340,
+            "날짜": "2025-04-12 23:00",
+            "홈팀": "노팅엄 포레스트",
+            "원정팀": "에버턴",
+            "장소": "The City Ground",
+            "blog_url": "https://chatboy.tistory.com/558",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208334,
+            "날짜": "2025-04-13 01:30",
+            "홈팀": "아스널",
+            "원정팀": "브렌트퍼드",
+            "장소": "Emirates Stadium",
+            "blog_url": "https://chatboy.tistory.com/559",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208342,
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "울브스",
+            "원정팀": "토트넘",
+            "장소": "Molineux Stadium",
+            "blog_url": "https://chatboy.tistory.com/560",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208337,
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "리버풀",
+            "원정팀": "웨스트 햄",
+            "장소": "Anfield",
+            "blog_url": "https://chatboy.tistory.com/561",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208336,
+            "날짜": "2025-04-13 22:00",
+            "홈팀": "첼시",
+            "원정팀": "입스위치",
+            "장소": "Stamford Bridge",
+            "blog_url": "https://chatboy.tistory.com/562",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208339,
+            "날짜": "2025-04-14 00:30",
+            "홈팀": "뉴캐슬",
+            "원정팀": "맨유",
+            "장소": "St. James' Park",
+            "blog_url": "https://chatboy.tistory.com/563",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208333,
+            "날짜": "2025-04-15 04:00",
+            "홈팀": "본머스",
+            "원정팀": "풀럼",
+            "장소": "Vitality Stadium",
+            "blog_url": "https://chatboy.tistory.com/564",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208311,
+            "날짜": "2025-04-17 03:30",
+            "홈팀": "뉴캐슬",
+            "원정팀": "크리스털 팰리스",
+            "장소": "St. James' Park",
+            "blog_url": "https://chatboy.tistory.com/565",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208346,
+            "날짜": "2025-04-19 23:00",
+            "홈팀": "에버턴",
+            "원정팀": "맨 시티",
+            "장소": "Goodison Park",
+            "blog_url": "https://chatboy.tistory.com/566",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208352,
+            "날짜": "2025-04-19 23:00",
+            "홈팀": "웨스트 햄",
+            "원정팀": "사우샘프턴",
+            "장소": "London Stadium",
+            "blog_url": "https://chatboy.tistory.com/567",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208345,
+            "날짜": "2025-04-19 23:00",
+            "홈팀": "크리스털 팰리스",
+            "원정팀": "본머스",
+            "장소": "Selhurst Park",
+            "blog_url": "https://chatboy.tistory.com/568",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208344,
+            "날짜": "2025-04-19 23:00",
+            "홈팀": "브렌트퍼드",
+            "원정팀": "브라이턴",
+            "장소": "Gtech Community Stadium",
+            "blog_url": "https://chatboy.tistory.com/569",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208343,
+            "날짜": "2025-04-20 01:30",
+            "홈팀": "애스턴 빌라",
+            "원정팀": "뉴캐슬",
+            "장소": "Villa Park",
+            "blog_url": "https://chatboy.tistory.com/570",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208350,
+            "날짜": "2025-04-20 22:00",
+            "홈팀": "맨유",
+            "원정팀": "울브스",
+            "장소": "Old Trafford",
+            "blog_url": "https://chatboy.tistory.com/571",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208347,
+            "날짜": "2025-04-20 22:00",
+            "홈팀": "풀럼",
+            "원정팀": "첼시",
+            "장소": "Craven Cottage",
+            "blog_url": "https://chatboy.tistory.com/572",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208348,
+            "날짜": "2025-04-20 22:00",
+            "홈팀": "입스위치",
+            "원정팀": "아스널",
+            "장소": "Portman Road",
+            "blog_url": "https://chatboy.tistory.com/573",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208349,
+            "날짜": "2025-04-21 00:30",
+            "홈팀": "레스터 시티",
+            "원정팀": "리버풀",
+            "장소": "King Power Stadium",
+            "blog_url": "https://chatboy.tistory.com/574",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208351,
+            "날짜": "2025-04-22 04:00",
+            "홈팀": "토트넘",
+            "원정팀": "노팅엄 포레스트",
+            "장소": "Tottenham Hotspur Stadium",
+            "blog_url": "https://chatboy.tistory.com/575",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208358,
+            "날짜": "2025-04-23 04:00",
+            "홈팀": "맨 시티",
+            "원정팀": "애스턴 빌라",
+            "장소": "Etihad Stadium",
+            "blog_url": "https://chatboy.tistory.com/576",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208354,
+            "날짜": "2025-04-24 04:00",
+            "홈팀": "아스널",
+            "원정팀": "크리스털 팰리스",
+            "장소": "Emirates Stadium",
+            "blog_url": "https://chatboy.tistory.com/577",
+            "home_blog_url": "https://chatboy.tistory.com/",
+            "away_blog_url": "https://chatboy.tistory.com/"
+        },
+        {
+            "경기 ID": 1208356,
+            "날짜": "2025-04-26 20:30",
+            "홈팀": "첼시",
+            "원정팀": "에버턴",
+            "장소": "Stamford Bridge",
             "blog_url": "https://chatboy.tistory.com/578",
             "home_blog_url": "https://chatboy.tistory.com/",
             "away_blog_url": "https://chatboy.tistory.com/"
