@@ -245,9 +245,9 @@
     ],
     "최근 경기": {
         "날짜": "2025-04-27",
-        "홈팀": "본머스",
-        "스코어": "1 - 1",
-        "원정팀": "맨유"
+        "홈팀": "리버풀",
+        "스코어": "5 - 1",
+        "원정팀": "토트넘"
     },
     "팀별 최종 경기": [
         {
@@ -342,17 +342,17 @@
             "away_recent_url": "https://example.com/recent/풀럼"
         },
         {
-            "date": "2025-04-21",
+            "date": "2025-04-28",
             "time": "00:30",
-            "home_team": "레스터 시티",
-            "away_team": "리버풀",
-            "score": "0 - 1",
-            "home_team_rank": 19,
-            "away_team_rank": 1,
+            "home_team": "리버풀",
+            "away_team": "토트넘",
+            "score": "5 - 1",
+            "home_team_rank": 1,
+            "away_team_rank": 16,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/레스터-시티-vs-리버풀",
-            "home_recent_url": "https://example.com/recent/레스터-시티",
-            "away_recent_url": "https://example.com/recent/리버풀"
+            "blog_url": "https://example.com/preview/리버풀-vs-토트넘",
+            "home_recent_url": "https://example.com/recent/리버풀",
+            "away_recent_url": "https://example.com/recent/토트넘"
         },
         {
             "date": "2025-04-26",
@@ -474,17 +474,17 @@
             "away_recent_url": "https://example.com/recent/풀럼"
         },
         {
-            "date": "2025-04-21",
+            "date": "2025-04-28",
             "time": "00:30",
-            "home_team": "레스터 시티",
-            "away_team": "리버풀",
-            "score": "0 - 1",
-            "home_team_rank": 19,
-            "away_team_rank": 1,
+            "home_team": "리버풀",
+            "away_team": "토트넘",
+            "score": "5 - 1",
+            "home_team_rank": 1,
+            "away_team_rank": 16,
             "status": "Match Finished",
-            "blog_url": "https://example.com/preview/레스터-시티-vs-리버풀",
-            "home_recent_url": "https://example.com/recent/레스터-시티",
-            "away_recent_url": "https://example.com/recent/리버풀"
+            "blog_url": "https://example.com/preview/리버풀-vs-토트넘",
+            "home_recent_url": "https://example.com/recent/리버풀",
+            "away_recent_url": "https://example.com/recent/토트넘"
         },
         {
             "date": "2025-04-26",
