@@ -491,25 +491,25 @@
   },
   {
     "fixture": {
-      "id": 1208349,
-      "referee": "Stuart Attwell, England",
+      "id": 1208357,
+      "referee": "Thomas Bramall, England",
       "timezone": "UTC",
-      "date": "2025-04-20T15:30:00+00:00",
-      "timestamp": 1745163000,
+      "date": "2025-04-27T15:30:00+00:00",
+      "timestamp": 1745767800,
       "periods": {
-        "first": 1745163000,
-        "second": 1745166600
+        "first": 1745767800,
+        "second": 1745771400
       },
       "venue": {
-        "id": 547,
-        "name": "King Power Stadium",
-        "city": "Leicester, Leicestershire"
+        "id": 550,
+        "name": "Anfield",
+        "city": "Liverpool"
       },
       "status": {
         "long": "Match Finished",
         "short": "FT",
         "elapsed": 90,
-        "extra": 8
+        "extra": 5
       }
     },
     "league": {
@@ -519,34 +519,34 @@
       "logo": "https://media.api-sports.io/football/leagues/39.png",
       "flag": "https://media.api-sports.io/flags/gb-eng.svg",
       "season": 2024,
-      "round": "Regular Season - 33",
+      "round": "Regular Season - 34",
       "standings": true
     },
     "teams": {
       "home": {
-        "id": 46,
-        "name": "Leicester",
-        "logo": "https://media.api-sports.io/football/teams/46.png",
-        "winner": false
-      },
-      "away": {
         "id": 40,
         "name": "Liverpool",
         "logo": "https://media.api-sports.io/football/teams/40.png",
         "winner": true
+      },
+      "away": {
+        "id": 47,
+        "name": "Tottenham",
+        "logo": "https://media.api-sports.io/football/teams/47.png",
+        "winner": false
       }
     },
     "goals": {
-      "home": 0,
+      "home": 5,
       "away": 1
     },
     "score": {
       "halftime": {
-        "home": 0,
-        "away": 0
+        "home": 3,
+        "away": 1
       },
       "fulltime": {
-        "home": 0,
+        "home": 5,
         "away": 1
       },
       "extratime": {
